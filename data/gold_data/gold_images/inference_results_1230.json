@@ -1,0 +1,663 @@
+{
+  "paper_name": "Baxter Springs news",
+  "paper_date": "1915-10-28",
+  "paper_city": "Baxter Springs",
+  "paper_state": "Kan.",
+  "paper_url": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/",
+  "lccn": "sn83040592",
+  "volume": "34",
+  "issue": "39",
+  "edition": "1",
+  "pages": {
+    "1": {
+      "page_number": "1",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1230.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1230.xml",
+      "reel_number": "00212474022",
+      "reel_sequence_number": "1230"
+    },
+    "2": {
+      "page_number": "2",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1231.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1231.xml",
+      "reel_number": "00212474022",
+      "reel_sequence_number": "1231"
+    },
+    "3": {
+      "page_number": "3",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1232.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1232.xml",
+      "reel_number": "00212474022",
+      "reel_sequence_number": "1232"
+    }
+  },
+  "page_number": "1",
+  "scan_url": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1230.jp2",
+  "scan_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_jones_ver01/data/sn83040592/00212474022/1915102801/1230.xml",
+  "bboxes": [
+    {
+      "id": 0,
+      "bbox": {
+        "x0": 319,
+        "y0": 3431,
+        "x1": 1699,
+        "y1": 4524
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 1,
+      "bbox": {
+        "x0": 3127,
+        "y0": 1125,
+        "x1": 4479,
+        "y1": 2670
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 2,
+      "bbox": {
+        "x0": 335,
+        "y0": 4578,
+        "x1": 1015,
+        "y1": 5732
+      },
+      "class": "article",
+      "raw_text": "The harvest home festival at the M. E. church is drawing big crowds. The lectures and other numbers on the program are very interesting. The festival will last all the balance of the week. Do not miss a single number. It's free for the going. The agri- cultural decorations are fine. Mrs. Lillian H. Moore of this city is investigator for the Provi- dent Association of Topeka and Shawnee county, and her work calls for many investigations. A short time ago the Topeka Capi- tal criticised her ia some way, but the Capital has taken it all back now. Mrs. Moore is doing a good work, and has the back- ing of all of the best people of Topeka and Shawnee county. A part of her duties are to investi- gate all applications for aid. The building of an electric",
+      "legibility": "Legible"
+    },
+    {
+      "id": 3,
+      "bbox": {
+        "x0": 3204,
+        "y0": 2769,
+        "x1": 4325,
+        "y1": 4596
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 4,
+      "bbox": {
+        "x0": 2404,
+        "y0": 4540,
+        "x1": 3067,
+        "y1": 4993
+      },
+      "class": "article",
+      "raw_text": "B. M. Robinson of Joplin has taken a lease on a part of the Buck land south of town, and he has prospected it enough to know he has a big ore body. He is now having plans drawn for a modern mill. Mr. Robinson, who is a practical mining man, says the dirt will run seven per cent metallic zinc.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 5,
+      "bbox": {
+        "x0": 3105,
+        "y0": 4661,
+        "x1": 4424,
+        "y1": 5820
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 6,
+      "bbox": {
+        "x0": 2426,
+        "y0": 1235,
+        "x1": 3106,
+        "y1": 3525
+      },
+      "class": "article",
+      "raw_text": "Columbus is working tooth and nail for the electric road, and it now looks as if there was going to be mighty little apposition to the bonds in that town. In fact, it looks very nearly unanimous. Columbus known the value of inter-urban roads, and is after all of them she can get. When the electric road was built from Pittsburg to Columbus the town took on new life, and drew hun- dreds of people from the coal mining districts to the north to live in Columbus. People from the country traversed by the road send their children to Columbus to school. All these things made Columbus a good town, and that is one of the reasons she wants this road. And all of these reasons are mighty good ones why Baxter Springs must also have the road. If it is a rood thing for Colum- bus it will be a good thing for Baxter Springs. If the road should be built to Columbus and not to Baxter Springs, . lot of the trade from the west of Bax- ter would be diverted to Colum- bus. We can not allow any such thing as that to happen. And we are glad to know that the opposition to the road in Baxter Springs is growing less every day. Let every good citizen get up into the collar and boost for the road. Friday, Nov. 12, is the day for us to say by our votes whether or not we want it. The answer will be \"yes.\" Of course it will.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 7,
+      "bbox": {
+        "x0": 2404,
+        "y0": 4109,
+        "x1": 3073,
+        "y1": 4513
+      },
+      "class": "article",
+      "raw_text": "It won't be long, now, until big corn stories come ina. And we want you to bring the stories to the News, so we can tell the outside world about what a big corn crop we have in this section. And again, we don't want you to forget the News corn contest. Cash prizes, remember.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 8,
+      "bbox": {
+        "x0": 2404,
+        "y0": 3811,
+        "x1": 3084,
+        "y1": 4083
+      },
+      "class": "article",
+      "raw_text": "Will Waugh left Monday night for Washing, D. c., to look after some business matters. Will is interested in some oil leases down near Muskogee, and some Wash- ington fellows are in with him.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 9,
+      "bbox": {
+        "x0": 1720,
+        "y0": 3580,
+        "x1": 2389,
+        "y1": 3757
+      },
+      "class": "article",
+      "raw_text": "Mr. and Mrs. H. K. Hodges of Peoria were Baxter visitors last Saturday. They made this ofice a pleasant call,",
+      "legibility": "Legible"
+    },
+    {
+      "id": 10,
+      "bbox": {
+        "x0": 1042,
+        "y0": 3039,
+        "x1": 1705,
+        "y1": 3377
+      },
+      "class": "article",
+      "raw_text": "Our 5c, 10c and 25c store is the place to get bargains and the people are finding it out. Extra help on Saturday enables us to give you prompt attention. Buy where your money gets the most. Baxter Supply Co.,, next to P. O.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 11,
+      "bbox": {
+        "x0": 1715,
+        "y0": 4330,
+        "x1": 2389,
+        "y1": 4640
+      },
+      "class": "article",
+      "raw_text": "Homer Seals, who is running the White Eagle mine and mill and making a big output of ore every day, is now doing some good work on the road leading to Baxter. He is having several places fixed.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 12,
+      "bbox": {
+        "x0": 2399,
+        "y0": 5014,
+        "x1": 3067,
+        "y1": 5473
+      },
+      "class": "article",
+      "raw_text": "The old Hannibal & St. Joe mine, southwest of town, isis be- ing put back among the produc- ers. E. F. Sweeney is the super- intendent for the new company, and the mill is being overhauled. It will be ready to mill dirt ia . few days. Workmen are now in the ground and the dirt they are shooting down isis good.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 13,
+      "bbox": {
+        "x0": 1031,
+        "y0": 4970,
+        "x1": 1693,
+        "y1": 5732
+      },
+      "class": "article",
+      "raw_text": "We do not want our farmer friends to forget that we are go- ing to give some cash prizes for big corn very soon. Next week or maybe the week after we will publish the conditions and the list of prizes we will give. They will be prizes worth while. for they will be cash prizes, and cash is always acceptable. The con- ditions will be easy and they will be fair, too. One of the condi- tions will be that the entrants must be subscribers to the News and ina good standing. The bal- ance of the conditions and the dates will be announced later.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 14,
+      "bbox": {
+        "x0": 1715,
+        "y0": 4026,
+        "x1": 2394,
+        "y1": 4298
+      },
+      "class": "article",
+      "raw_text": "Mr and Mrs. Ray Sandridge, Mr. G. B. Marshall, Miss Neva Hammer and Miss Laura Arm- strong came over from Joplin last Thursday evening to visit for a few hours.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 15,
+      "bbox": {
+        "x0": 391,
+        "y0": 303,
+        "x1": 4474,
+        "y1": 1071
+      },
+      "class": "newspaper_header",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 16,
+      "bbox": {
+        "x0": 1047,
+        "y0": 2609,
+        "x1": 1705,
+        "y1": 2797
+      },
+      "class": "article",
+      "raw_text": "Give us a chance and we will convince you that we undersell others on dependable merchant dise. Baxter Supply Co.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 17,
+      "bbox": {
+        "x0": 1042,
+        "y0": 2824,
+        "x1": 1699,
+        "y1": 3012
+      },
+      "class": "article",
+      "raw_text": "Turning for Sale-Almost at your price if you pull them. Karl Kain, one mile west and one mile north of Baxter.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 18,
+      "bbox": {
+        "x0": 1709,
+        "y0": 4661,
+        "x1": 2383,
+        "y1": 5114
+      },
+      "class": "article",
+      "raw_text": "For four hundred dollars can sell you a nice home in Baxter Springs. The house has four rooms, a rood barn, three lots, and is close ina. If you can pay $150 down I will give you a con- tract for deed to be delivered upon payment of the balance, so you need not give a mortgage back. Chas. L. Smith.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 19,
+      "bbox": {
+        "x0": 1726,
+        "y0": 2984,
+        "x1": 2394,
+        "y1": 3156
+      },
+      "class": "article",
+      "raw_text": "Misses Hazel and Oka Rowe of Columbus spent Wednesday event ing with their aunt, Mrs. L. L. Cardin.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 20,
+      "bbox": {
+        "x0": 2410,
+        "y0": 3563,
+        "x1": 3084,
+        "y1": 3785
+      },
+      "class": "article",
+      "raw_text": "Misses Ethel Bunch and Laura Armstrong; and Messrs. Chas. Patterson, Jr., and Jack Clayton of Joplin spent Sunday in this city.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 21,
+      "bbox": {
+        "x0": 319,
+        "y0": 5946,
+        "x1": 1688,
+        "y1": 6841
+      },
+      "class": "table",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 22,
+      "bbox": {
+        "x0": 1715,
+        "y0": 3789,
+        "x1": 2394,
+        "y1": 4011
+      },
+      "class": "article",
+      "raw_text": "Mrs. E. L. Wright entertained the Reciprocity club last Friday afternoon. Mrs. Opperman was a guest. Dainty refreshments were served.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 23,
+      "bbox": {
+        "x0": 1720,
+        "y0": 3381,
+        "x1": 2394,
+        "y1": 3553
+      },
+      "class": "article",
+      "raw_text": "Mrs. o. N. Baldwin returned Sunday from a visit with her father, H. H. Rueter, at Chad- wick. Mo.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 24,
+      "bbox": {
+        "x0": 1726,
+        "y0": 2653,
+        "x1": 2400,
+        "y1": 2792
+      },
+      "class": "article",
+      "raw_text": "G. F. Carlton of Fort Scott is visiting the family of J. Ban- ning, southwest of town.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 25,
+      "bbox": {
+        "x0": 346,
+        "y0": 2570,
+        "x1": 1026,
+        "y1": 2753
+      },
+      "class": "article",
+      "raw_text": "For Plumbing, repairing, and pump work, call up Edymond Johnson, Baxter's Plumber. Phone 162.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 26,
+      "bbox": {
+        "x0": 341,
+        "y0": 5775,
+        "x1": 1688,
+        "y1": 5925
+      },
+      "class": "headline",
+      "raw_text": "COOL HEATHER SPECIALS.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 27,
+      "bbox": {
+        "x0": 1047,
+        "y0": 2432,
+        "x1": 1705,
+        "y1": 2577
+      },
+      "class": "article",
+      "raw_text": "Jim Goodwin returned Monday night from a business trip o| several days to Kansas City.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 28,
+      "bbox": {
+        "x0": 396,
+        "y0": 1136,
+        "x1": 1682,
+        "y1": 2356
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 29,
+      "bbox": {
+        "x0": 2465,
+        "y0": 1114,
+        "x1": 3089,
+        "y1": 1214
+      },
+      "class": "headline",
+      "raw_text": "We Must Have lt.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 30,
+      "bbox": {
+        "x0": 1720,
+        "y0": 3182,
+        "x1": 2394,
+        "y1": 3354
+      },
+      "class": "article",
+      "raw_text": "Mrs. Ed. Hiatt entertained the Justamere club last Friday after- noon. Dainty refreshments were served",
+      "legibility": "Legible"
+    },
+    {
+      "id": 31,
+      "bbox": {
+        "x0": 1726,
+        "y0": 2349,
+        "x1": 2405,
+        "y1": 2477
+      },
+      "class": "article",
+      "raw_text": "Mr. and Mrs. Fred Rueter of Chadwick, Mo-, are here visiting relatives.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 32,
+      "bbox": {
+        "x0": 1726,
+        "y0": 2504,
+        "x1": 2405,
+        "y1": 2632
+      },
+      "class": "article",
+      "raw_text": "Mrs. Geo. D. Allen spent the week end with Mrs. Wm. Brooks at Melrose.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 33,
+      "bbox": {
+        "x0": 1726,
+        "y0": 2818,
+        "x1": 2394,
+        "y1": 2957
+      },
+      "class": "article",
+      "raw_text": "Charlie Croy is here from Mil- waukee to spend the winter with his sister, Mrs. J. R. Watson.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 34,
+      "bbox": {
+        "x0": 3077,
+        "y0": 5880,
+        "x1": 3740,
+        "y1": 6830
+      },
+      "class": "article",
+      "raw_text": "For best teams and service in hauling see Walt Sullivan. We pay the highest market price for all grades of wheat. Barter Mill and Elevator. Come ina and see . real sanitary market, where only the best meats are sold. R. F. Hartley & Son. Mrs. Keplinger, near Lowell, has nice winter apples for sale. Also pure blood Barred Rock chickens. Mr. and Mrs. C. E. Dent of Tulsa spent Sanday with Mr. Dent's mother in this city. They returned to Tulsa Monday, ac- companied by Mrs. Jennie Ash- nfi~St",
+      "legibility": "Legible"
+    },
+    {
+      "id": 35,
+      "bbox": {
+        "x0": 1031,
+        "y0": 4578,
+        "x1": 1693,
+        "y1": 4943
+      },
+      "class": "article",
+      "raw_text": "line into and through Baxter to the surrounding towns will in- crease real estate values to a point where it will be profitable to own real estate. And if you have real estate you want to sell you can get handsome profits out of it.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 36,
+      "bbox": {
+        "x0": 358,
+        "y0": 2438,
+        "x1": 1026,
+        "y1": 2544
+      },
+      "class": "article",
+      "raw_text": "Fresh cow for sale, Ed John son.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 37,
+      "bbox": {
+        "x0": 341,
+        "y0": 3011,
+        "x1": 1026,
+        "y1": 3388
+      },
+      "class": "article",
+      "raw_text": "Roy Labadie, an old Baxter boy, was married at Huntington Beach, Cal on Wednesday, Oct. 6, to Miss Gladys Gertrude French, a young lady of that city. The News force acknow- ledges receipt of some wedding cigars.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 38,
+      "bbox": {
+        "x0": 352,
+        "y0": 2785,
+        "x1": 1026,
+        "y1": 2974
+      },
+      "class": "article",
+      "raw_text": "Mrs. L. C. Wells and sister, Anne Stewart, spent Sunday in this city, the guest of the Chas. L. Smith family.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 39,
+      "bbox": {
+        "x0": 3761,
+        "y0": 6045,
+        "x1": 4424,
+        "y1": 6190
+      },
+      "class": "article",
+      "raw_text": "Mrs. Susie Harris of Columbus, Ohio, is here visiting her broth- er, Tom and Jim Carter.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 40,
+      "bbox": {
+        "x0": 3761,
+        "y0": 5869,
+        "x1": 4430,
+        "y1": 6013
+      },
+      "class": "article",
+      "raw_text": "PMrsbufohsrAsIardI2 E2o psr p0nnd. I0 pound paM 4L00. Z<bMboP & Co.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 41,
+      "bbox": {
+        "x0": 3756,
+        "y0": 6216,
+        "x1": 4435,
+        "y1": 6482
+      },
+      "class": "article",
+      "raw_text": "Mrs. T. H. Goodwin retnrned last Saturday from trip through the West. She was in Denver several weeks, and on her way home stopped off in Kansas City for . visit",
+      "legibility": "Legible"
+    },
+    {
+      "id": 42,
+      "bbox": {
+        "x0": 1731,
+        "y0": 2190,
+        "x1": 2405,
+        "y1": 2323
+      },
+      "class": "article",
+      "raw_text": "Miss Hazel Halcomb of Colum- bus visited Mr. and Mrs. Cardin Wednesday.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 43,
+      "bbox": {
+        "x0": 1731,
+        "y0": 2035,
+        "x1": 2411,
+        "y1": 2168
+      },
+      "class": "article",
+      "raw_text": "Little Josephine Johnson is recovering from a long spell of sickness.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 44,
+      "bbox": {
+        "x0": 3756,
+        "y0": 6509,
+        "x1": 4435,
+        "y1": 6830
+      },
+      "class": "article",
+      "raw_text": "Ted and Elmer Shutters have gold their Frisro restanrant to Miss Hndson, who has been in their employ for some time. Ted and Eimer have rented . tir fsrn near Arbury. Tns, ssi",
+      "legibility": "Legible"
+    },
+    {
+      "id": 45,
+      "bbox": {
+        "x0": 1709,
+        "y0": 5146,
+        "x1": 2383,
+        "y1": 6835
+      },
+      "class": "article",
+      "raw_text": "A linemau working for the Empire District Company near Lowell Tuesday was hurt in a peculiar manner. He was work- ing on . high pole near a loose brace pole, from which a wire was dangling. An automobile became entangled in the wire and jerked the loose pole against the lineman, who would have gotten a bad fall from his lofty perch but for his safety strap. As it was, his head was cut bad: ly enough to require two stitches by Dr. Mutz, who attended him, Bob Frazier, Dick Armstrong and Jim Dameron were here from Neosho township last Thursday. Bob brought us . nice mess of fish. He is going to be . candis date for sheriff nert fall. Bob moved out onto . Neosho town- ship farm from Columbus a few years ago, and he had to go deeply into debt to get the farm. and get started to farming. He is now free of debt, has increased his acreage, has . nice home. lots of stock around him and drives . big Overland car. He worked hard to get and enjoy ail these things. and now he thinks he would like to serve the people as sheriff. They will give him the nomination and elect him, and he will make - enception- >ilr s",
+      "legibility": "Legible"
+    },
+    {
+      "id": 46,
+      "bbox": {
+        "x0": 2393,
+        "y0": 5499,
+        "x1": 3067,
+        "y1": 6085
+      },
+      "class": "article",
+      "raw_text": "Willard Shults has just finish- ed a big addition to the farm home of Dan Miller, northwest of. town, and has remodeled the main house. Last Friday night when Ban was getting ready to turn ina for the night about fifty of his friends appeared on the scene and postponed his sleep for him. They came to give he and his wife an old-fashioned house warming. and it was mighty late before they left.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 47,
+      "bbox": {
+        "x0": 2393,
+        "y0": 6112,
+        "x1": 3062,
+        "y1": 6835
+      },
+      "class": "article",
+      "raw_text": "On last Weduesday afternoon Mrs. C. F. Polster very pleasant- !y entertained the Poinsetta club at her home in honor of her neice. Miss Lucille Miller, of Manilla, Iowa. In . conversa- tional contest the prize. . dainty plate. was won by Mrs. Harmon. Delicious refreshments were ser wed. Besides the members of the club. other guests were Mrs. Kelly Carmichael, Mrs. John Polster. Mrs. Ed. Polster. Mrs. L. B. Harmon of Chattanooga, Tenn, Mi2 Parscns of Denver,l srs",
+      "legibility": "Legible"
+    },
+    {
+      "id": 48,
+      "bbox": {
+        "x0": 1748,
+        "y0": 1307,
+        "x1": 2416,
+        "y1": 1402
+      },
+      "class": "article",
+      "raw_text": "FOR SALE-Some nice Wal- nut logs. A. C. Edrington.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 49,
+      "bbox": {
+        "x0": 1742,
+        "y0": 1423,
+        "x1": 2422,
+        "y1": 1545
+      },
+      "class": "article",
+      "raw_text": "Clare Rehm of Columbus spent Sunday with his parents in this ritv",
+      "legibility": "Legible"
+    },
+    {
+      "id": 50,
+      "bbox": {
+        "x0": 1731,
+        "y0": 1886,
+        "x1": 2411,
+        "y1": 2014
+      },
+      "class": "article",
+      "raw_text": "For Rent- Five nicely fur- nished rooms. Mrs. T. H. Goodwin.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 51,
+      "bbox": {
+        "x0": 1748,
+        "y0": 1732,
+        "x1": 2411,
+        "y1": 1860
+      },
+      "class": "article",
+      "raw_text": "Mrs. J. H. Boswell entertained the As You Like It club Monday afternoon.",
+      "legibility": "Legible"
+    }
+  ]
+}

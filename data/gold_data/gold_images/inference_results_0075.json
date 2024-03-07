@@ -1,0 +1,942 @@
+{
+  "paper_name": "Evening star",
+  "paper_date": "1909-05-07",
+  "paper_city": "Washington",
+  "paper_state": "D.C.",
+  "paper_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/",
+  "lccn": "sn83045462",
+  "volume": "",
+  "issue": "",
+  "edition": "1",
+  "pages": {
+    "1": {
+      "page_number": "1",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0075.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0075.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "75"
+    },
+    "2": {
+      "page_number": "2",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0076.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0076.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "76"
+    },
+    "3": {
+      "page_number": "3",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0077.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0077.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "77"
+    },
+    "4": {
+      "page_number": "4",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0078.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0078.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "78"
+    },
+    "5": {
+      "page_number": "5",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0079.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0079.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "79"
+    },
+    "6": {
+      "page_number": "6",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0080.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0080.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "80"
+    },
+    "7": {
+      "page_number": "7",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0081.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0081.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "81"
+    },
+    "8": {
+      "page_number": "8",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0082.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0082.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "82"
+    },
+    "9": {
+      "page_number": "9",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0083.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0083.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "83"
+    },
+    "10": {
+      "page_number": "10",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0084.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0084.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "84"
+    },
+    "11": {
+      "page_number": "11",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0085.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0085.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "85"
+    },
+    "12": {
+      "page_number": "12",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0086.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0086.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "86"
+    },
+    "13": {
+      "page_number": "13",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0087.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0087.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "87"
+    },
+    "14": {
+      "page_number": "14",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0088.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0088.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "88"
+    },
+    "15": {
+      "page_number": "15",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0089.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0089.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "89"
+    },
+    "16": {
+      "page_number": "16",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0090.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0090.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "90"
+    },
+    "17": {
+      "page_number": "17",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0091.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0091.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "91"
+    },
+    "18": {
+      "page_number": "18",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0092.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0092.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "92"
+    },
+    "19": {
+      "page_number": "19",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0093.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0093.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "93"
+    },
+    "20": {
+      "page_number": "20",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0094.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0094.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "94"
+    },
+    "21": {
+      "page_number": "21",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0095.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0095.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "95"
+    },
+    "22": {
+      "page_number": "22",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0096.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0096.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "96"
+    },
+    "23": {
+      "page_number": "23",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0097.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0097.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "97"
+    },
+    "24": {
+      "page_number": "24",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0098.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0098.xml",
+      "reel_number": "00280656124",
+      "reel_sequence_number": "98"
+    }
+  },
+  "page_number": "1",
+  "scan_url": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0075.jp2",
+  "scan_ocr": "https://chroniclingamerica.loc.gov/data/batches/dlc_ood_ver01/data/sn83045462/00280656124/1909050701/0075.xml",
+  "bboxes": [
+    {
+      "id": 0,
+      "bbox": {
+        "x0": 2029,
+        "y0": 1185,
+        "x1": 4737,
+        "y1": 4088
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 1,
+      "bbox": {
+        "x0": 2936,
+        "y0": 4815,
+        "x1": 3837,
+        "y1": 6630
+      },
+      "class": "article",
+      "raw_text": "NEW YORK. May 7.-Charles W Morse. the former banker. who is now in the Tombs prison under sentence for violation of the national banking law has not a share of stock, a bond or a piece of real estate left of his former estate of an estimated value of $3o,- 00o,GOO, according to evidence which he gave in supplementary proceedings made public today Moore was at one time one of the largest holders of securities of the $60,0O0,Oo( Consolidated Steamship Company and controlled three national banks. He testi- fied in the supplementary proceeding that he had given all his property to creditors to secure his debts. and declared that he did not know whether the cred itors had sold him out, but asserted thai if there was any surplus derived from such sales it would only go to othel creditors who have obtained judgments against him, and that he personally woul( receive none of the proceeds of the sales. Mr. Morse said that the largest amount of bank stock which he formerly owned was hypothecated \"in some twenty-odC hundred banks through Moseley & Co' He stated that he owed E. J. Berwin( $1 140,o0O. and that he gave Mr. Berwind $1,oOo.00O of Consolidated Steamship stock and his residence on 5th avenue, all o1 which, Mr. Morse said, was insufficient to cover his indebtedness to Mr. Ber- wind. Morse gave other property on 5th avenue to Moseley & Co. to pay off loans made to him. Mr Morse said that no member of his family had any property in which he was interested. that he had no claims against anybody, that he never loaned money personally and that he never kepi set of books.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 2,
+      "bbox": {
+        "x0": 3866,
+        "y0": 5535,
+        "x1": 4774,
+        "y1": 8318
+      },
+      "class": "article",
+      "raw_text": "It was Senator C1app of Minnesota who read a lecture to Senator Aldrich, chair man of the finance committees, and the other high protectionists in the Senate today He joined the other republican insurgent-revisionists in warning Mr. Ald- rich that unless the promise of the plat form of 1908 was kept the tariff would be revised by the enemies of protection two years hence. Mr Clapp started off by asking: \"Where are we?\" and saying that some mighty strange doctrines had been propounded said he was a protectionist, but favored the promised revision downward. It would be impossible in his opinion for the democrats and \"progressiVe\" repub- licans to join forces all along the line, owing to the difference in their principles. He appealed to the high-protection ad- vocates to do the trick. \"Howling Farce,\" Says He. He ridiculed the idea that the platform declare for revision downward in spirit and was not so understood. \"If it meant that we were to stand by iaW, w are confronted by the ridiculous spectacle of the chief executive calling us in special session to reaffirm for all time something that doesn't need reaffirming. If it did not mean revision downward the whole thing is a farce. \"If l thought we were here to reafirm the Dingley law, I would pack my grip and go home at once for I am not re- .quired by my oath as a senator to par- ticipate in such a farce\" He Labels \"the Enemy.\" It was rumored, continued the Minne- sotan, that those who promised revision downward would not be able to carry out their promise. He didn't believe that, but thought when the bill was complete it would be a fair reduction. \"The enemy of protection today,\" he declared, ..is the man who, having the power abuses it. You may not heed the clamor today, but in two years you will be driven to it and will learn that the people are determined to have it. Look Two Years Ahead! \"If you don't do it now you will find that in two years the enemies of pro- tection will revise the tariff. You will either redeem that promise now or the people will arise in their wrath and strike down the whole principle for which we re- publcans contend.\"",
+      "legibility": "Legible"
+    },
+    {
+      "id": 3,
+      "bbox": {
+        "x0": 1084,
+        "y0": 5250,
+        "x1": 1984,
+        "y1": 6420
+      },
+      "class": "article",
+      "raw_text": "Killed in Chicago. CHICAGO. May 7.-Four-year-old Paul Maurice Montfort, who was killed yester- day by falling through a window of a South Side elevated train to the sidewalk, was known among his friends as \"the most photographed boy in America\" His father. A. w. Mohtfort. is a photographer who does a large amount of commercial work, and whenever a firm wished a baby boys picture to advertise its goods Mr. Montfort used his little son as a model. Some of the firms using the boys picture are national advertisers. and thus the face of the lad has looked from street cars, newspapers. magazines and bilboards upon residences of hundreds of towns and cities. In one of his most widely known poses the boy is smiling as a brand of talcum powder is being shaken over him. In an- other noted pose he is playing with a safety razor and laughing. Millions of persons have seen his picture taken while seated upon a tin bath tub amusing him- self with a cake of soap.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 4,
+      "bbox": {
+        "x0": 3866,
+        "y0": 8557,
+        "x1": 4774,
+        "y1": 9308
+      },
+      "class": "article",
+      "raw_text": "ST. JOHNS, N. F.. May 7.-The steamer Lake Champlain, bound from Liverpool for Montreal. put in here today leaking from a hole stove in her bow by heavy ice off Cape Race yesterday. There are about a thousand passengers on board. The vessel made water so fast that it was considered unsafe to proceed to her destination. and it was decided to dock her for temporary repairs. The Lake Champlain left Liverpool April 28 for Montreal. in command of Capt. Webster She is steamer of 4.6S5 tons .net and is owned by the Canadian Pacific Railway Company. She was buiit sin Glasgow in 1900.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 5,
+      "bbox": {
+        "x0": 1076,
+        "y0": 2527,
+        "x1": 1992,
+        "y1": 5040
+      },
+      "class": "article",
+      "raw_text": "CHICAGO, May 7.-High officials of the Pennsylvania lines experienced a thrilling escape today from fire which destroyed the special car on which they were travel ing from Pittsburg to Chicago. The off, fcials were First Vice President Joseph Wood. Second Vice President J. J. Tur- ner and Chief Engineer Thomas. Rodd. Mr. Turner escaped through a window The Pennsylvania special, to which special car No. T2O5 was attached, was Davis station. Indiana, when at 6 ann. the fire was discovered by Mr. Wood Mr. Wood signaled the train to stop. shouting an alarm to Messrs. Turner and Rodd. The latter and Mr. Wood were near the doors and escaped in extreme neglige as the train came to a stop. Exit Blocked by Flames. Meanwhile Mr. Turner, occupying compartment near the center of the car, aroused by the heat and the shouts of his companions, opened the corridor door only to find his exit blocked by the flames, which had been famed to fury by the rapid rate at which the train was moving. He promptly turned to the window and smashed the glass with his I1SU, no OUner 1nStrufnenU De1nS dU nand, the sash refusing to budge. The train, however. was obeying Mr. Woods signal with prodigious jerks, which alarmed the entire passenger list, and presently came to a standstill at tower S. Here the train crew from the outside succeeded in raising the sash, and Mr. Turner was assisted to safety with no injury more serious than a slightly cut hand. Salvaged Their Clothes. The crew likewise made salvage of the raiment in the burning car. The car was then shunted onto a siding and left to burn. The train pulled into Chicago minus one car, but otherwise none the worse for the experience. The officials came wsst from Pittsburg on routine trip and -stopped only a short time in this city-just long enough, in fact, to catch the first train back to Pittsburg. The fire is believed to have been due to crossed electric wires, although there ts a possibility that it started from a spark from the locomotive.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 6,
+      "bbox": {
+        "x0": 1091,
+        "y0": 8775,
+        "x1": 1992,
+        "y1": 9308
+      },
+      "class": "article",
+      "raw_text": "MILWAUKEE Wis, May 7.-Judge Henry L. Palmer. until . week ago rank- ing Mason in America. and formerly president. of the Northwestern Mutual Life Insurance Company. died early this morning. aged nearly ninety years. Judge Palmer only last week resigned as the head of the northern jurisdiction of Masonry after a service in that capacity since 1sYo. He was president of the in- surance company for about forty years.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 7,
+      "bbox": {
+        "x0": 2006,
+        "y0": 5490,
+        "x1": 2922,
+        "y1": 9308
+      },
+      "class": "article",
+      "raw_text": "PARIS, May 7.-Both public sympathy and the law seem today to be clearly against the Posts, Telegraphs and Tele- phones Employers Association, which yes- terday threw down the gage of battle to the government by transforming itself into a syndicate, or union, under the laws of 1S84. This would place the association on the same footing as the workmen's unions. The action was calculated to give it the right to strike against its employer, the state. Strike Proposition Referred. The congress of railroad men, at a secret session held today. decided to sub- mit the question of a general strike to a referendum and appointed permanent strike committee. Dispatches received here from Havre Lyons and other cities say that the Posts. Telegraphs and Telephones Em- ployes' Association has voted in principle for a general strike. The newspapers this morning, with the exception of the extreme socialist or- sans, are unsparing in their denunciation of the step taken by the association as an act of rebellion. They urge the gov- ernment to proceed with energy and crush the insurrection before the movement in- gulfs the other categories of state em- poyes. Federation Directs Plan. Evidence accumulates today that the formation of this union yesterday was only the first step in a far-reaching plan of the General Federation of Labor to place the entire machinery of the gov- ernment at its mercy. The law of 1854 limits unions to pro- fessions and trades engaged in \"com- petitive industry\" The attorney general of the republic is to decide summarily that the \"syndicate\" is illegal and order its dissolution. As soon as this is done the organizers of the movement will be subject to heavy fines and imprisonment if they persist in meeting. The issue between the \"syndicaliets\" drawn by yesterdays events A general strike is considered probable in the im- meulate future. Government Will Fight. The government. which is preparing 4or the threatened conflict. has caused the word to go out that it intends to gov- ern. When the delegates of the various cat egories of employees in the bureau of posts and telegraphs visited the ministry of the interior. where they expected to find Pre- mier Clemenceau, yesterday morning. they were told that he was not in. They bore a letter granting their request for an audience. It is true M. Clemen- ceau has been ill for several weeks, but no explanation was made. What steps the disaffected employees will taKe is not yet known. The day has been spent in perfecting their organization. The government further defied its emi- ployes yesterday by suspending M. Pau- ron leader of the recent strike. Under the personal direction of the premier and Minister of Labor Barthou energetic measures have been taken against a walkout Ten thousand candidates for postal work have been enrolled. Guards have been placed over the telegraph and tele- phone switchboards. Automobils have been reserved. Sol- diers have been trained for postal work.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 8,
+      "bbox": {
+        "x0": 4796,
+        "y0": 8362,
+        "x1": 5704,
+        "y1": 9300
+      },
+      "class": "article",
+      "raw_text": "PORTLAND, Ore.. May 7.-The fetng of twelve Japanese officers of the cruising fleet visiting Pacific ports in Portland, June 7 and S, is expected to furnish the best possible evidence that a genuine \"en- tents cordiale\" exists between the United States and Nippon Headed by Admiral Ijichi. the oncers will arrive in Portland the morning of June 7. the first day of the rose festivai Everything possible that can be displayed in Portland in a scenic way will be shown to the visitors. The feature of the visit will be ban- quet to be given by representative clt- zens at the Portland Hotel. Three hundred guests are expected to attend the banquet. Following the ban- quet a reception will be held Ey Consul Numane of Portland in honor of his coun- trymen, to which the consul said 5,o0o invitations would be issued.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 9,
+      "bbox": {
+        "x0": 4796,
+        "y0": 7267,
+        "x1": 5704,
+        "y1": 8115
+      },
+      "class": "article",
+      "raw_text": "DANVILLE, Ill.,, May 7.-While sleep- ing in the ante-room of his study, Father Scrippo of the Westville Roman Catholic Church was fired upon by three men armed with shotguns. The walls were rid- dled with shot from five charges and the glass door was shattered. The shot pass- ing over his bed were imbedded in the wall at his side. aFther Scrippo says: \"I received a letter a few days ago signed .Parishioners' which warned me that I had better leave town at once or would be killed. I have known that an attempt would be made to do me violence. [ ann ready and willing to give up my life if only die doing my duty\" The cause for the shooting, Father Scrippo says. is his activity against the liquor element.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 10,
+      "bbox": {
+        "x0": 1084,
+        "y0": 8017,
+        "x1": 1984,
+        "y1": 8640
+      },
+      "class": "article",
+      "raw_text": "SpUcfHI IlspHtch IU Ine StUr. PITTSBURG, Pa., May 7.-Four per- sons were injured early this morning in a fight followed by a raid upon the home of Tony Tarraco. in Upland street when the police attempted to arrest Tarraco for stabbing William Vaught. an Amer ican Many shots were exchanged in the battle, and the Italian, after accidentally shooting his wife, was himself shot by a policeman. but before being captured he shot one of the ofIicerS.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 11,
+      "bbox": {
+        "x0": 1084,
+        "y0": 6660,
+        "x1": 1984,
+        "y1": 7283
+      },
+      "class": "article",
+      "raw_text": "SEATTLE, Wash. May 7.-Dr Hush Ross. aged sixty-four, a pioneer among medical men on the Pacific coast and a former Red Cross surgeon, is dead at his home here. While in the Red Cross service in Manila during the Spanish- American war he furnished drugs and other necessities out of his own purse expecting to be reimbursed later When President Taft as president of the Red Cross Society. was in California he was served with a writ to recover brought by Dr. Ross, but the proceedings were non-suited for lack of jurisdiction.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 12,
+      "bbox": {
+        "x0": 2944,
+        "y0": 6727,
+        "x1": 3844,
+        "y1": 7170
+      },
+      "class": "article",
+      "raw_text": "MUNICH. May 7.-Count Zeppelin said posed airship trip from Friedrichshafen to Berlin would be undertaken before long. but as the journey depended upon weather conditions he was unable now to name the date. The trip was suggested by Emperor William.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 13,
+      "bbox": {
+        "x0": 5719,
+        "y0": 2550,
+        "x1": 6642,
+        "y1": 9345
+      },
+      "class": "article",
+      "raw_text": "Albert H. Willard, who shot and RnsoM Irving W. Beck. husband of Willard's fourteen-year-old daughter. at .the latter's grocery store, 2d and N streets southeast. yesterday afternoon. was committed to jail this afternoon after a jury. impan- eled by Coroner Nevitt. had returned . verdict holding him responsible for the crime. Mrs. Willard and the child wife were on hand at the morgue long before the hour appointed for the hearing to be- gin. A crowd of the curious was already on hand. \"We only want to see the little wife.\" several female spectators admitted. and disappeared after their curiosity had been satisfied. The child wife. dressed fn white and wearing a hat trimmed with white lace and green vines. occupied . seat beside her mother, while her father sat at the table with his counsel. T. c. Taylor. As- sistant United States Attorney Charles H. Turner was present with Detective McNamee to look after the interests of the prosecution, and when the hearing had been concluded they took the state ments of several witnesses. On her way from the morgue Dorothy Beck stopped long enough to recognize her father. but showed no emotion. Beck Funeral Nest Monday. Undertaker Thomas R. Nalley took charge of the body of Beck this after- noon and removed it from the morgue to his establishment. 1231 11th street southeast. Arrangements have been made for the funeral to take placo Mon- day afternoon at o'clock. Interment will be at Glenwood. Proceedings at the Inquest. Dr. Thomas A. Lee. assistant resident physician at the Casualty Hospital, the first witness examined. testified that Beck was brought to the hospital yestcrday afternoon in tle automobile of Thomas W. Smith. Beck was in a dying condi- tion. the result of three bullet wounds, two in the chest and one in tho left side. Dr. Wellington was summoned to the hos- pital and the wounded man was placed on the operating table. It was found that one bullet had penetrated the liver of the wounded man. and that his life could not be saved. Sergt. Ryan of the fifth precinct testi- ied that he went to the scene of the shooting yesterday afternoon and found a crowd on the sidewalk. Some of the men in the crowd were holding Willard down and witness told them to release him. About that time he saw . man slip a white-handled pistol to Capt. Williams. \"Have you the pistol?\" asked the coro- ner. \"Yes. sir.\" responded the witness, turn- ing over the weapon. \"Is it loaded?\" \"No, sir.\" \"Who unloaded it?\" \"Capt. Williams\" The coroner questioned Capt. Williams, who said three chambers were empty when Adolph Arneson gave him the weapon. Arneson, fireman at the Penn- sylvania station, who testified that he was acquainted with Beck, was on his way home yesterday when he saw Wil- lard come out of Lorenzo Simis' saloon at New Jersey avenue and street. He had heard of the trouble in the morning, and when he saw Willard go in the di- rection of the Beck store he followed. Followed \"to See a Scrap.\" Arneson said he thought there was going to be a scrap, but did not antici- pate any shooting. \"When I got about half a square from the store\" said witness, I heard the shooting\" .Did you know Willard? \"Yes, sir. I have known him about two yearS.\" witness said he saw Willard enter the store, and also saw him when he came out with the pistol in his hand. \"A man named Jackson.\" witness stat- ed, .jumped Willard and knocked the weapon out of his hand\" The men engaged in a wrestle. A col- ored man picked up the revolver and handed it to witness. \"Is this the weaponT asked the cor- oner, exhibiting the revolver. \"It is. It had two bullets in it.\" Hoped He Was Dead. Witness held Willard until the police came. Willard asked him if he thought Beck was dead, and he replied in the affirmative. Willard, he said, remarked: \"I hope to the Lord he is dead. If he is dead l feel happy and if he ain't dead I don't feel happy\" Gilbert Jackson. employed as inspector for the District, testified that he entered the store of Beck about 12:40 o'clock yes- terday to buy a sandwich, and whiIe there he saw Beck and several relatives. He had been in there seven or eight minutes, when Willard came in and said something which he did not understand. \"And.\" added witness, \"Then came- bang. bang, bang, willard fell from the steps and witness held him until the police came. Willard. while down. cried, \"If I killed him Im  didnt I'm the saddest. Edward Alfred Hoffman of 202 N street. a clerk in the Beck store. testifed that Willard entered the store and asked Mr. Reck about his (Willard's) daughter. Beck replied that Dorothy had told him she would not return home. .Where was Dorothy at that times? \"Up town. She was at 1o6 Indiana avenue.\" \"Mother, Will DieP\" witness saw Willard fire one shot and he (witness) ran from the store to the house. Two more shots were fired. Beck asked his mother if she thought he would die, and she told him \"no.\" The wounded man, he said, also asked for his wife. He seemed to know no one in the house save his mother. * \"what was Mr. Beck doing when the first shot was fired? ..He was weighing ginger snaps for . boy named Wilson.\" Fred .Zuschnitt, brother-in-law of the dead man, testified that when Willard en- tered the store he asked Beck \"What ars you going to do about it? Beck replied that Dorothy had said -shs did not want to see him or have \"AU ",
+      "legibility": "Legible"
+    },
+    {
+      "id": 14,
+      "bbox": {
+        "x0": 3004,
+        "y0": 8242,
+        "x1": 3792,
+        "y1": 8535
+      },
+      "class": "article",
+      "raw_text": "Of this circulation over 36,000 homes i: Washington received The Sunday Star. The balance of the papers were sent out of town, mostly to subscribers ln nearby suburbs.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 15,
+      "bbox": {
+        "x0": 3004,
+        "y0": 8895,
+        "x1": 3784,
+        "y1": 9158
+      },
+      "class": "article",
+      "raw_text": "Avertisers appreclate the fact that The Star, daily and Sum- day. reaches the homes of ail classes in Washlngton, rich and poor alike, every day of the year.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 16,
+      "bbox": {
+        "x0": 1076,
+        "y0": 7537,
+        "x1": 1984,
+        "y1": 7898
+      },
+      "class": "article",
+      "raw_text": "Special Dispatch to The Star. RICHMOND, Va.. May 7.-Lewis M. Jenkins. colored the fifth of the negro men engaged in the Powhatan robbery, murder and burning, went to his death in the electric chair in the penitentiary here ths morning. at Y:25 o'clock. He made no statement.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 17,
+      "bbox": {
+        "x0": 1076,
+        "y0": 1140,
+        "x1": 1992,
+        "y1": 2453
+      },
+      "class": "headline",
+      "raw_text": "SPECIAL CAR ON FIRE Officials of Pennsylvania Lines Have Thrilling Escape. GREAT SPEED FANS FLAMES Vice President Turner Smashes Win- dow With His Fist. ALL IN EXTREME NEGLIGE Blazing Special Sidetracked and Left to Burn-Crossed Electric Wires Probably Responsible.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 18,
+      "bbox": {
+        "x0": 2014,
+        "y0": 5212,
+        "x1": 2907,
+        "y1": 5430
+      },
+      "class": "headline",
+      "raw_text": "General Strike Considered Probable as Result of Yesterday's Events. Pauron Dismissed.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 19,
+      "bbox": {
+        "x0": 2944,
+        "y0": 4545,
+        "x1": 3837,
+        "y1": 4748
+      },
+      "class": "headline",
+      "raw_text": "Financier Under Prison Sentence for Violating Banking Laws Testifies in Supplementary Proceedings",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 20,
+      "bbox": {
+        "x0": 4774,
+        "y0": 2565,
+        "x1": 5697,
+        "y1": 7013
+      },
+      "class": "article",
+      "raw_text": "iIIS iiySttIy OL LIiS iAAt A\"iiii tration reared its head at the White House today. But it soon pulled its head in and inquiries began to fly, and now both head and tall are out of sight. There's something curious about it all. as would be natural with any frst-class mystery. For two days members of the Senate committee on judiciary have been drop- ping in upon the President, by invitation from the chief executive They have been dropping out as noiselessly as they knew how. They have been turning down all questions at the rate of 9o8 a minutes, at the same time giving the tip that the President had put them under a special inhibition of confluence This morning he talked with Senators Culberson, Rayner, Bacon and Paynter, democratic members of the committee He saw Senator Overt man, another democrat, yesterday, and likewise talked with Senators Clark. Dil- lingham, Piles, Warner and Borah, re- publicans. They all wore the solemn look the democrats carried with them today. The democrats asserted that the confer- ence in no way related to political ques- tions, but further than that they stopped short. The best information is that the matter relates to a judgeship nominee | whose history is pretty well known to members of the committee and that the President does not desire to have any one done an injustice by the talk that would follow any publication of the matter. Various Suggestions Offered. Various suggestions were made during the day as to possible legislative problems | the President wished to settle or have taken up now. One was as to the commod- ities clause provision of the Hepburn railway rate law and the understood wish of the President that this be amended so as to prevent stock ownership by rail- roads in companies handling commodities really belonging to the railroads. The inn probability, however, to taking this up in advance of the next session of Congress and the still greater improbability that the committee could be brought together upon any problem of that kind at this time dispels that theory. Invitations for the President. Senator Paynter of Kentucky asked the President today to attend the meeting of the Kentucky Retail Grocery Association at Frankfort the 10th of this month. The President said he was sorry he could not go. Alvin Martin of Norfolk republican na- tional committeeman of Virginia, asked | ii\"t b0 able to visit Norfolk in June, according to the invitation extended him by the board of trade of that city. The President said he thought he would be able to run down to Norfolk next month. No Quarrel in the Cabinet. The cabinet meeting today was com- paratively short one. Secretaries Wilson and Ballinger were both asked about the alleged row between themselves and their of withdrawn of sites for forest ranges. \"It is made out of the whole cloth,' declared Secretary Wilson. \"There is ab- solutely no truth in the story\" Secretary Ballinger said practically the same thing, deciaring that the basis of the whole story had been a mere matter of administrative detail and interpreta- tion of law, which at no time threatened any unpleasant relations between himself and the head of the Department of Agri- culture. Wants to Name Judge Willard. President Taft desires to name Charles A. Willard, a Minnesota man. as judge of the district court at Minneapolis, in place of Judge Milton D. Purdy, resign ed. Mr. Willard was a judge in the Philippines for a numbef or years, and is a personal friend of the President, who knows him to be well qualified for a place on the bench Senator Nelson who is a member of the judiciary com- mittee. is evidently opposed to Mr. Wil- lard, as he was to Mr. Purdy, or the members of the judiciary committee about | the matfer.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 21,
+      "bbox": {
+        "x0": 124,
+        "y0": 3015,
+        "x1": 1047,
+        "y1": 9218
+      },
+      "class": "article",
+      "raw_text": "The nation did honoT to Henry WadS- worth Longfellow this afternoon when ir the presence of thousands of people, cit izens of Washington, representatives, of foreign nations and American cities. a splendid bronze statue of the great Amer ican poet was unveiled. The great bronze figure representing the poet. seated, ant with a book in his hand, is placed upon a block of Bonacord granite brought from Sweden and carved in Scotland. The fg- ure of the poet is the work of an Amer ican sculptor. William Couper of New York city. The statue is on the little tri- angle of grass at Connecticut avenue, 18th street and M street. The exercises began at 2:30 o'clock grandchild of the poet pulled the silken cord which broke loose the enfold ing flags. revealing the monument As the flags floated upward and remained suspended in the air and the wonderful face of Longfellow, carved in bronze, was revealed, the great throng was silent fo1 a moment and then broke into a soon taneous cheer. It was the climax of a great labor. occupying twelve years for its completion, and represented the con fributions of thousands upon thousands of persons, from cities and hamlet< khroughout the whole broad land. The nation did honor to the poet whose works. transplanted into neariy every modern iangunget have sung the beau- ties of American life. have told in most beautiful word pictures of the distinctly American features of the birth and up- bringing of the states of America And as the nation has contributed its mites as well as its greater sums toward the completion of the statue. so were there present men who represent the national government and men and women who as private citizens stand for the highest ideals in the communities of which they are part The list of those who faced the statue at its unveiling contains the names of ambassadors of great foreign nations lawmakers and judges, and chief among these was Melville Weston Fuller. chief Justice of the Supreme Court. He pre- sided over the ceremonies. President Unable to Attend. President Taft was compelled toda, to abandon the idea of attending the unveiling. owing to a badly infiamed eye over which he is wearing a light ban dage. A gnat or some other small in. sect flew into Mr. Taft's eye while he was horseback riding Wednesday after noon. The President gave little atten iion to the matter at the time, but yes- terday his eye was much irritated His physician thought that the glare of the bright sunlight today would be bad fol the eye, and advised him not to venture put. Attorney General Wickersham. act ng for the President, accepted the gift on behalf of the nation. Others present were representatives from the courts of Europe and the gov- ernments of American republics, citizens Dr Washington whose names are con nected with every great event of the capital, and visitors whom any city would be proud to entertain. Descendants of the Poet Present. Not the least interesting feature of the hnveiling was the presence of many of the descendants of the poet. Not every living descendant was present today, but more than enough to fully represent the Iamily of the man whose memory was honored. They were: Mrs. R. H. Dana, daughter; Mrs. H. c leRham. second, granddaughter; R. H Dana, jr., grandson; H. E. L. Dana grandson; Miss Delta F. Dana, grand iaughter; the Misses Thorp. granddaugh. ters; Miss M. K. Longfellow. niece; Mrs F. R. Barrett, niece; Miss E. T. Long. Aellow, niece; Mrs. M. L. O'Donoghue nece: Mrs. Paul Scharf grandnieee. The program of music and addresses )pened as it was by an invocation from nie lips of Rev Dr. Charles Wood and :losed with a simple sentence of prayer moken by Rev. u. G. B. Pierce was ii tself a tribute to Longfellow Ever, kord. every thought. and it seemed as ii iach note of music had for its theme the poet who probably every one who hearc ind saw what went on in that little tri- tngle of grass today declares the great. :st singer that America has for its own Had there been no statue. and if the yords spoken today should he printed xie trioute might he called a .complett ine. and the nation of the future misht ook to the speken tribute of today a$ he eempiete praise for the author o1 :Evangeline.\" Tie Marine Band played \"America\" ano tpened the ceremonies. and when the ias bund had died Dr. Wood asked God': Messing upon the day. Rt. Rev. Dr. Alexander Mackay-Smith mce of Washingeon and now Bishop Co xdjutor of Pennsylvania. was the iirs peaker. It was in his house that the irst meeting in Washngton was held a vhich the possibility of erecting a statu. o the poet was discussed. From thai neeting grew the movement which swep he country and gained friends and pop llarity everywhere and resulted in tht srection of the monument. So it was Dr",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 22,
+      "bbox": {
+        "x0": 2936,
+        "y0": 4335,
+        "x1": 3837,
+        "y1": 4478
+      },
+      "class": "headline",
+      "raw_text": "CREDITORS HAVE ESTATE ONCE WORTH $3o,",
+      "legibility": "Legible"
+    },
+    {
+      "id": 23,
+      "bbox": {
+        "x0": 3409,
+        "y0": 8122,
+        "x1": 3784,
+        "y1": 8205
+      },
+      "class": "headline",
+      "raw_text": "Gain, 4,760",
+      "legibility": "Legible"
+    },
+    {
+      "id": 24,
+      "bbox": {
+        "x0": 4781,
+        "y0": 1147,
+        "x1": 5689,
+        "y1": 2483
+      },
+      "class": "headline",
+      "raw_text": "|l[lKE[PIHESECREI Judiciary Committeemen Con- fer With President. 0BJECT IS NOT REVEALED Callers Reticent Regarding the Topic Discussed. QUARREL IN CABINET DENIED Secretaries Wilson and Ballinger Declare Their Pleasant Relations Have Not Been Disturbed.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 25,
+      "bbox": {
+        "x0": 2936,
+        "y0": 4147,
+        "x1": 3837,
+        "y1": 4268
+      },
+      "class": "headline",
+      "raw_text": "MORSFS MILLIONS ALL 6ONE",
+      "legibility": "Legible"
+    },
+    {
+      "id": 26,
+      "bbox": {
+        "x0": 3866,
+        "y0": 8430,
+        "x1": 4759,
+        "y1": 8543
+      },
+      "class": "headline",
+      "raw_text": "Liner Puts in at St. Johns, N. F. With 1000 Passengers.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 27,
+      "bbox": {
+        "x0": 3851,
+        "y0": 4147,
+        "x1": 4767,
+        "y1": 5468
+      },
+      "class": "headline",
+      "raw_text": " Demands,Ihat Platform Prom- ise Be Carried Out |BY \"D0WNWARDREVlSl0N\" Or Two Years Hence \"Enemies'' Will Do the Trick. \"WHERE ARE WE2\" SAYS HE Minnesotan Threatens to Pack His Grip and Jump the Town if Farce Continues.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 28,
+      "bbox": {
+        "x0": 1084,
+        "y0": 7402,
+        "x1": 1984,
+        "y1": 7523
+      },
+      "class": "headline",
+      "raw_text": "Fifth Man Convicted for Powhatan Robbery, Murder and Burning.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 29,
+      "bbox": {
+        "x0": 2021,
+        "y0": 5070,
+        "x1": 2907,
+        "y1": 5145
+      },
+      "class": "headline",
+      "raw_text": "PERSISTENCE TO BE PUNISHED",
+      "legibility": "Legible"
+    },
+    {
+      "id": 30,
+      "bbox": {
+        "x0": 5711,
+        "y0": 2220,
+        "x1": 6619,
+        "y1": 2453
+      },
+      "class": "headline",
+      "raw_text": "Crowd at Morgue to Get Glimpse of Fourteen-Yea Widow of Fathers Victim. f",
+      "legibility": "Legible"
+    },
+    {
+      "id": 31,
+      "bbox": {
+        "x0": 2974,
+        "y0": 7440,
+        "x1": 3799,
+        "y1": 7553
+      },
+      "class": "headline",
+      "raw_text": "Consistent Increases.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 32,
+      "bbox": {
+        "x0": 139,
+        "y0": 2467,
+        "x1": 1055,
+        "y1": 2550
+      },
+      "class": "headline",
+      "raw_text": "THE CHIEF JUSTICE PRESIDES",
+      "legibility": "Legible"
+    },
+    {
+      "id": 33,
+      "bbox": {
+        "x0": 1106,
+        "y0": 5077,
+        "x1": 1932,
+        "y1": 5145
+      },
+      "class": "headline",
+      "raw_text": "FATAL FALL FROM TRAIN.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 34,
+      "bbox": {
+        "x0": 1159,
+        "y0": 8677,
+        "x1": 1887,
+        "y1": 8738
+      },
+      "class": "headline",
+      "raw_text": "Judge H. L. Palmer Dead.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 35,
+      "bbox": {
+        "x0": 2014,
+        "y0": 4860,
+        "x1": 2915,
+        "y1": 5003
+      },
+      "class": "headline",
+      "raw_text": "\"P. T. T. Syndicate\" Illegal, Decision of Attorney General.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 36,
+      "bbox": {
+        "x0": 1121,
+        "y0": 7927,
+        "x1": 1939,
+        "y1": 8003
+      },
+      "class": "headline",
+      "raw_text": "Four Hurt in Pittsburg Raid.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 37,
+      "bbox": {
+        "x0": 139,
+        "y0": 2242,
+        "x1": 1062,
+        "y1": 2400
+      },
+      "class": "headline",
+      "raw_text": "Gift to the Nation Accepted by At- torney General Wickersham.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 38,
+      "bbox": {
+        "x0": 139,
+        "y0": 2610,
+        "x1": 1055,
+        "y1": 2918
+      },
+      "class": "headline",
+      "raw_text": "Tributes of Praise From Eloquent Lips Heard by Large and Rep- resentative Gathering-Presi- dent Unable to Attend.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 39,
+      "bbox": {
+        "x0": 949,
+        "y0": 270,
+        "x1": 6634,
+        "y1": 1095
+      },
+      "class": "newspaper_header",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 40,
+      "bbox": {
+        "x0": 2981,
+        "y0": 6660,
+        "x1": 3792,
+        "y1": 6728
+      },
+      "class": "headline",
+      "raw_text": "Zeppelin Confirms Berlin Trip.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 41,
+      "bbox": {
+        "x0": 1099,
+        "y0": 6450,
+        "x1": 1939,
+        "y1": 6518
+      },
+      "class": "headline",
+      "raw_text": "PIONEER PHYSICIAN DIES.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 42,
+      "bbox": {
+        "x0": 4796,
+        "y0": 7065,
+        "x1": 5697,
+        "y1": 7260
+      },
+      "class": "headline",
+      "raw_text": "FIRE ON SLEEPING PRIEST. Danviile Shooting Sequel to Activity Against Liquor TrafEic.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 43,
+      "bbox": {
+        "x0": 3881,
+        "y0": 8340,
+        "x1": 4744,
+        "y1": 8400
+      },
+      "class": "headline",
+      "raw_text": "ICE JAMS HoLE IN STEAMER.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 44,
+      "bbox": {
+        "x0": 5704,
+        "y0": 1852,
+        "x1": 6634,
+        "y1": 2010
+      },
+      "class": "headline",
+      "raw_text": "Story of the Shooting in Corner Grocery Is Told.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 45,
+      "bbox": {
+        "x0": 2996,
+        "y0": 7582,
+        "x1": 3792,
+        "y1": 7883
+      },
+      "class": "article",
+      "raw_text": "The tremendous growth in the advertising columns of The Sunday Star is due. to the fact that The Sunday Star gces directly into al- most ai! of the homes of Washing- ton people.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 46,
+      "bbox": {
+        "x0": 5704,
+        "y0": 2077,
+        "x1": 6619,
+        "y1": 2153
+      },
+      "class": "headline",
+      "raw_text": "WITNESS TELLS OF MONEY ROW",
+      "legibility": "Legible"
+    },
+    {
+      "id": 47,
+      "bbox": {
+        "x0": 2021,
+        "y0": 4680,
+        "x1": 2907,
+        "y1": 4778
+      },
+      "class": "headline",
+      "raw_text": "URGE GOVERNMENT TO ACT",
+      "legibility": "Legible"
+    },
+    {
+      "id": 48,
+      "bbox": {
+        "x0": 1076,
+        "y0": 6547,
+        "x1": 1977,
+        "y1": 6653
+      },
+      "class": "headline",
+      "raw_text": "Dr. Hugh Ross Passes Away at San Francisco-Uncle Sam His Dehtor",
+      "legibility": "Legible"
+    },
+    {
+      "id": 49,
+      "bbox": {
+        "x0": 5704,
+        "y0": 1410,
+        "x1": 6627,
+        "y1": 1605
+      },
+      "class": "headline",
+      "raw_text": "Coroner's Inquest Sends Him in the Grand Jury.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 50,
+      "bbox": {
+        "x0": 4789,
+        "y0": 8242,
+        "x1": 5712,
+        "y1": 8348
+      },
+      "class": "headline",
+      "raw_text": "Pacific Coast City Planning for Cor dial Demonstration June 7.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 51,
+      "bbox": {
+        "x0": 146,
+        "y0": 277,
+        "x1": 1070,
+        "y1": 1103
+      },
+      "class": "masthead",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 52,
+      "bbox": {
+        "x0": 3296,
+        "y0": 8782,
+        "x1": 3777,
+        "y1": 8858
+      },
+      "class": "headline",
+      "raw_text": "Gain, 52 columns",
+      "legibility": "Legible"
+    },
+    {
+      "id": 53,
+      "bbox": {
+        "x0": 4789,
+        "y0": 8145,
+        "x1": 5697,
+        "y1": 8213
+      },
+      "class": "headline",
+      "raw_text": "PORTLAND TO FETE JAPANESE",
+      "legibility": "Legible"
+    },
+    {
+      "id": 54,
+      "bbox": {
+        "x0": 5719,
+        "y0": 1680,
+        "x1": 6627,
+        "y1": 1778
+      },
+      "class": "headline",
+      "raw_text": "CHILD WIFE IS UNM0VED",
+      "legibility": "Legible"
+    },
+    {
+      "id": 55,
+      "bbox": {
+        "x0": 1084,
+        "y0": 5175,
+        "x1": 1992,
+        "y1": 5280
+      },
+      "class": "headline",
+      "raw_text": "Most Photographed Boy in America Killed in Chicago.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 56,
+      "bbox": {
+        "x0": 3011,
+        "y0": 7995,
+        "x1": 3792,
+        "y1": 8100
+      },
+      "class": "table",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 57,
+      "bbox": {
+        "x0": 1054,
+        "y0": 7312,
+        "x1": 1977,
+        "y1": 7380
+      },
+      "class": "headline",
+      "raw_text": "ELEcTRocUTED AT RIcHMoND",
+      "legibility": "Legible"
+    },
+    {
+      "id": 58,
+      "bbox": {
+        "x0": 139,
+        "y0": 1972,
+        "x1": 1070,
+        "y1": 2168
+      },
+      "class": "headline",
+      "raw_text": "NOTABLE CEREMONIES ATTEND DEDICATION",
+      "legibility": "Legible"
+    },
+    {
+      "id": 59,
+      "bbox": {
+        "x0": 3011,
+        "y0": 8572,
+        "x1": 3777,
+        "y1": 8633
+      },
+      "class": "headline",
+      "raw_text": "GROWTH IN ADVERTIsING.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 60,
+      "bbox": {
+        "x0": 3004,
+        "y0": 7912,
+        "x1": 3784,
+        "y1": 7980
+      },
+      "class": "headline",
+      "raw_text": "GROWTH IN CIRCULATION.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 61,
+      "bbox": {
+        "x0": 5719,
+        "y0": 1147,
+        "x1": 6627,
+        "y1": 1335
+      },
+      "class": "headline",
+      "raw_text": "B[CK'S SlAYER HELD",
+      "legibility": "Legible"
+    },
+    {
+      "id": 62,
+      "bbox": {
+        "x0": 4886,
+        "y0": 5550,
+        "x1": 5592,
+        "y1": 5603
+      },
+      "class": "headline",
+      "raw_text": "No Quarrel in the Cabinet.",
+      "legibility": "Legible"
+    }
+  ]
+}

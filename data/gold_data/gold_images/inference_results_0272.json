@@ -1,0 +1,910 @@
+{
+  "paper_name": "The Weiser signal",
+  "paper_date": "1898-03-24",
+  "paper_city": "Weiser",
+  "paper_state": "Idaho",
+  "paper_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/",
+  "lccn": "sn89055091",
+  "volume": "8",
+  "issue": "16",
+  "edition": "1",
+  "pages": {
+    "1": {
+      "page_number": "1",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0272.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0272.xml",
+      "reel_number": "00414211811",
+      "reel_sequence_number": "272"
+    },
+    "2": {
+      "page_number": "2",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0273.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0273.xml",
+      "reel_number": "00414211811",
+      "reel_sequence_number": "273"
+    },
+    "3": {
+      "page_number": "3",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0274.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0274.xml",
+      "reel_number": "00414211811",
+      "reel_sequence_number": "274"
+    },
+    "4": {
+      "page_number": "4",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0275.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0275.xml",
+      "reel_number": "00414211811",
+      "reel_sequence_number": "275"
+    }
+  },
+  "page_number": "1",
+  "scan_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0272.jp2",
+  "scan_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_damascus_ver01/data/sn89055091/00414211811/1898032401/0272.xml",
+  "bboxes": [
+    {
+      "id": 0,
+      "bbox": {
+        "x0": 187,
+        "y0": 5017,
+        "x1": 879,
+        "y1": 6161
+      },
+      "class": "table",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 1,
+      "bbox": {
+        "x0": 4031,
+        "y0": 1513,
+        "x1": 4664,
+        "y1": 3785
+      },
+      "class": "article",
+      "raw_text": "Jelf Saiing, who recently departed for Alaska, writes home in part as follows: We got to Skagua yesterday. was brought to Dyea across Lyman canal on lighter which are simply big fiat bottomed boats Our baggage and freight will be sent here this afternoon when thc tldu comes in, the water being too shallow nt low tide for totts to land. Our voyage from Portland was rough. After leaving Astoria on Feb. 14th, on the ship Oregon, we went over the bar and 27 miles out at sea when it was discovered that tho boat was on fire, but wc put back to Asto- 1a without serious acuid nt, and the fire was extingulshed, and on the l5th we puV to sea again. Rounded cape Flattery in a terrible gale. and of the 550 passengers on board only about 50 of them remained on deck, aud some thought they hud swal- lowud a whale. Barometer went lower and wind higher up io lhe 19th. We cast iii's' A0t2i'O ever witnessed in these waters. We drug anchor aud wcni ashore on a bar otf Douglas lsland only a few hundred feet from the great Treadwell mill. When tho tide went out it lert tne vessel hissihi and dry, some of the passengers climbing down the sides uf the vessel and walking all around it There was danger of th2 vessel turning ovcr as thc deck stood kt | nn angle of 38 degrees Wc lad in this | slate over 30 hours, and then by thc help uf thc passengers. the hand uf providence , aud high tidc we got the ship nfioat to all o appearanccs in go 'd sjtfe conditions Bal- s ance of the journey was madc in a gale to e Skagua-l0 days in all from Portland. Thc weather is cold and dry, snow deek e enough for good bob sleighing. Thert 0 arc lots of tcams here and the best aver o age lot of horses ever saw and all seen ,t to have plenty to do hauling mneri d freight from here tu Sheep camp u distance or of 15 miles, and are making from $l5 t' 800 per day. l don't know whether the. , get steady work or not. | have not de le termincd yet what course will pursue p The Canadian government is refusing t i allow any one to go into the interlor with a \" out 10o5 pounds of actual provisions ,e The duty on goods going in varies accord e- ing to the articles but will average x ie per cenl of first cost. Let all my friend read lhis who care to hear from me ns u expect to be too busy to write much.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 2,
+      "bbox": {
+        "x0": 2773,
+        "y0": 1573,
+        "x1": 3391,
+        "y1": 3609
+      },
+      "class": "article",
+      "raw_text": "Mrs. Bernard Haas is very sick. J. A. McAdam, of Payette, called on the SIdNAL Tuesday. Geo. Hartley has sold 800 head of mutton sheep at s2 35. Mr. W. A. Hicks, of Boise, has been cngaged as clerk in Louis Som- mer's store Fred Brockman has opened his new blacksmith shop and has Isis ad in this issue. A car load of saw mill machinerv for Smith Bros Salubria, arrived in Weiser Monday. This is the time of the year to col- lett and burn all kinds of rubbisl around your premises. The United States mint is the onl\\ business in this country that cai make money without advertising. Last Saturday at the I O 0. F hall, Miss Slocum addressed a num ber of the women of Wciser on tho subject nf government. An error was made last issue il stating that court had adjourned un til Monday 21st. It should hay been Thursday 24th. The term re opens today. - A fund las been raised ln W eise and a racing tournament will bc hel ' soon, in May or June. It is expec r ed that in the neighborhood of s80 in purses will be hung C. S Fosselman returned Monda from a trip to Butte. His tra r passed through a blizzard on the da r of leaving, and it was impossible see twenty feet from the train. Tl outskirts of the thing must ha' f breathed over fair Wciser land la Sunday and Monday.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 3,
+      "bbox": {
+        "x0": 2132,
+        "y0": 1859,
+        "x1": 2759,
+        "y1": 2442
+      },
+      "class": "article",
+      "raw_text": "One-haif the number of the improved caunon. mortars and emplacements will be located and placed in suitable poslton ere tue expirution of 1898. The Artillery Board is constantly making practical sur vevs so far as these relale to the army. and the estabishment of adcquate mili- tarv protection of our seaboard is receiv- ing strong endorsement. Meanwhile there is a means of defence from grealer physi- cal calamity, and tliat is the use of Hog letter's Stomach Bitters. which by restor- ing the toue of the nerves and stomach. iuvigorutes the whole system. lt also prevents malaria. kikney and rhcumatlo ailmenls. and cures biliousness and con situation. Those who have been cured bv it speak in no uncertain terms as to its elfecliVeuesS.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 4,
+      "bbox": {
+        "x0": 2813,
+        "y0": 3909,
+        "x1": 3431,
+        "y1": 5870
+      },
+      "class": "article",
+      "raw_text": "\"According to your faith, be it unto you.\" Atthe last meeting of the W. C. T. U. the folowing list of oIicers and superin- tendcnts were olected for the ensulng year Pres.-Mrs. A. E Seeley. Vice Pres. Mrs. Hattie Sharia. Rec Sec.-Mrs. J. Peters. Cor. Sec. Miss Carrie M. Seeley. Treas. Mrs. L Perkins. Supt. Mothers Meeting and Socal Pu- rity-Mrs. Beswick Evangelislic Supt.-Mrs. Jelfreys. Supt. Scientinc Temperance lnstruc- tion-Mrs lI A. Lee. Supt Mercy and Help-Mrs. Conley and Mrs. Harper supt. Contest and Press Work-Miss Carrie M. Sceley. social and Visiting Committee-Miss Linnie Perkins and Miss Mary Harper. The memorial service held on Sunday evening at the Cong. church in honor ol our beloved leader. Frames E. Wfllard was well attended by a large and appre- ciative audience. Short addresses, relalivi to the life and rood works of Miss Wii lard, were made by Miss Slocum and th' Revs. Upton, Lee and iIawkes. A beau uful solo was rendered by Miss Clark The singing by the choir was particularly fne and suitable to the occasion. The Union will meet regularly once month at ihc Bap. church. Announce ments will be made before each meeting The meetings will be made interesting an' orostable. New members solicilcd ano visitors always welcome. NThe:tme has passed when there is n redress for.uie women of Idaho. but sufer in silence She has proven tha she can act as.will as pray With th ballot in her hand. and by using well tl talent God has given her. throwing h' infuence with right, instead of migh : she will do much toward wiping out tl i accursed liquor tralfic. r To lhe ribbon white be loyaL, Bind it to your heart; For in aii our peaceful warfare. n It must have pat ~ ",
+      "legibility": "Legible"
+    },
+    {
+      "id": 5,
+      "bbox": {
+        "x0": 2157,
+        "y0": 2812,
+        "x1": 2774,
+        "y1": 3304
+      },
+      "class": "article",
+      "raw_text": "have Tor gale 50 thousand one-year-old and 4U thousand twu-year-oid Apple Trees. including the best varieties Tor the inter mountain country. 30 thousand Pear. ii standard varieties. 25 lhousaud Prtne- French, Italan and Silver. 10 thousino Clerrv. hardiest varieties A general as sorimeut of Peach. Apricots and Nectar ines; also of small fruits. The above stock guarantcc to be ab solutely free from disease and insect posts Send ine your orders at once. that | ma\\ get them in shape for early spring plant ing. and | will guarantee v\"u satisfac tion. Address. J. J. TooLE. Apr 3l Payette, ldaho",
+      "legibility": "Legible"
+    },
+    {
+      "id": 6,
+      "bbox": {
+        "x0": 2172,
+        "y0": 3809,
+        "x1": 2794,
+        "y1": 4401
+      },
+      "class": "article",
+      "raw_text": "Commencing Tuesday. Fcbruary lst., 1Sy6. and on Tuesday of cach week there after .ltock Island Personally Conducied Tourist excursions will leave Portland for Denver Chicago and Boston. The cars used in these excursions are the latest mpr\"ved Tourisi slcrpers and will be in charge of experienced and gem tlemanly coNduclors through to destiny ti\"n. Also Pullman porter wiih each car. aud will be run via the o R' & N.. |O s. L. R G w C R. |. & P.. S L. & M. S. H Y C. R.R.. aud B. &A. R R. Especial care will he taken of ladies oI children lraveling withoul escort Remcmber these cars run ihrough to Chicago and Boston wlhout change. For narticulars.see agent.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 7,
+      "bbox": {
+        "x0": 4081,
+        "y0": 4586,
+        "x1": 4699,
+        "y1": 5103
+      },
+      "class": "article",
+      "raw_text": "Commencing Thuusday March 3rd. 18oS. and each Thursday thereafter. \"Missouri Pacilic\" Personally Conducted tourist excursions will leave Portland for st Louis. via Salt Lahe. Denver and Kansas Civ. The cars used in lhese excursions are the best Tourist Sieepers. and will run through to St. Louis withoui change vit |ihe O. s. L.. R G. W. D. & R G. aud Missouri Pacilic. Cars will be in charge of experienced and gentlcmanly conduct- org and porters. Special care Ynken of ladics or children travelng wthout escort Call on O S. L. agent for particulars. Mar 3o",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 8,
+      "bbox": {
+        "x0": 177,
+        "y0": 4155,
+        "x1": 859,
+        "y1": 4943
+      },
+      "class": "article",
+      "raw_text": "CongregoIional- Preaching every Sunday at eleven o'clock a. m. and at eight p.-m. Sunday School immediately after morning servlce. at l2:l5 p. m Weekly meeting Tor Bibe study, Wednes- day evening at o'clock. Y. P. S. C. E.. Sunday. at p. m. REv. A. G UPToN. Pastor. SoinE Ll(&es- sERvICEs Sunday-Matins and Sermon. li a m. Evensoug and Sermon. T:xo p m. Sunday School at l2:l5 Celebration of Holy Communion. Hrsl Sunday in month, ut ll a. m. Bopfist Preaching every Sunday at Il am Sunday school tt l2. Young Peoples meeting. saturday S pm Prayer meeting every Wednesday. pn The public invited. REv. YouNT. Pastor.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 9,
+      "bbox": {
+        "x0": 3460,
+        "y0": 5067,
+        "x1": 4072,
+        "y1": 5695
+      },
+      "class": "article",
+      "raw_text": "We ofrcr One Hundred Dollars Reward for auy case of Calarrh tnat cannot be cured by Hali's Catarrh Cure. F. J CHENEY & Co., TolednO. We, the undersigned. have known F. J. Cheney for the last 15 years and believe him to be perfectly honorable in all bust ness transactions aud financially able to carry out any obligations made by theiI firm. wEsr & TnUAx Wholesale Druggists. Toicdo. O. WADINo. KINNAN & MARviN, Wholesale Druggists. Toledo, O. HaiTs Calarrh Cure is taken mternaliy acting directly upon the blood and lnu cons surfaces of the system. Testimo nials sent free. Price 75c. per bottle Sold by ali druggisis. HalFs Family Pills are the best.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 10,
+      "bbox": {
+        "x0": 2122,
+        "y0": 867,
+        "x1": 2739,
+        "y1": 1188
+      },
+      "class": "article",
+      "raw_text": "There is so much interest being ut- tached to the Snake river just at pre- sent that thc account of the voyage of the Norma from the Huntington bridge to Lewiston will be quite in- teresting and the SIdNAL will there fore publish it next week.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 11,
+      "bbox": {
+        "x0": 4086,
+        "y0": 5157,
+        "x1": 4709,
+        "y1": 5414
+      },
+      "class": "article",
+      "raw_text": "Bufulo, N. Y.-Gents-From my peri sonal knowledge. gained in observing ihe efiect of your Shiloh's Cure in cases of advanced consumption. l ann prepared i\" say il is the most remarkable remedy ihat has ever been brought to my attenti\"n. lt has certainly saved many from consiimp- tion. Sold by The Weser Pharmacy.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 12,
+      "bbox": {
+        "x0": 3395,
+        "y0": 746,
+        "x1": 4027,
+        "y1": 5324
+      },
+      "class": "article",
+      "raw_text": "been mourned. Press and pulpit have vied with each other iu eulogizing the matchess wo- man, while countless rriends of every tongue and nation have voiced their love and admiration bc- tween their sohs. so much has been said. aud perfectly said, thal any word of mine mus. seem puuriie. indccd. How shall the lcsser express the greatcrs The most that any of us can hope to do, is to throw little light on side of this many sided \"reen.\" greatcr than shc must come bcforc this largc-souled woman, with her steadIast pur- pose and limitlcss resource can bc (ully revealed to the worid. At first | thought to speak of her as an edu- cator. which she was from frst to last in the highest, truest sense. but when | read the motto in the church tlis morning, | thought the phrase that best expresses Miss Willard is \"The ldeal Citizen.\" since she was true in every relation in life and to all the world, and could say with Paul, \"My citizenship is in heaven.\" llow digent shc was in obeying the apostolic injunction to add to her faith virtue. and to her virtue knowledge, and to her knowledgc temper- ance. and to her temperancc patience. and to her patience godiness. and to godliness biotherly kindness. and to brotherly kindness charty, thc fruits of the spirit manifest in her lifc folly attest. Womanhoood has its chivalry not less than manhood, and Francs Willard was the liayard of her sex knight without fear and without re- | proach. Wherever a wrong was to be righted there was she a leader in the conflict ready to die if need bo for her King and humanity. .lt was tho suifering of women, she declared, Fwhich frst gnve her courage to speak in public, land she hroke her lancc in their behalf io such | purpose that the editor of the Literary pigcsth has said: \"shc has probably dono more lhan nny other person to bring her sex to a realiYaton of htheir own powers\" To me the secret of her phenominal success seems to have been u rare combination of strong individuality nnd a clear comprchension of the yauc of organization. One or two instances re- corded since her death serve to illustrate my point. ln perfect obedience lo her fathcrs sweeping condemnation of the entire reaim of ictton. Shc denied hcrself the companionship of cherished aulhors until the day or her major- ity when she began Ivanhoc and declared her independencc in the following charucieristic 4 words \"l ann eighteen. | ann or age | am now to do what | think is right and to road this fne historical story is. in my opinion. rght thing lfor mc to do.\" shc was a sufragist from childhood when ithc willard children played at organization.\" found lng aud govcrning cities aud conducting clubs she wrote in her journal oi her brothcr's frs *. , of to the polls. \"I felt n lump in my throat. turned to Mary and she. too. seemed wondcrfull! \\sobcr said: -Wouldu't ,ou like to vote as wei $as Oliver? Dont you and love the country jus ' ' ns well as hc, and doesn't the country nced ou - ballots$'\" Then mary looked scared but nn swcrcd. \" 'Course we do and 'course we ought.bu s dont you go ahead and sa, so. for then wv wou . bc called strong minded\" Before leaving school shc was already a soca power. so when she wns elected president of th r Evanston College for Ladics-the frst wowan t be elected president of a college-no onc wa d surprised at the tact. skill and power which sh . evinced in molding and transforming the chai , acter oI her pupils. u When the call came to join the tempcrano crusade. all hcr friends dissuaded her-ull sa\\ [one. Mrs. Livcrmore. her kindred spirit Even y .her intreped mother\" the step seemed. what to . many made it the narrowng of life to onc poii \" of view. Aut she trusted the voice that call' y her and saw only an open door to a larger field , education To her the dearest word on cnrth was home b ie with the cournge and self-dcnial of the true he .e oine she steadfastly put behind her all that sl held most dear to woman. that she might he st the world to realize the ideal home, whch sha create a new earth when women become free ai men become strong and purc. To this end d labored and gave her life daily to the suffra cause. fo the temperance causc. and to the mov ment for social purity. With unerring vision s saw that these three one. and that togeth er they were usherng in the nsw era. She was essentially a womanly woman as agrce. Says New York clergyman of her: \"o iistened to the orator. but saw only the womar Her favorite phrase was. \"The world needs mot eriug.\" The temperance organization. magni to cent as it s in scope and scrvice. was to leader but a means to the larger end she had II view of purifying and idealizing the home a so mothering the world in the truest sense. \" No partv or sect could confue this broad cal ir: olic soui within its limits. Party. hy its ve name. means pari of the whole but her intere were as broad as humanity and as deep as lfe The motive and logic of Miss Willards aiii tion wth the Prohibitionists, which resulted disafection aud the formation of faction in W. c. T. U.. have been so well set forth hy m Lee that uo words of minc arc needed. su0ico to say. that ii the crisis. ns always. the d leader proved herself the consummate gcnei Because her eye single. thc whole body V ic- full of iight; and with the statesmanshp which a great man said. no political prcsid dared to put so much in Isis messages. shc k 'cI the grcatesl organization in the world from sh wreck. while the Irngment mis-nnmed non-p iss tisan. 2oated of and resolved itsef into pc clubs subject to the Republican, party wliich not yet recognize their political esistence iss .Frances Willard had long been hailed as qno but through her enemies she won thc crow lav sainthood. and todav all the world bows in r ,r erence before the woman who. under the strong provocntion to resentment. could voice her he '\"' in the words of the mart, red Lincoln. \"W re- malice to nonc and with charity for al\" ive As has been well said by the fathcr of anoi pu great organization. \"to have known this woman was inspiration.t .to have had her for yo '\"e at tlic head oi a great was a benedctio uu- ---- rk. Ilowis This? .rlv We offer One Hundred Dollars Rew for auv case of Catarrh tnat cannot ,. cured by Hali's Catarrh Cure. F. J CHENEY & Co., ,Toledo ' We, the undersigned. have known F ng. Cheney for the last 15 years and beli aud him to be perfectly honorable in all b md ness transactions aud financially abi",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 13,
+      "bbox": {
+        "x0": 2182,
+        "y0": 4461,
+        "x1": 2804,
+        "y1": 4988
+      },
+      "class": "article",
+      "raw_text": "On receipt of ten cents, cash or stamps a generous sample will be mailed of tne most popular Catarrh nnd Iiay Fever Cure (Ely'n Cream Balm) sniiiciont to demon- strate the great merits of the remedy. ELY BROTHERS, 55 Warren St, New York City. Rev. John Reid, Jr.. of Great Falls Mont., recommended Ely's Cream salm to me. I cnn emphasize his statement, \"It is posi- tive cure for catarrh if used as drected.\"- Rev. Francis W. Poole. Pastor Central Pres. Church, Helena, Mont. Ely's Cream Balm is the acknowledged cure for catarrh and contains no mercury nor any injurious drug. Price, 50 cents.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 14,
+      "bbox": {
+        "x0": 2192,
+        "y0": 5087,
+        "x1": 2814,
+        "y1": 5614
+      },
+      "class": "article",
+      "raw_text": "Commencing Wednesday, Feb. 23rd, 1898. and Wednesday of etch week there after. .:BurlingLon'. Personally Con- ducted tourist excursions will leave Port land for St. Louis via Salt Lake. Denver and Kansas Cilv The cars used in these excursiuns are the laiest improved Tuurst sleepers. and will run through to St. Louis wilhout chan@s via the o R & N.. o S. L.. R. G W. D & R G. aud Burlngton Lines; and will be in charge of experienced and gem tlcmaniy conductors aud porters, to deg tination. Special care will be taken of ladies' oi children lravcling without escort. For particulars see ag-nt.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 15,
+      "bbox": {
+        "x0": 1510,
+        "y0": 1553,
+        "x1": 2138,
+        "y1": 5635
+      },
+      "class": "article",
+      "raw_text": "The Huntington Herald announces lhat tue Mable has made a \"success- 'ul\" trip to Ballard's s Landing and .eturn and has fully demonstrated lhe easy navigahility of the Snake by going down empty, coming back empty, bending an eccentric, break ing down feed pump (which gener- ally is caused by failure of engine to furnish sufficient steam), displaying an insufiieient coaling capacity, the need of a new wheel and steam capslan, not to speak of hanging up on rocks, aud placid condition of river. But the Herald's account way as well be given: \\ The Steamer Mable returned to Gray's Landing on Monday, the l+th inst, af 3 o'clock. from her trial trip down to Bal- lards Landing. On this trip she demon- strated beyond question her abilitv to navigate the Snake between these points The trip down was made ii five hours and twentv minutes. The return trip occupied abouL thirtysix hours. delay be- ing caused by the bending of an ecccn- trc rod, the breaking down of the feed pump. and shortage of coal which necessitated the making of steam by the gathering of drift-wood wherever it could be found along the shore. She had but three tons of coal aboard in the bunkers when she started down the river. It was demonstrated that tbe s:eainei had plenty of power in her to come ovei most of the rapids. There are tnree rap ids which will always probably, have t( be \"llned\" over, that is, a rope takel ashore and the boat assisted over the rap | lds by her steam capslan. It is beieveo she will make the round trip iu two days Leaving Gray's Landng carly in tht morning she will make lhe run down t' Ballard's Lundiug in four hours. Takin- on her load she will start on her returt trip tying up when night overtakes her She will thus make Grays Landing. he starting point. easily un the foiowing day The wheel had but twelve-incn blade or buckets on this trip, which was rouno to be a defect The blades will bc in creased to eighteen inches and the stean capslan placed in position before makinl another trip The first trip was mad with a hand capstan because of the fac that a portion of !he steam capstan ha been lost cnroutc to Huntington. It certainly doesn't take much to constitute success if the above is ev idcnce of it. The boat was \"buil bv the best experts\" but some change are necessary, and the continued ai tempt at solution of the puzzle wi he watched with interest The llel old llas one typographical error, how ever, in stating the boat went dow to Ballards Landing Our inform: tion (pretty good) is to the effect thi the Mable only went as fur as Oxbov 15 miles this side of Builarti A There is some bad water there tli: it did not attempt to pass. It woul be a good idea to incorporate a rai way company to build a I5 mile cpl nection between Ballard's Landir and Oxbow. In reading the Hera account, remember it was hut a fe weeks ago that it stated the river fro Bay Horse down to bc as \"placid the Willamette. |\" The final sul ming up of the enterprise must b that if the pitiful methods of tran portatiun indicated hy the above e tract from the Herald are sufiicie to handle the Seven Devils Copt camp-theu the Seven Devils Copy camp is a pitiful humhug, is n what it has been proclaimed to | does not justify large investments capital and lias no magnitude wh ever as resource. The camp ii fzzle if such abortionate facilit are competent to operate it.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 16,
+      "bbox": {
+        "x0": 848,
+        "y0": 2441,
+        "x1": 1496,
+        "y1": 5650
+      },
+      "class": "article",
+      "raw_text": "Additional informauon in regard to any of the fullowing can be found in their advertisements in this paper: 4ffo'meys- Fronk Hoi7is. John W. Ayers. BaA.bcrs- B. F. Heffinger. Keodone Hofel. J. M. Conn'y. Hofel Teiser. Wm. FouSice. Bollks- Bonk of Weiser, C.J. selwyn, CusM'' Bokcry- Mrs. Joiiles. Blocksmi?h- Fred Brockman. Cigor Facfory- C. D. Morfon. Co'lfccfionery- Eorle Seeley. Den'isf- A. M. Curl. Drugs, ToilcI ArIicles, Eic. B. M. Jemney. Uejser Phormacy. Dry Goods nnd CloMing- Louis Sommer. R. Schos. EtuTlifuo'e aitd Underiuking- A. Seors. Gencrol Mel.chnndise- M. E. Sonlxnercump & Co. Mor7.is Son2mer. H-eiser Mercontile Co. Peters & HoItley. Grocel?es- C. 0. D. SIore. Hofe[s- Pendome. M. McGregor. Poop. Hofel Weiser E. M. Bniton. Prop Riggs House, G. W. Riggs, Pop. Hoiness- Riggs & Gerlrick. Hosdirore- Hoos Bros. Opp & DaUis. Jemelers- s. H. Jenney. L. M. KioL . Lunch Counicr- L. Holconlb. Lircry Sfoble- J. Motthetrs d: Co. n Lumber Ynrd- n TMos. E. Kelly. Opp & Ddris. = Heat Mnrkef- F. Koistp. er Physicions ond Snryeons- -r Dr. J. R. Nt2nlbers. Ar Dr. C. B. ohirley. ia Reol Estnfe, Insurdnce, Loons 'y 0. M. Horreg. ia Shocs- es ss Golden Rule stoe Store. ie Tinner- .v .v Andrcic Paynton. er Sociefics- , Musonic. er Odd F'elloms. oe Knights of Pythids. .ii Woodmen of the Horld. tM",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 17,
+      "bbox": {
+        "x0": 2818,
+        "y0": 3714,
+        "x1": 3421,
+        "y1": 3860
+      },
+      "class": "headline",
+      "raw_text": "Report of Last Meeting of the Weiser Organization as Handed to the Signal.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 18,
+      "bbox": {
+        "x0": 2112,
+        "y0": 686,
+        "x1": 2739,
+        "y1": 828
+      },
+      "class": "headline",
+      "raw_text": "to Alaska to superintend navigation on the Stickeen river Who will command the Mable now?",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 19,
+      "bbox": {
+        "x0": 2127,
+        "y0": 1223,
+        "x1": 2749,
+        "y1": 1539
+      },
+      "class": "article",
+      "raw_text": "it is reported that Josehp John son-yes, the original Joseph-actu- ally has a corps or surveyors in the field running a survey from Baker to Seven Devils. lt is said they have already crossed Snake river into Idaho.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 20,
+      "bbox": {
+        "x0": 152,
+        "y0": 2441,
+        "x1": 839,
+        "y1": 3584
+      },
+      "class": "article",
+      "raw_text": "\" Henry Heitfeld Member of Congress. .......Janes Gum Governor. Frank Sieunenbcrg Lieutenant-Governor George F Moore ,Secretary of State. George J Lewis Attorney-General .. Robert IS McFarltnd U. S Marshal..... James Crutcher u. S. Dist. Attorney ....... A.V. Crozlcr Treasurer. George H Storer Auditor James H Anderson Inspectorof Mines Benjamin Hastings Supt Public Iustruction Louis Anderson Surveyor-General. J C Straughan Supt U Assay Ollice - Cunningham Supreme Judges-J W Huston. Chief Jus . tice; Rtlnh P Quarles. l N Sullivan. Judge 3d Judiciul. Dist .Geo H Stewart Ail state oflicers have their residence at Bose coUNTY. Auditor and Recorder-I F Smith. Weiser Assessor aud Tax Collector-Wm Allison, Weiser Sherif-D H Kerfoot. Weiser Treasurer-C M HiNon. Weiser. Probate Judge-T M Jefrreys. Weiser. lst Dist-A B Anderson, Weiscr Commass 2d Dist-M Hopper. Salubria 3d Dist-B w Wilson. Dale Coroner-Dr Brown. Salubria. Regular meetings of the board of county commissiouers are on secnnd Monday in January, April. Juiy and October. The next session of the District Court will open October 10. 1898.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 21,
+      "bbox": {
+        "x0": 4071,
+        "y0": 3849,
+        "x1": 4694,
+        "y1": 4346
+      },
+      "class": "article",
+      "raw_text": "The ancienl Greeks believed that thc Penates were lhe gods attendend to the welfare and prosperity of the family, They were worshipped as household gods in every home. The household god of today is Dr Kings New Discovery. For consumption. coughs, colds, and for all affections of Throat. Chest and Lungs it is invaluable. It has been ried for a quarter of a century and is guaranteed to cure or money returned. No household should bc without this good angel. lt is pleassnt to take and a safe and sure rem- cdy for old and young. Free trial bottles at B. M. Jenncy's drug store. Eegulur sizc 50 cents and $1.00. o",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 22,
+      "bbox": {
+        "x0": 4102,
+        "y0": 5649,
+        "x1": 4714,
+        "y1": 5795
+      },
+      "class": "article",
+      "raw_text": "tIIANTED-Trusiwort and Active gentleincu w or ladies to travel for responsible. cstab- ' lished house. in Idaho. Monthly $d5 00 and expenses. Position steady. Refercnce. Enclose 3elr-addressed stamped envelope. Thc oomininu Company Dept. Y. Chicngo 4o",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 23,
+      "bbox": {
+        "x0": 2127,
+        "y0": 1558,
+        "x1": 2754,
+        "y1": 1785
+      },
+      "class": "article",
+      "raw_text": "LOST-a package containing $5 in two cent postage stamps. Finder will be paid s1 00 on delivering same to Thos. Klmbrough or leaving at SIGNAL oflice.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 24,
+      "bbox": {
+        "x0": 2272,
+        "y0": 1804,
+        "x1": 2614,
+        "y1": 1845
+      },
+      "class": "headline",
+      "raw_text": "The Coast Defences.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 25,
+      "bbox": {
+        "x0": 4081,
+        "y0": 4501,
+        "x1": 4689,
+        "y1": 4577
+      },
+      "class": "headline",
+      "raw_text": "Weekly Exrursions to St. Louis Yia Salt Lake and Denver.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 26,
+      "bbox": {
+        "x0": 112,
+        "y0": 135,
+        "x1": 4679,
+        "y1": 642
+      },
+      "class": "newspaper_header",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 27,
+      "bbox": {
+        "x0": 2197,
+        "y0": 5639,
+        "x1": 2824,
+        "y1": 5795
+      },
+      "class": "article",
+      "raw_text": "Kari's Clover Root Tea for consump- tion. Its the best aud lf after using it vou don't say so. return the package and net your money. Sold by the Weiser Pharmacy.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 28,
+      "bbox": {
+        "x0": 2192,
+        "y0": 5002,
+        "x1": 2809,
+        "y1": 5078
+      },
+      "class": "headline",
+      "raw_text": "weekly Excursions to st. Louis via Salt Lake and Denver.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 29,
+      "bbox": {
+        "x0": 2768,
+        "y0": 1373,
+        "x1": 3371,
+        "y1": 1464
+      },
+      "class": "headline",
+      "raw_text": "Coming Racing Tournament at Weisor.- Circuit Court Rc-convenes Today.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 30,
+      "bbox": {
+        "x0": 3029,
+        "y0": 3634,
+        "x1": 3235,
+        "y1": 3685
+      },
+      "class": "headline",
+      "raw_text": "W. C. T. U.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 31,
+      "bbox": {
+        "x0": 2167,
+        "y0": 3719,
+        "x1": 2789,
+        "y1": 3800
+      },
+      "class": "headline",
+      "raw_text": "Weekly Excursions East-Personally Conducted.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 32,
+      "bbox": {
+        "x0": 1485,
+        "y0": 686,
+        "x1": 2103,
+        "y1": 1494
+      },
+      "class": "headline",
+      "raw_text": "SOME STEAMER N0TKS. What the Huntington Herald Terms a \"SuccessfuI' Trip. THIS BOAT lS ALLRl6llT Only it Needs a Little Fixing. Takes Might. Little to Constitute success.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 33,
+      "bbox": {
+        "x0": 868,
+        "y0": 2365,
+        "x1": 1466,
+        "y1": 2417
+      },
+      "class": "headline",
+      "raw_text": "Leading Business Men of Weiser.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 34,
+      "bbox": {
+        "x0": 267,
+        "y0": 2370,
+        "x1": 724,
+        "y1": 2417
+      },
+      "class": "headline",
+      "raw_text": "Public omciuls.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 35,
+      "bbox": {
+        "x0": 172,
+        "y0": 3669,
+        "x1": 854,
+        "y1": 4076
+      },
+      "class": "article",
+      "raw_text": "Weiscr High School - Public. graded. six teachers. ?*Q Priucipal Prof. J. T. Lowe iZfY Trustees, I. F, Smith, J. R. Numbers. E. M Barton. Weiser Acndcmy- Excekent facilities. Prep &>esi $sa aration for college Fuil #:A mformatlon on app ication .si#y$A to A G. Upton. president. Fall term begins September 2S. lo97.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 36,
+      "bbox": {
+        "x0": 4242,
+        "y0": 3804,
+        "x1": 4504,
+        "y1": 3840
+      },
+      "class": "headline",
+      "raw_text": "Hnnsehnld Gods.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 37,
+      "bbox": {
+        "x0": 137,
+        "y0": 681,
+        "x1": 1471,
+        "y1": 787
+      },
+      "class": "headline",
+      "raw_text": "Directors all Department d General Information.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 38,
+      "bbox": {
+        "x0": 2147,
+        "y0": 2486,
+        "x1": 2769,
+        "y1": 2752
+      },
+      "class": "article",
+      "raw_text": "Remaining uncalled for in the Weiser postolice for the week ending Mar. I9, '9S. Hodge. B. Bogarth, Mrs. Mary Moore. James Hilleauy. Mrs M A. Ransom, Mrs. Addie When calling for any of these letters please say advertised. W. W. pnITcHETT. P. M.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 39,
+      "bbox": {
+        "x0": 4107,
+        "y0": 5849,
+        "x1": 4719,
+        "y1": 6106
+      },
+      "class": "article",
+      "raw_text": "Next Friday will open a bakery in the building formerly oecupied hy Vausice's barber shop will keep the iinest fresh bread; pies, cakess doughnuts. huns. etc. of ali kind*- G. W. Tunxrsos.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 40,
+      "bbox": {
+        "x0": 3650,
+        "y0": 5017,
+        "x1": 3882,
+        "y1": 5058
+      },
+      "class": "headline",
+      "raw_text": "llow,s ThisY",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 41,
+      "bbox": {
+        "x0": 2167,
+        "y0": 3508,
+        "x1": 2789,
+        "y1": 3700
+      },
+      "class": "article",
+      "raw_text": "RANCH FoR SALE -A fine farm of 160 acres on Mann creek, improve- ments, orchard, alfalfa meadow, etc. , at a bargain. Call at ihis oilice or write.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 42,
+      "bbox": {
+        "x0": 142,
+        "y0": 1624,
+        "x1": 463,
+        "y1": 1720
+      },
+      "class": "headline",
+      "raw_text": "VVeiSer",
+      "legibility": "Legible"
+    },
+    {
+      "id": 43,
+      "bbox": {
+        "x0": 2843,
+        "y0": 5944,
+        "x1": 3466,
+        "y1": 6136
+      },
+      "class": "article",
+      "raw_text": "The remarks of Miss .slocum were as follows: The world seems to agree that we have lost in Frances willard the greatest woman America !.as ever rrodncel. crrIain it i- thai to uo o'hsr",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 44,
+      "bbox": {
+        "x0": 282,
+        "y0": 4962,
+        "x1": 784,
+        "y1": 5008
+      },
+      "class": "headline",
+      "raw_text": "Clerks of School Districts.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 45,
+      "bbox": {
+        "x0": 2272,
+        "y0": 2766,
+        "x1": 2649,
+        "y1": 2807
+      },
+      "class": "headline",
+      "raw_text": "Fruit Trees for Sale.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 46,
+      "bbox": {
+        "x0": 2162,
+        "y0": 3328,
+        "x1": 2789,
+        "y1": 3484
+      },
+      "class": "article",
+      "raw_text": "Cloth lined pocket envelopes never wear out, and are especially made for carrying papers in the pocket. 5 cents each at SlGNAL oiiice.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 47,
+      "bbox": {
+        "x0": 4076,
+        "y0": 4355,
+        "x1": 4699,
+        "y1": 4487
+      },
+      "class": "article",
+      "raw_text": "Stop ihat coughl Take warning. lt may laad lo consumption. A 25c bottlo of Shllohis Cure may save your life. Sold by the Wciser Pharmacy.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 48,
+      "bbox": {
+        "x0": 132,
+        "y0": 822,
+        "x1": 1045,
+        "y1": 943
+      },
+      "class": "headline",
+      "raw_text": "Washington County",
+      "legibility": "Legible"
+    },
+    {
+      "id": 49,
+      "bbox": {
+        "x0": 1560,
+        "y0": 5624,
+        "x1": 2183,
+        "y1": 6136
+      },
+      "class": "article",
+      "raw_text": "The SIGNAL has heard it reported that Captain Baughman, after making the trip to Oxbow and return in the Mable, has pronounced navigation a failure. This much could have been learned by the Navigation people at less expense by consulting the cap tain who took down the Norma. Wo notice by the Lewiston Tribune tllat Captain Baughman returned to Lew- ision. took Isis family and ias gnno",
+      "legibility": "Legible"
+    },
+    {
+      "id": 50,
+      "bbox": {
+        "x0": 132,
+        "y0": 922,
+        "x1": 1476,
+        "y1": 2336
+      },
+      "class": "article",
+      "raw_text": "U Idaho. aud while n ns vet u a none in the stie posesses greater promise for resurce. | contains 1000 and 5000 mdes being 100 mile 50 make it apable o living witiin ilsef i a Chinese wall were buit around its boun- darcs. has Seven Devils, Horse Mounain. Carbonale Hil Summer Camp nd oth districts. bearing all kinds of mineral which furnish a he S n so much money ina is needed a here f w mill business whenever better The will find mles o rolling uxuran bunch grs on which to range his luck The offer him a home. Wis valley gong nothward comes Maun creek. Middle valy valley Indan valey Council vallev Hornet creek and Salmon Meadows To he ast is the fine Crane creek cointry Alof these local- tics offer valuab to the settler. slightly n hir particular agriculut This a induslnous a fne which will yield immense profts the hnvesed. - Furher niormaton regarding these localities will b obtaned n repondence from them SIGNAL M AICAT of Washington has a nne court name s o at abut blocks and a lv class of business men. further infnrmalon ln regard o which can be found below. The Oregon Short Line s our ony rairad. g us ful comm e u t o Surrounding Weisr within a ruoius mle 4000C o acres of the fnes agricultlrd and fruit laud n l world. land is covcred wih sage brush and O iook ai and eated t is he richest soil on earth and grow fruit savor and urnh immense rturts Weiser oners a fine locaon for various a mill a wool saved is a point for a A south n Oregon now furnishes trade ad u Snake rive would gve Weier complete command over thi isctn here are reasonabe. Farm and fru land. $0 acr- Th will cheerfuly furnish information prospective purchasers \\",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 51,
+      "bbox": {
+        "x0": 2914,
+        "y0": 5889,
+        "x1": 3401,
+        "y1": 5935
+      },
+      "class": "headline",
+      "raw_text": "MIss sLocUM,s REMARKs.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 52,
+      "bbox": {
+        "x0": 397,
+        "y0": 3614,
+        "x1": 624,
+        "y1": 3660
+      },
+      "class": "headline",
+      "raw_text": "Schools.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 53,
+      "bbox": {
+        "x0": 2282,
+        "y0": 4421,
+        "x1": 2694,
+        "y1": 4457
+      },
+      "class": "headline",
+      "raw_text": "This Is your onnortunlty.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 54,
+      "bbox": {
+        "x0": 3585,
+        "y0": 5709,
+        "x1": 3972,
+        "y1": 5750
+      },
+      "class": "headline",
+      "raw_text": "Rnnklenis Arnica Sake.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 55,
+      "bbox": {
+        "x0": 904,
+        "y0": 5834,
+        "x1": 1551,
+        "y1": 6156
+      },
+      "class": "article",
+      "raw_text": "Weiser to Middle valley (25 mles). Sa- lubria 20). Alpine d0) and Indian valley P. o. (4) Leaves every morning except Sunday; carries mail. passengers and freight. Connects with stage for Salmon Meadows From Indian valley Salubria and Mid- dle valley to Weiser, every day except Sunday (Continurd on fourth pa::e.'",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 56,
+      "bbox": {
+        "x0": 2197,
+        "y0": 5814,
+        "x1": 2824,
+        "y1": 5960
+      },
+      "class": "article",
+      "raw_text": "IANTED-Trustworihya Aetive cenilemen w or ladics to travel for responsible. estab- ' lished house. in Idaho. Monthly S65.00 and expenses. Position steady. Reference. Enclose self-addressed stamped envelope The Dominion Company. Dept. Y. ohicnzo. 40",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 57,
+      "bbox": {
+        "x0": 4212,
+        "y0": 5122,
+        "x1": 4609,
+        "y1": 5158
+      },
+      "class": "headline",
+      "raw_text": "what Dr. A. E. salter Says.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 58,
+      "bbox": {
+        "x0": 382,
+        "y0": 4105,
+        "x1": 659,
+        "y1": 4146
+      },
+      "class": "headline",
+      "raw_text": "Clrurchcs-",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 59,
+      "bbox": {
+        "x0": 3475,
+        "y0": 5764,
+        "x1": 4087,
+        "y1": 6116
+      },
+      "class": "article",
+      "raw_text": "The best Salve in the world for Cuts. Bruises. Sores. Salt Rhenm. Fever Sores, Teuer. Chappcd Hands Chilblains Corns. and all Skin Eruplions. and positively cures Piles or no pay required. It is refunded. Price 25 cents per box. For sale by B. M. jennev. Groceries and Hardware at bottom prices at the Cast Iron Store.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 60,
+      "bbox": {
+        "x0": 4016,
+        "y0": 676,
+        "x1": 4654,
+        "y1": 1409
+      },
+      "class": "headline",
+      "raw_text": "WENT SALlNG, Off to Alaska's Golden, Frozen shorc. lll l ROUGH VOYAGE. -- Jeff saling Tells of His Trip From rortlspd to Dyea.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 61,
+      "bbox": {
+        "x0": 2207,
+        "y0": 5974,
+        "x1": 2834,
+        "y1": 6141
+      },
+      "class": "article",
+      "raw_text": "Catarrh cured. A clear head and sweet breath secured with shiloh's Catarrh Remedy. Nasal injector free. We sell six botllcs for s3 aud guarantee an abso- lute cure s\"ii hv the We.si-r PAarm2rv.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 62,
+      "bbox": {
+        "x0": 4317,
+        "y0": 5814,
+        "x1": 4504,
+        "y1": 5845
+      },
+      "class": "headline",
+      "raw_text": "New Bakery.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 63,
+      "bbox": {
+        "x0": 2257,
+        "y0": 2461,
+        "x1": 2654,
+        "y1": 2492
+      },
+      "class": "headline",
+      "raw_text": "Adxerlised Letters",
+      "legibility": "Legible"
+    },
+    {
+      "id": 64,
+      "bbox": {
+        "x0": 4102,
+        "y0": 5433,
+        "x1": 4709,
+        "y1": 5519
+      },
+      "class": "article",
+      "raw_text": "To Curc Constipatio\" rorever. Take GAsrarcts Candy Cathariic 10c or A5c- lf C C. C tall in curc. druggists refund monef.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 65,
+      "bbox": {
+        "x0": 2758,
+        "y0": 676,
+        "x1": 3371,
+        "y1": 1304
+      },
+      "class": "headline",
+      "raw_text": "NOT MUCH GOSSIP. But Here's What Little There is on Hand. WILLARD MEMORIAL SKRllN",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 66,
+      "bbox": {
+        "x0": 4092,
+        "y0": 5533,
+        "x1": 4714,
+        "y1": 5625
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 67,
+      "bbox": {
+        "x0": 1119,
+        "y0": 5779,
+        "x1": 1336,
+        "y1": 5825
+      },
+      "class": "headline",
+      "raw_text": "AEE&",
+      "legibility": "Legible"
+    },
+    {
+      "id": 68,
+      "bbox": {
+        "x0": 904,
+        "y0": 5674,
+        "x1": 1521,
+        "y1": 5775
+      },
+      "class": "article",
+      "raw_text": "o. s. - West bound passenger ........I:Io p East bound passenger p |",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 69,
+      "bbox": {
+        "x0": 843,
+        "y0": 2431,
+        "x1": 1486,
+        "y1": 2537
+      },
+      "class": "article",
+      "raw_text": "Additional uformauon in regard to any of the f\"llowing can be found in then advertisements in this paper:",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 70,
+      "bbox": {
+        "x0": 914,
+        "y0": 5629,
+        "x1": 1536,
+        "y1": 5665
+      },
+      "class": "headline",
+      "raw_text": "MaiI-, Tn.a,ins and soages.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 71,
+      "bbox": {
+        "x0": 437,
+        "y0": 2431,
+        "x1": 549,
+        "y1": 2452
+      },
+      "class": "author",
+      "raw_text": "STA'l",
+      "legibility": "Illegible"
+    }
+  ]
+}

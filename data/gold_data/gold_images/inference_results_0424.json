@@ -1,0 +1,1086 @@
+{
+  "paper_name": "Abilene Weekly Reflector",
+  "paper_date": "1899-09-07",
+  "paper_city": "Abilene",
+  "paper_state": "Kansas",
+  "paper_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/",
+  "lccn": "sn84029386",
+  "volume": "17",
+  "issue": "1",
+  "edition": "1",
+  "pages": {
+    "1": {
+      "page_number": "1",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0424.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0424.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "424"
+    },
+    "2": {
+      "page_number": "2",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0425.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0425.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "425"
+    },
+    "3": {
+      "page_number": "3",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0426.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0426.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "426"
+    },
+    "4": {
+      "page_number": "4",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0427.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0427.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "427"
+    },
+    "5": {
+      "page_number": "5",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0428.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0428.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "428"
+    },
+    "6": {
+      "page_number": "6",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0429.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0429.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "429"
+    },
+    "7": {
+      "page_number": "7",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0430.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0430.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "430"
+    },
+    "8": {
+      "page_number": "8",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0431.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0431.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "431"
+    },
+    "9": {
+      "page_number": "9",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0432.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0432.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "432"
+    },
+    "10": {
+      "page_number": "10",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0433.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0433.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "433"
+    },
+    "11": {
+      "page_number": "11",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0434.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0434.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "434"
+    },
+    "12": {
+      "page_number": "12",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0435.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0435.xml",
+      "reel_number": "00295871489",
+      "reel_sequence_number": "435"
+    }
+  },
+  "page_number": "1",
+  "scan_url": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0424.jp2",
+  "scan_ocr": "https://chroniclingamerica.loc.gov/data/batches/khi_lawrence_ver01/data/sn84029386/00295871489/1899090701/0424.xml",
+  "bboxes": [
+    {
+      "id": 0,
+      "bbox": {
+        "x0": 2790,
+        "y0": 4185,
+        "x1": 3296,
+        "y1": 4941
+      },
+      "class": "article",
+      "raw_text": "We offer One Hundred Dollars Re. ward for any case of Catarrh that cannot be cured by Hall's Catarrh Cure. F. J. CHENEY & CO., Toledo, O. We, the undersigned, have known F. J. Cheney ior the last 15 years and believe him perfectly honorable in all business transactions and financially able to carry out any obligations made by their firm. WEST & TRUAx, Wholesale Druggists, Toledo, O. WALDNG, KNNAN & MARvIN, Whole- sale Druggists, Toledo, 0. Halls Catarrh Cure is taken inter nally, acting directly upon the blood and mucous surfaces of the system. Testimonial sent free. Price 75c. per bottle. Sold by all druggists. Hall's Family Pills are the best.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 1,
+      "bbox": {
+        "x0": 724,
+        "y0": 913,
+        "x1": 1220,
+        "y1": 1908
+      },
+      "class": "article",
+      "raw_text": "The following party left on M. P. Jolley & Sons excursion Eto Pennsyl- vania on account of G. A. R. encamp. ment. A special car was filled and attached to the noon train: Messrs. and Mesdames M. P. Jol. lev, J. S. Baumbaugh, Sleichter, S. Keiffer, J. S. Chronister, S. A. Flen- ner, J. K. Forney, H.B. Felty; Messrs. Abram Forney Jr., 0. E. Powell, H. Southworth, Geo. Livingston, J. M. Gleissner, Peter Minick, Willis Minick, G. W. Blistine, S. R. Hoax, Mike Page, S. M. Solenberger, Sam Lehman, Ben. J. W. Hoover, J. A. Robertson, G. A. Cramer; Mesdames N. C. Dyer, A. S. Gish, J. L. Brent zer, Kline, J. Bert, J. E. Gish, Gold- horn, Hosteter, Philipy, Biles; Misses May Flenner, Minnie Dunn, Lizzie Beckhard. Two or three of the party did not go until Sunday.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 2,
+      "bbox": {
+        "x0": 2266,
+        "y0": 1278,
+        "x1": 2772,
+        "y1": 3018
+      },
+      "class": "article",
+      "raw_text": "The city schools opened Monday with an attendance about the same as last year. Miss Mary Lesher, one of the efi- cient teachers of the Garfield build- ing, resigned to take a place in the Lincoln, Neb., schools at $55 a month. She left for Lincoln at noon. Mrs. J. E. Keel was transferred from west side and Miss Edna Anderson placed in charge oI the west side school. Another teacher will be elected at tonight's board neeting. The assignment of teachers is: High school -Principal W. H. Wagner; first assistant, Helen W. Wise; second assistant, Minnie Zim. merman. Lincoln school--Room |, principal, J. B. Stauffer; room 2, Emma Hass- hagen; room }, Georgia Nichols; room 4, Bertha Jacobs. Garfield school-Room |, Principa A. E. Lockhart; room 2, Addie Overt room }, Jessie Thayer; room 4, Mrs. Nellie Keel; room 5, Mary Edwards; room 6, Beatrice Waring; Daisy Balliet; room 8, Anna Elston; room 9, Lillie Jackson; room 10, Bertha Perring. West side-Edna Anderson. The enrolment is: Lincoln school, 145; Garfield, 5l5, West side 29; high school 125; total 814. Mt. St. Joseph's college opened this morning with large attendan3e The school is growing in influence steadily and is becoming one of the leading institutions oi the west.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 3,
+      "bbox": {
+        "x0": 1752,
+        "y0": 1835,
+        "x1": 2253,
+        "y1": 2783
+      },
+      "class": "article",
+      "raw_text": "Rev. Dr. Haithcox surprised the congregation of the Lutheran church Sunday morning by preceding his sermon with personal talk. He said he had known for a year that he had some opposition m the church and for six months had been harassed by anonymous letters that made his life unpleasant. He concluded by saying that he hoped the church would elect a successor soon. Dr. Haithcox has made hosts of friends during his pastorate and they will be sincerely sorry to have him go, though he has many offers of more profitable places. For the contemptible cowald who will write anonymous letters no sane person has other than excavation and it is to be hoped that the person guil- ty in this instance may be exposed and held up to public scorn.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 4,
+      "bbox": {
+        "x0": 1752,
+        "y0": 2964,
+        "x1": 2253,
+        "y1": 4080
+      },
+      "class": "article",
+      "raw_text": "The postofice department has adopted new form of domestic money order, which will be introduc- ed gradually. or as supplies of the old form become exhausted at the various post offices throughout the country,. after today, Sept. 4. The new form is somewhat smaller than the order now in use. Its di- mensions are about those of an ordi- nary bank draft. lt has two ad uncts -the advice, ur notification to be sent by the issuing to the paying postmaster, is reproduction of the order through the use of carbonized paper (the manifold process) and receipt for the amount to be furnished by the issuing postmaster to the re- mitter. On the back of the order a separate space has been provided for the stamps of banks through which it may be passed for collection. It is expected that on or about January | next the fee charged for orders will be materially reduced.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 5,
+      "bbox": {
+        "x0": 1238,
+        "y0": 1244,
+        "x1": 1739,
+        "y1": 2591
+      },
+      "class": "article",
+      "raw_text": "The city council met Friday night ia regular session. Owing to the lack of a quorum no business was done and adjournment was taken until Monday evening, September l1. James L. Buford of Kansas City appeared before the council with a proposition to erect a gas plant here. He will at the next meeting ask for a a franchise to lay pipes in the streets. Mr. Buford agrees that the prlce of gas shall not be more than $1.10 per thousand feet with of rebate of 10 cents if paid promptly each month. This is considered a very low rate in the cities and will enable Abilene peo- ple to cook on gas ranges at a less ex- pense than coal or gasoline, besides being remarkably convenient. Light will also be furnished of an ex. cellent quality and the city will be offered street lamps at $12 per lamp year. This is very cheap and would supplement the arc lamps in parts of the city where the larger lamps are not needed. Mr. Buford comes with high recommendations and ample backing. If he locates a plant here it will make another indus- try for the town and make Abilene more metropolitan.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 6,
+      "bbox": {
+        "x0": 195,
+        "y0": 1047,
+        "x1": 706,
+        "y1": 2043
+      },
+      "class": "article",
+      "raw_text": "Masked Men Cover Him With Shot Gum while They Take all His Cash and Leave the Place-No Trace of Them. Special to the Reflector. CARLToN, Kas. Sept. 2-Robt. June, a cattleman living near Marion count ty line, eight miles south of the city was held up at his home last night and robbed of $2,100. He had sold his years product of cattle yesterday and took the money home with him. The robbers evidently followed him and came to the house about 10 o'clock in the evening. They covert ed June with shot guns and ordered him to produce the money which at last he did. His family was also covered and dared not give him assistance. The men were so thor- oughly disguised that they could not be indentified and rode away over the prairie undisturbed.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 7,
+      "bbox": {
+        "x0": 719,
+        "y0": 3714,
+        "x1": 1220,
+        "y1": 4743
+      },
+      "class": "article",
+      "raw_text": "- Scholarship to Miss Dyer. Sunday's papers contained the announcement that Gov. Stanley had tendered the New York School of Art and Design scholorship to Miss Lillie Dyer of this place. Several months ago this scholarship was presented to the State, which, in turn, through the governor, was to be presented to the one whom he thought most worthy of it. A dozen or more applications were made to the governor for the scholarship, and is much to Miss Dyer's credit that she was selected. Miss Dyer graduated from the Abilene high school several years ago and for more than a year has been con. ducting her millinery store in Con- cordia. She has always displayed considerable artistic ability in her drawings, sketches, etc., and it was with much pleasure that her many friends learned that she had received the scholarship.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 8,
+      "bbox": {
+        "x0": 714,
+        "y0": 2071,
+        "x1": 1225,
+        "y1": 3566
+      },
+      "class": "article",
+      "raw_text": "999Ag\"s\" \"ss\" AA Sunday evening about 7:30 a small blaze was discovered in G. W. Mil. ler's stable on South Second. The building was old and dry and in minute was enveloped in flames and smoke. The wind was from the southeast and soon carried the flames across the alley setting fire to James Johnson's chicken-coops and barn, which for time looked as though they would be completely destroyed. The fire had made considerable progress before an alarm was given, but the fire department answered promptly to the call and with good water pressure soon put the flames out. OHow the fire started is mystery. The horses and buggy were taken taken dht of the Miller stable and nothing of any value besides the stable and a few out.builldings was burned Mr. Johnsou was out driv- ing with his family and knew nothing of the fire until he returned home. Considerable damage was done to the roof and east and south sides of his barn. About 120 yards d carpet which was stored in the loft was com- pletely ruined and some hay was burned. The Johnson barn was insured. The property occupied by G. W. Mil- ler is owned by an eastern party and the stable was not insured.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 9,
+      "bbox": {
+        "x0": 191,
+        "y0": 3772,
+        "x1": 706,
+        "y1": 4162
+      },
+      "class": "article",
+      "raw_text": "K. C. Journal: Up to date the ABILENE REFLEoToR's watermelon contest has brought out melon weighing seventy-two pounds. Ad. ditional zest has been added to the contest by the appearance of a sixty eight pound negro boy who offers to eat the seventv.two pound melon at one sitting for a prize of $1.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 10,
+      "bbox": {
+        "x0": 195,
+        "y0": 2229,
+        "x1": 706,
+        "y1": 2826
+      },
+      "class": "article",
+      "raw_text": "M. Hill, farmer living near Alida, was sandbagged Thursday night near that place while on his way home from Junction City. A pack- age was placed in the road and when he got out to pick it up he was struck on the head with a blunt object and knocked senseless. After a while he partially recovered and managed to guide the team nearly home and was found the next morn- ing. Sunday he had not yet fully re- covered consciousness. The robbers got $32.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 11,
+      "bbox": {
+        "x0": 2271,
+        "y0": 4233,
+        "x1": 2777,
+        "y1": 5392
+      },
+      "class": "article",
+      "raw_text": "At the home of the bride in Clay Center Wednesday evening, Aug. 80, occurred the ceremony that united the lives and fortunes of Prof. A. B. Carney, principal of the Concordia schools, and Miss Myrtle Latta. Both are too well known to need either in- troduction or encomium. The brlde was the eflicient music teacher in the city schools last year and is a most accomplished young lady and the groom-well, everybody knows A. B. throughout the State. He is known as one of the coming men in educa- tional circles, in fact hes there now, and at home people know him as a young man oi sterling worth, a gen- tleman that any one should be proud to call friend. The happy couple will take a short wedding journey and will be here at their home next week. -[Concordia Empire. The bride is a former Dickinson county girl having spent her youth' iul years in Ridge township. She has many friends in this county wh( wish her much joy.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 12,
+      "bbox": {
+        "x0": 200,
+        "y0": 4704,
+        "x1": 711,
+        "y1": 5214
+      },
+      "class": "article",
+      "raw_text": "0n Thursday the pupils of Miss Grace Kugler gave recital at the home of Mr. McKennet on Vine street. They report having enjoyed a very pleasing program especially the songs by their teacher and her sister. Refreshments were served then fol- lowed an hour spent in a social man- ner. Miss Kugler gave public recital with part of her pupils at Talmage last Wednesday evening.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 13,
+      "bbox": {
+        "x0": 1757,
+        "y0": 4252,
+        "x1": 2253,
+        "y1": 4984
+      },
+      "class": "article",
+      "raw_text": "The board of education met .Mon- day night in regular session. The usual bills were allowed. Miss Edna Anderson was elected as teacher of the west side school in place of Mrs. Keel transferred to Gar field building. Miss Edna is one of Abilene's most popular young ladies and graduate of the Abilene high school. The board made wise choice in electing her and she will make valuable ad- dition to the corps of teachers. The second instalment was ordered paid on the furnaces. Alter usual routine business ad. iourned.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 14,
+      "bbox": {
+        "x0": 1243,
+        "y0": 4507,
+        "x1": 1744,
+        "y1": 5815
+      },
+      "class": "article",
+      "raw_text": "That innocent little story of the boy on the cornstalk on the Whitlaw farm as told by this moral and religi- ous organ is still marching on. The Blaine, Oklahoma, Eagle says: \"The Abilene, Kansas, REFLECTOR gets off this: \"A boy climbed a corn stalk, in the Abilene valley, to see how the ears were getting along. The corn grew so fast that he could not climb down. Three men tried to chop it away That isn't circum- stance to a case here in Blaine coun- ty. Last spring farmer planted his corn early and it got a quick start and when the great flight d wild geese and brants started north his corn caught tnem m mid alr aHd in its growth, stripped immenso quantities. oi feathers off them ant the bodies settled in masses. Mer are now doing big busines mining feathers out of the uppe parts of the corn and hotel suppl. companies are securing roast goos and brant meat by the trainload They are clamoring for the speed completion into okeene of the Denver Kingisher and Gulf railroad so the can supply the eastern demand fo this great delicacy.\"",
+      "legibility": "Legible"
+    },
+    {
+      "id": 15,
+      "bbox": {
+        "x0": 2266,
+        "y0": 3085,
+        "x1": 2767,
+        "y1": 3595
+      },
+      "class": "article",
+      "raw_text": "At the residence of the brides parents, Mr. and Mrs. R. M. Smiley, .on East Fourth street, Abilene, Sept. 2 at 5 p. m., in the presence of few relatives were married Quincy Lee and Miss Nannie Smiley, Rev. Swart of Abilene ofiiciating. The groom is one of Dickinson's most popular voung men and the bride is one of Abilene's most esteemed young ladies. Their many friends will wish them much ioy.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 16,
+      "bbox": {
+        "x0": 191,
+        "y0": 3310,
+        "x1": 701,
+        "y1": 3696
+      },
+      "class": "article",
+      "raw_text": "The district court of Lyon county has ordered that Lee Wright and A. L. Morrison, receivers of 3,000 cattle owned formerly by Grant G. Gillett' sell them during September in Kan sas City, for the benefit of creditors' and to deposit the proceeds of the sale in Emporia, Leavenworth and Topeka banks.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 17,
+      "bbox": {
+        "x0": 2781,
+        "y0": 3594,
+        "x1": 3286,
+        "y1": 4104
+      },
+      "class": "article",
+      "raw_text": "Parents will please notify their children not to stop at postollice and call for mail every time they go to and from school, for it is not only an annoyance, but it is unnecessary. Very frequently complaints have been made to the oflice of mail given to children being lost, so in the future no mall will be given to school chil- dren except upon a written order of parents. RloHARD WAmNa' Postmaster.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 18,
+      "bbox": {
+        "x0": 200,
+        "y0": 4238,
+        "x1": 706,
+        "y1": 4623
+      },
+      "class": "article",
+      "raw_text": "DILLON, Sept. 4.-James Rowe died Saturday night about 9 o'clock after several weeks illness. He was born Aug. 5, 1891, in the old country, he was married there and came to this country in 1853, settling in Michigan. From there he came to Dillon when it was being built. He was well known in South Dickinson.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 19,
+      "bbox": {
+        "x0": 2785,
+        "y0": 917,
+        "x1": 3296,
+        "y1": 3518
+      },
+      "class": "article",
+      "raw_text": "MANILA, Sept. 8.-The Twentieth Kansas regiment sailed for San Fran cisco today on board the Tartar. The transport is to touch at Hong Kong, Nagasaki, Yokohama and Honolulu on the way home. There are about 800 men and off, cers of the regiment aboard. General and Mrs. Funston will sail tomorrow on the hospital shipSolace. The Solace will touch at Iloilo. The Kansans, sailing on the Tartar, have been put ahead ot their turn in returning to America. The Wash ington regiment which will not sail till Tuesday, on the Pennsylvania, reached the Philippines before the Twentieth Kansas. The voyage of the last three regi- ments that have crossed the Pacific has occupied about a month. The Kansans should arrive in San Fran cisco about October 2. The muster out will probably take three weeks more for the completion of rolls and settling of accounts. If there are no unforeseen delays the reglment should be ready to start for home the last week of October and should reach Topeka before November |. Gover- nor Stanley has arranged with the Atchison, Topeka & Santa Fe railroad to transport the troops from San Francisco. The governor expects the entire expense to be borne by the State and the railroad will wait for its pay until the session of tho next legislature. The Tartar, on which the regiment is returning, is a large transport ca- pable of accommodating 1,500 men. lt was chartered in July and has just finished its first trip to Manila for tho war department. General Joseph Wheeler was lts most noted passen- ger. The Twentieth Kansas regiment has been away from home fourteen months and from the United States ten months. Two bnttalions of the regiment sailed for Manila on the Indiana October 28. The other bat talion followed November on the Newport. The transports reached Manila December and 2. The reg. iment was in the fighting from the beginning in February and was not removed from the firing line till late in the spring. lt has seen nine months' service in the islands.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 20,
+      "bbox": {
+        "x0": 1238,
+        "y0": 3724,
+        "x1": 1739,
+        "y1": 4104
+      },
+      "class": "article",
+      "raw_text": "\"Warren Guthrie,\" says the Atch- ison Champion, \"has decided to put a very novel feature in the corn car' nival parade. He will have twelve little negro boys dressed in the cos- tune of Adam and Eve. In place of a fig leaf, however, a corn husk will constitute their attire, and they will be labeled .Our New Possessions.\"",
+      "legibility": "Legible"
+    },
+    {
+      "id": 21,
+      "bbox": {
+        "x0": 2286,
+        "y0": 5459,
+        "x1": 2791,
+        "y1": 5806
+      },
+      "class": "article",
+      "raw_text": "The pleasant effect and perfect saie- ty with which ladies may use Syrup of Figs under all conditions makes it their favorite remedy. To get the true and genuine article look for the name oi the California Fig Syrup Co. printed near the bottom of the pack- age. For sale by all druggists.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 22,
+      "bbox": {
+        "x0": 1772,
+        "y0": 783,
+        "x1": 2243,
+        "y1": 1615
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 23,
+      "bbox": {
+        "x0": 210,
+        "y0": 5300,
+        "x1": 720,
+        "y1": 5815
+      },
+      "class": "article",
+      "raw_text": "The postmaster general has ordered that every postofiice in the United States shall note the number of pieces and character of the mail mat. ter handled by it between October 8 and November 6. The execution of this order involves an immense amount of labor and is to be done in order that an accurate table of stats. tics may be prepared. This is the first time in twenty years that such an order has been issued, it is said.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 24,
+      "bbox": {
+        "x0": 191,
+        "y0": 2907,
+        "x1": 706,
+        "y1": 3244
+      },
+      "class": "article",
+      "raw_text": "Solomon Tribune: W. M. Stark has melon in his patch northeast of town that beats any melon in the county for size. It measures 47 inches in circumference one way and 57 inches the other way and weighs 85 pounds. It is not yet ready to take from the vine.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 25,
+      "bbox": {
+        "x0": 2266,
+        "y0": 3666,
+        "x1": 2767,
+        "y1": 4176
+      },
+      "class": "article",
+      "raw_text": "At the probate judges oflice by Judge Erwin a high noon were mar ried Elmer E. Storey and Miss El iza- beth Klover. The bride is a daugh- ter of Mr. and Mrs. John Klover of sunnyside and one of Di:kinson's prettiest girls. Mr. Storey is a pros perous young man and they have many good wishes. A large reception was given the newly wedded couple at the home d the brides parents Tuesday evening.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 26,
+      "bbox": {
+        "x0": 1767,
+        "y0": 5151,
+        "x1": 2263,
+        "y1": 5806
+      },
+      "class": "article",
+      "raw_text": "Surveyor Romig is busy placing at the corners of blocks small stakes locating the levels of the curb gutters for the benefit of the street commls- sioner in his work of drainage. Al- though grade was established some years ago the process of scraping streets, the various floods and other things have disarranged these grades and many of the gutters are too high or too low. If stakes had been set years ago it would have saved the city thousands of dollars in extri street work and defective drainage The present guides will be of mucl value.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 27,
+      "bbox": {
+        "x0": 1238,
+        "y0": 3296,
+        "x1": 1739,
+        "y1": 3643
+      },
+      "class": "article",
+      "raw_text": "Jas. Callahan and Ed Yeadon say they were held up by three men near theicemetery Friday night. The strang- ers were ugly and wanted money but did not get it. It is said that Callahan was hit in the face by the would-be robbers and had two. teeth broken.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 28,
+      "bbox": {
+        "x0": 1238,
+        "y0": 4185,
+        "x1": 1739,
+        "y1": 4436
+      },
+      "class": "article",
+      "raw_text": "Charles Zurmurlan, whose home was in Fragrant Hill and who came to the county poor farm last spring, died of cancer of the stomach Friday night. Funeral from the farm Suns day.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 29,
+      "bbox": {
+        "x0": 2800,
+        "y0": 5237,
+        "x1": 3310,
+        "y1": 5786
+      },
+      "class": "article",
+      "raw_text": "The following is the list of un- claimed letters remaining in the Abi- lene postoflice for the week ending Sept. 2, 1899. Have your mail sd- dressed to your box number and it will be promptly delivered. oENTLEMEN's LIST. .,ones. Blaine Kelley. Rev E Lenhart, John (foreignI Rice, AH LADIES' LIST. Cunningham, Lina Doyle. Persis (2 One cent will be charged for all ad- vertised letters. Persons calling for the above will please say \"advertised\" giving date. RlCHARD WARING, P. M.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 30,
+      "bbox": {
+        "x0": 724,
+        "y0": 4824,
+        "x1": 1225,
+        "y1": 5162
+      },
+      "class": "article",
+      "raw_text": "It is reported from lola that the Kansas City Blues have offered to play the local baseball team another game on the iollowing terms: The Blues to take all the gate receipts and to pay the lola team $25 for each run it succeeds in making. The Blues dare not do that with Abilene.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 31,
+      "bbox": {
+        "x0": 1238,
+        "y0": 2748,
+        "x1": 1739,
+        "y1": 3206
+      },
+      "class": "article",
+      "raw_text": "and Town. A long pending wrestling match between Hoffman of Abilene and Hinchley of Carlton was pulled off at the ball park last Saturday before an admiring crowd. The men wore evenly matched. Hinchley won the first fall, Hoffman the second and the third was declared draw, tying the match. The purse, $50, was di- yided.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 32,
+      "bbox": {
+        "x0": 729,
+        "y0": 5223,
+        "x1": 1234,
+        "y1": 5810
+      },
+      "class": "article",
+      "raw_text": "'A \"\" Real Estate Transfers, Reported by Abbe & Ellison Abstracters. Anna Stoner to J B Stoner se q 2l-11- |, $2,000 Annie Toms to C E Rush lts 21 22 blk 20, lts 27 28 bk 39 Abilene T Co, $325. J D Hoffman to M Barringer lt 2 blk IS Manchester, $200. F B Lillie to J B Frost lt l8 blk 18 Chapman, $85. N S Sunderland to J S Kaufman sws 29-14-S, $1700. R C Hawkins to C H Hapgood sl 8i- l1.l, $2,600.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 33,
+      "bbox": {
+        "x0": 2271,
+        "y0": 1052,
+        "x1": 2777,
+        "y1": 1226
+      },
+      "class": "headline",
+      "raw_text": "Change in Teachers at tho darield Building-Miss Lesher Goes to Lin- coln, Neb.-A Prosperous Year Ahead.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 34,
+      "bbox": {
+        "x0": 1238,
+        "y0": 1052,
+        "x1": 1744,
+        "y1": 1192
+      },
+      "class": "headline",
+      "raw_text": "City May Be Able to Have Heat Very Cheap-Lights for Streets Are Pro- posed-0nly One Dollar for Gas.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 35,
+      "bbox": {
+        "x0": 2790,
+        "y0": 4968,
+        "x1": 3301,
+        "y1": 5147
+      },
+      "class": "article",
+      "raw_text": "Hot and cold baths every day, ex cept Monday, in rooms north of Pa- cific hotel, upstairs; open from to |10 p. m. 68-H",
+      "legibility": "Legible"
+    },
+    {
+      "id": 36,
+      "bbox": {
+        "x0": 215,
+        "y0": 764,
+        "x1": 691,
+        "y1": 875
+      },
+      "class": "headline",
+      "raw_text": "8{D UP 2l0l.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 37,
+      "bbox": {
+        "x0": 2790,
+        "y0": 821,
+        "x1": 3291,
+        "y1": 909
+      },
+      "class": "headline",
+      "raw_text": "Due in San Francisco on the Tartar About October 2.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 38,
+      "bbox": {
+        "x0": 200,
+        "y0": 908,
+        "x1": 706,
+        "y1": 1005
+      },
+      "class": "headline",
+      "raw_text": "CATTLEMAN SOUTH 0F CARLTON BOLDLY ROBBED.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 39,
+      "bbox": {
+        "x0": 1752,
+        "y0": 2864,
+        "x1": 2248,
+        "y1": 2956
+      },
+      "class": "headline",
+      "raw_text": "Postofice Department Has Made an Important Change",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 40,
+      "bbox": {
+        "x0": 2276,
+        "y0": 913,
+        "x1": 2777,
+        "y1": 1010
+      },
+      "class": "headline",
+      "raw_text": "BOTH COLLEGE AND THE CITY SCHOOLS BEGIN WORK.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 41,
+      "bbox": {
+        "x0": 1243,
+        "y0": 913,
+        "x1": 1748,
+        "y1": 1010
+      },
+      "class": "headline",
+      "raw_text": "KANSAS CITY FIRM WILL ASK A FRANCHISE.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 42,
+      "bbox": {
+        "x0": 1243,
+        "y0": 759,
+        "x1": 1744,
+        "y1": 875
+      },
+      "class": "headline",
+      "raw_text": "ylI | GK HlNT.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 43,
+      "bbox": {
+        "x0": 200,
+        "y0": 2128,
+        "x1": 701,
+        "y1": 2221
+      },
+      "class": "headline",
+      "raw_text": "Farmer Living Near hlida Is Sand bagged by Robbers.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 44,
+      "bbox": {
+        "x0": 2295,
+        "y0": 759,
+        "x1": 2762,
+        "y1": 870
+      },
+      "class": "headline",
+      "raw_text": "SCHOOLS ARK OPEN.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 45,
+      "bbox": {
+        "x0": 724,
+        "y0": 826,
+        "x1": 1225,
+        "y1": 909
+      },
+      "class": "headline",
+      "raw_text": "Large Party of Dickinsonans Leave for a Long Trip.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 46,
+      "bbox": {
+        "x0": 2906,
+        "y0": 5185,
+        "x1": 3200,
+        "y1": 5229
+      },
+      "class": "headline",
+      "raw_text": "Advertised Letters.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 47,
+      "bbox": {
+        "x0": 2838,
+        "y0": 754,
+        "x1": 3238,
+        "y1": 803
+      },
+      "class": "headline",
+      "raw_text": "KANsANs HAVE SAILED.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 48,
+      "bbox": {
+        "x0": 1320,
+        "y0": 4137,
+        "x1": 1662,
+        "y1": 4176
+      },
+      "class": "headline",
+      "raw_text": "Died at the Poor Farm.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 49,
+      "bbox": {
+        "x0": 1824,
+        "y0": 4997,
+        "x1": 2186,
+        "y1": 5046
+      },
+      "class": "headline",
+      "raw_text": "NEW GRADS STAKES.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 50,
+      "bbox": {
+        "x0": 2906,
+        "y0": 3541,
+        "x1": 3166,
+        "y1": 3585
+      },
+      "class": "headline",
+      "raw_text": "Postofice Notice.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 51,
+      "bbox": {
+        "x0": 1757,
+        "y0": 4166,
+        "x1": 2248,
+        "y1": 4249
+      },
+      "class": "headline",
+      "raw_text": "A New Teacher for tho Wost Side School.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 52,
+      "bbox": {
+        "x0": 1824,
+        "y0": 2796,
+        "x1": 2191,
+        "y1": 2845
+      },
+      "class": "headline",
+      "raw_text": "NEW M0NEY 0RDERS.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 53,
+      "bbox": {
+        "x0": 301,
+        "y0": 4185,
+        "x1": 614,
+        "y1": 4229
+      },
+      "class": "headline",
+      "raw_text": "James Rowe Is Dead.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 54,
+      "bbox": {
+        "x0": 311,
+        "y0": 4651,
+        "x1": 605,
+        "y1": 4700
+      },
+      "class": "headline",
+      "raw_text": "A Pleasing Recital.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 55,
+      "bbox": {
+        "x0": 758,
+        "y0": 1926,
+        "x1": 1181,
+        "y1": 1976
+      },
+      "class": "headline",
+      "raw_text": "SUNDAY EvENING BLAZE.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 56,
+      "bbox": {
+        "x0": 1757,
+        "y0": 1739,
+        "x1": 2253,
+        "y1": 1827
+      },
+      "class": "headline",
+      "raw_text": "Anonymous Letter Writer Gets in Some Contemptible Work.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 57,
+      "bbox": {
+        "x0": 2944,
+        "y0": 4132,
+        "x1": 3142,
+        "y1": 4181
+      },
+      "class": "headline",
+      "raw_text": "How's Thisl",
+      "legibility": "Legible"
+    },
+    {
+      "id": 58,
+      "bbox": {
+        "x0": 839,
+        "y0": 4771,
+        "x1": 1105,
+        "y1": 4816
+      },
+      "class": "headline",
+      "raw_text": "Here's a Scheme.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 59,
+      "bbox": {
+        "x0": 2396,
+        "y0": 3618,
+        "x1": 2628,
+        "y1": 3657
+      },
+      "class": "headline",
+      "raw_text": "Klover-Storey.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 60,
+      "bbox": {
+        "x0": 810,
+        "y0": 759,
+        "x1": 1143,
+        "y1": 803
+      },
+      "class": "headline",
+      "raw_text": "OFF FOR THE EAST.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 61,
+      "bbox": {
+        "x0": 1781,
+        "y0": 1667,
+        "x1": 2215,
+        "y1": 1721
+      },
+      "class": "headline",
+      "raw_text": "DR. HAITHC0X TO LEAVE.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 62,
+      "bbox": {
+        "x0": 1315,
+        "y0": 2623,
+        "x1": 1662,
+        "y1": 2672
+      },
+      "class": "headline",
+      "raw_text": "CALLED IT A DRAW.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 63,
+      "bbox": {
+        "x0": 1329,
+        "y0": 3238,
+        "x1": 1648,
+        "y1": 3287
+      },
+      "class": "headline",
+      "raw_text": "This Was a Hold.Up.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 64,
+      "bbox": {
+        "x0": 1762,
+        "y0": 5064,
+        "x1": 2258,
+        "y1": 5152
+      },
+      "class": "headline",
+      "raw_text": "Surveyor Romig Is Locating Street Curb Levels.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 65,
+      "bbox": {
+        "x0": 1786,
+        "y0": 4099,
+        "x1": 2215,
+        "y1": 4148
+      },
+      "class": "headline",
+      "raw_text": "MISS ANDERSON ELECTRD.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 66,
+      "bbox": {
+        "x0": 2415,
+        "y0": 4195,
+        "x1": 2628,
+        "y1": 4234
+      },
+      "class": "headline",
+      "raw_text": "LAttA.Carney.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 67,
+      "bbox": {
+        "x0": 753,
+        "y0": 3589,
+        "x1": 1172,
+        "y1": 3638
+      },
+      "class": "headline",
+      "raw_text": "ABILENE GIRL H0N0RED.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 68,
+      "bbox": {
+        "x0": 1296,
+        "y0": 4459,
+        "x1": 1681,
+        "y1": 4503
+      },
+      "class": "headline",
+      "raw_text": "The Boy and the Cornstalk.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 69,
+      "bbox": {
+        "x0": 2415,
+        "y0": 3037,
+        "x1": 2613,
+        "y1": 3081
+      },
+      "class": "headline",
+      "raw_text": "Smiloy.Lee.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 70,
+      "bbox": {
+        "x0": 287,
+        "y0": 2066,
+        "x1": 624,
+        "y1": 2110
+      },
+      "class": "headline",
+      "raw_text": "ONE M0RE H0LD.UP.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 71,
+      "bbox": {
+        "x0": 291,
+        "y0": 3724,
+        "x1": 610,
+        "y1": 3768
+      },
+      "class": "headline",
+      "raw_text": "A Melon-choly Affair.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 72,
+      "bbox": {
+        "x0": 282,
+        "y0": 3262,
+        "x1": 614,
+        "y1": 3307
+      },
+      "class": "headline",
+      "raw_text": "To Sell a Gillett Herd.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 73,
+      "bbox": {
+        "x0": 1301,
+        "y0": 3671,
+        "x1": 1672,
+        "y1": 3715
+      },
+      "class": "headline",
+      "raw_text": "A Corn Carnival Feature.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 74,
+      "bbox": {
+        "x0": 311,
+        "y0": 2849,
+        "x1": 595,
+        "y1": 2898
+      },
+      "class": "headline",
+      "raw_text": "The Mogul Melon.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 75,
+      "bbox": {
+        "x0": 191,
+        "y0": 201,
+        "x1": 3334,
+        "y1": 717
+      },
+      "class": "newspaper_header",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 76,
+      "bbox": {
+        "x0": 719,
+        "y0": 1994,
+        "x1": 1215,
+        "y1": 2081
+      },
+      "class": "headline",
+      "raw_text": "Fire on South Second Last Evening Completes the Series of Three.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 77,
+      "bbox": {
+        "x0": 2444,
+        "y0": 5415,
+        "x1": 2628,
+        "y1": 5450
+      },
+      "class": "headline",
+      "raw_text": "The Ladies.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 78,
+      "bbox": {
+        "x0": 719,
+        "y0": 3661,
+        "x1": 1210,
+        "y1": 3749
+      },
+      "class": "headline",
+      "raw_text": "Gov. Stanley Gives Art and DesigI Scholarship to Miss Dyer.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 79,
+      "bbox": {
+        "x0": 287,
+        "y0": 5247,
+        "x1": 643,
+        "y1": 5291
+      },
+      "class": "headline",
+      "raw_text": "Will Count Mail Matter.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 80,
+      "bbox": {
+        "x0": 1243,
+        "y0": 2691,
+        "x1": 1744,
+        "y1": 2773
+      },
+      "class": "headline",
+      "raw_text": "Wrestling Match Between Country and Town.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 81,
+      "bbox": {
+        "x0": 863,
+        "y0": 5189,
+        "x1": 1085,
+        "y1": 5234
+      },
+      "class": "headline",
+      "raw_text": "Shifting Son.",
+      "legibility": "Legible"
+    }
+  ]
+}

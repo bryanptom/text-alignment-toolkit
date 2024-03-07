@@ -1,0 +1,314 @@
+{
+  "paper_name": "Long Valley advocate",
+  "paper_date": "1904-12-01",
+  "paper_city": "Lardo",
+  "paper_state": "Idaho",
+  "paper_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/",
+  "lccn": "sn89055163",
+  "volume": "1",
+  "issue": "6",
+  "edition": "1",
+  "pages": {
+    "1": {
+      "page_number": "1",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0042.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0042.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "42"
+    },
+    "2": {
+      "page_number": "2",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0043.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0043.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "43"
+    },
+    "3": {
+      "page_number": "3",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0044.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0044.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "44"
+    },
+    "4": {
+      "page_number": "4",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0045.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0045.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "45"
+    },
+    "5": {
+      "page_number": "5",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0046.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0046.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "46"
+    },
+    "6": {
+      "page_number": "6",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0049.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0049.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "49"
+    },
+    "7": {
+      "page_number": "7",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0050.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0050.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "50"
+    },
+    "8": {
+      "page_number": "8",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0051.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0051.xml",
+      "reel_number": "00414211793",
+      "reel_sequence_number": "51"
+    }
+  },
+  "page_number": "1",
+  "scan_url": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0042.jp2",
+  "scan_ocr": "https://chroniclingamerica.loc.gov/data/batches/idhi_comoe_ver02/data/sn89055163/00414211793/1904120101/0042.xml",
+  "bboxes": [
+    {
+      "id": 0,
+      "bbox": {
+        "x0": 3199,
+        "y0": 4200,
+        "x1": 4172,
+        "y1": 5476
+      },
+      "class": "article",
+      "raw_text": "Chesney Keeney has just about got his new house completed. His good-hearted neighbors have been helping him along with it. He is going to put in a drug store, the drugs now being on the way. Mr. Dowell is working on the new school house, finishing up his contract. It is a nice, roomy Pchoolhouse and we are all proud of it. Frank Gleason is getting ready for spring seeding. He sold a four horse load of grain Nov. 20th. Jas. 0. Scott went to Boise Nov. 18th to visit his family and bring back supplies for himself. Joseph Downend returned home Nov. 18th, also Leo Staffon.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 1,
+      "bbox": {
+        "x0": 1219,
+        "y0": 2612,
+        "x1": 2181,
+        "y1": 6203
+      },
+      "class": "article",
+      "raw_text": "If the lumber company is to be permitted to collect toll from the settlers of Long valley, why should they not pay a just proportion of the taxes of the county? Two years ago they bought between 33,000 and 34,000 acres of timber from the state, paying 81 cents per thousand feet. This timber was sold at public sale and for cash. This time it has been assessed at 43 cents per thousand feet; why should it not be assessed at 81 cents per thousand feet? Mrs. Wm. Doering met with a painful accident a few days ago. In decending a steep hill she slip ped and fell, fracturing the knee cap. Mr. Doering, who is working near Ola, was immediately tele- phoned for. When seen yesterday he said the injured limb was doing as well as could be expected. John Connyers started for Sal mon river with his stock last Fri day. John Greyerbiehl went to assist in driving the stock out but will return in a short time. It is said that the county conn missioners have granted a twenty year franchise to the Payette Lum- ber Co. for a toll bridge across the river near Smiths Ferry. Geo. Randall, one of the Sunny side drivers, spent Friday night a' Crawford. Mr. Randall says the teams will all be taken off tho road soon. Fred. S. Logue and family havt gone to Boise for the winter. They were accompanied by G. A. Logue Fred's father. The executors of the estate of tho late John Sword will sell the per sonal property of the estate Dec. 9 Roy Davis, the Thunder Mount ain packer, has moved his famil, to Crawford for the winter. w. A. Bean has driven his calve to the Loney ranch. He is gettin ready for winter. Miss Maud Wickstrom will mak her home with Mr. and Mrs. Prun ty this winter.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 2,
+      "bbox": {
+        "x0": 2196,
+        "y0": 1489,
+        "x1": 3153,
+        "y1": 4755
+      },
+      "class": "article",
+      "raw_text": "For Old Kentucky. The new hall at this place was dedicated with a dance last Friday night. A very large crowd was in attendance and a jolly good time was had by all present. Mrs. Henry Westfall served supper for the dancers. Oscar Pinkston has built him a very nice log house at the foot of the Neeb's hill in Round valley. Oscar has the contract to carry the mail from Fern to the Klondike. Rev S. T. Hawkins took the train at Boise Nor. 18th for his old home in Kentucky. He expects to stay in his native state all winter, it is his first visit there for 39 years. Mr. and Mrs. 0. w. Coughman returned home from Boise valley last Wednesday. They had been down there for the past six weeks picking and canning fruit. H. Rowland made a trip to Boise valley last week to buy hay for his cattle, which he will take out to feed if the price of hay suits him. T..A. Morris has been employed to build the new M. E. church at Roseberry, and he expects to start work about the first of December. Quite a number of the ranchers are taking advantage of the fine weather to do fall plow!ng. A very good idea. Jack Hawley passed through here with 7,000 pounds of freighs for Vanwyck merchants Wednesday Tommy Davis took their cattlo out to Boise valley last Tuesday They had about 1,000 head. Mr. and Mrs. David Kerby ano Everett Kerby have moved to Rouno valley for the winter. R. D. Hamaker and family hays moved into James Pinkston's house for the winter. Mrs. Nettie Myers has opened u] a boarding house at Dawson city.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 3,
+      "bbox": {
+        "x0": 3173,
+        "y0": 1254,
+        "x1": 4146,
+        "y1": 3877
+      },
+      "class": "article",
+      "raw_text": "Dan Wooten has overhauled the big bobs belonging to the Sunnyside, and they were immediately trans ported to the snowy part of the Thunder Mountain road. Ths Warner mill has turned out over one and one-half million feet of lumber this season. It seems almost impossible to supply the increasing demand. Earl Stickney, the new Thunder Mountain mail carrier, has arrived from Emmett with his family to be'a permanent resident here. Frank Wootan, our popular liv- ery man, is kept busy. He had in 110 head of horses one night. Chas. Orr, transportation agent of the Robb Co.,, is making this place his headquarters. Chas. Kopp left left here Nov. 21st for Boise to bring in freight for E. V. Mclaughlin. E. V. Mclaughlin left for Boise Nov. 21st. Miss Mabel Barringer went in the same rig Geo. Christy has decided to make this. place his permanent home. Chas. Barring has just completed a new barn on his ranch. John Jones has started draying here and is kept busy. E. V. McLaughlin's new home is about completed. G. L. Alvey is contemplating a trip to St. Johns, Ky. Big dance at the new hotel Christmas Eve.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 4,
+      "bbox": {
+        "x0": 200,
+        "y0": 2142,
+        "x1": 1188,
+        "y1": 6082
+      },
+      "class": "article",
+      "raw_text": "mHuCSPOaXIH8 9OH0voUS. We wish to agree with the AD- vocATE in regard to irrigation. We have in our part of the valley three canals under construction. One is out of Boulder creek, owned by William Bothwell and Mart Nelson, covers several hundred acres, and will be ready for use next year. The settlers southwest of Roseberry have another ditch building which when completed will cover about two thousand acres of land. And there is also a settlers ditch on the south side of Gold Fork which is taken out of that stream about three-fourths of a mile above Sult's sawmilf. They expect to have this canal completed next year; the dam across Gold Fork is almost done, and this is the hardest part of the work. This canal will cover all the land for miles down the valley, which means a great deal. The speaking contests held at the Roseberry school house the evenings of Nov. 24th and 25th were a grand success, and were largely attended. A number oj people from Vanwyck, Center and Lardo were present. In the ad- vanced contest the prizes were awarded as follows: First prize $500, Nelly Parks; second, $1.00 Mervin Looms; third, 75c., Roy Blankinship. The prizes in tho primary contests were awarded a2 follows: First, $3.00, Russel Loo mig; second, $1.00, Clark Hamil ton; third, 50c., Charlie Stredder These contests closed the school. 0. W. Beardsley, of Moscow, vis ited his brother-in-law, J. W. Estes from Nov. 23rd to 27th. Mf Beardesley came with the intentiol of investing if he found a plac that suited him. He predicts brilliant future for Long valley. The snow has almost gone off th valley. This has been the fines fall weather we have had for sever al years, and farmers are prophesy ing fine crops next year. Mr. and Mrs. Earl Pottenge have moved to the Ira Pottenge place, where they expect to mak their future home. Wayman Ward has returne from Boise, where he spent th summer. William Bothwell is going t start his sawmill soon. ",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 5,
+      "bbox": {
+        "x0": 2227,
+        "y0": 5115,
+        "x1": 3189,
+        "y1": 6161
+      },
+      "class": "article",
+      "raw_text": "The prospects of Thunder city of becoming a real city are grow- ing every day Several choice lo- cations have been selected for busi- ness houses which are going up in the spring. It is reported that the Robb Mercantile Co.,, of Nampa, will put in a $20,000 stock of general mer- chandise here in the spring, and possibly a wholesale distributing house. The new bridge which is soon to be built across the river west of town will Zadd materially to the increasing trade of Thunder city.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 6,
+      "bbox": {
+        "x0": 3241,
+        "y0": 5543,
+        "x1": 4166,
+        "y1": 6145
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 7,
+      "bbox": {
+        "x0": 241,
+        "y0": 1311,
+        "x1": 2155,
+        "y1": 1829
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 8,
+      "bbox": {
+        "x0": 221,
+        "y0": 381,
+        "x1": 4177,
+        "y1": 1202
+      },
+      "class": "newspaper_header",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 9,
+      "bbox": {
+        "x0": 3444,
+        "y0": 3913,
+        "x1": 3910,
+        "y1": 4013
+      },
+      "class": "headline",
+      "raw_text": "CENTS",
+      "legibility": "Legible"
+    },
+    {
+      "id": 10,
+      "bbox": {
+        "x0": 2300,
+        "y0": 4791,
+        "x1": 3090,
+        "y1": 4907
+      },
+      "class": "headline",
+      "raw_text": "THUNDER CITY.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 11,
+      "bbox": {
+        "x0": 2227,
+        "y0": 4942,
+        "x1": 3179,
+        "y1": 5090
+      },
+      "class": "headline",
+      "raw_text": "Likely to Have a Big Mercantile Establishment.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 12,
+      "bbox": {
+        "x0": 210,
+        "y0": 2022,
+        "x1": 1183,
+        "y1": 2169
+      },
+      "class": "headline",
+      "raw_text": "Three Irrigation Canals Being Made--Speaking Contests.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 13,
+      "bbox": {
+        "x0": 3194,
+        "y0": 4038,
+        "x1": 4161,
+        "y1": 4180
+      },
+      "class": "headline",
+      "raw_text": "To Have Drug Store--New School House Nearly Finished. /",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 14,
+      "bbox": {
+        "x0": 377,
+        "y0": 1870,
+        "x1": 1026,
+        "y1": 1981
+      },
+      "class": "headline",
+      "raw_text": "RosEBERRY.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 15,
+      "bbox": {
+        "x0": 2196,
+        "y0": 1389,
+        "x1": 3142,
+        "y1": 1537
+      },
+      "class": "headline",
+      "raw_text": "New Hall Been Built--To Leave For Old Kentucky.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 16,
+      "bbox": {
+        "x0": 1208,
+        "y0": 1875,
+        "x1": 2165,
+        "y1": 2268
+      },
+      "class": "article",
+      "raw_text": "George Wulf is turning out some fine graham flour Frank Looms has gone to Coun- cil for freight. Ed. Cole went to Lardo Friday.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 17,
+      "bbox": {
+        "x0": 1407,
+        "y0": 2319,
+        "x1": 1982,
+        "y1": 2435
+      },
+      "class": "headline",
+      "raw_text": "CRAWFORD.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 18,
+      "bbox": {
+        "x0": 2488,
+        "y0": 1248,
+        "x1": 2855,
+        "y1": 1349
+      },
+      "class": "headline",
+      "raw_text": "ALPHA.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 19,
+      "bbox": {
+        "x0": 1219,
+        "y0": 2471,
+        "x1": 2181,
+        "y1": 2613
+      },
+      "class": "headline",
+      "raw_text": "Accident to Mrs. Doering--Unjust Assessment.",
+      "legibility": "Legible"
+    }
+  ]
+}

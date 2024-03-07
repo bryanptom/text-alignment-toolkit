@@ -1,0 +1,658 @@
+{
+  "paper_name": "Daily Kennebec Journal.",
+  "paper_date": "1880-07-01",
+  "paper_city": "Augusta",
+  "paper_state": "Me.",
+  "paper_url": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/",
+  "lccn": "sn82014248",
+  "volume": "11",
+  "issue": "155",
+  "edition": "1",
+  "pages": {
+    "1": {
+      "page_number": "1",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0004.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0004.xml",
+      "reel_number": "00332895989",
+      "reel_sequence_number": "4"
+    },
+    "2": {
+      "page_number": "2",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0005.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0005.xml",
+      "reel_number": "00332895989",
+      "reel_sequence_number": "5"
+    },
+    "3": {
+      "page_number": "3",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0006.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0006.xml",
+      "reel_number": "00332895989",
+      "reel_sequence_number": "6"
+    },
+    "4": {
+      "page_number": "4",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0007.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0007.xml",
+      "reel_number": "00332895989",
+      "reel_sequence_number": "7"
+    }
+  },
+  "page_number": "1",
+  "scan_url": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0004.jp2",
+  "scan_ocr": "https://chroniclingamerica.loc.gov/data/batches/me_eddington_ver01/data/sn82014248/00332895989/1880070101/0004.xml",
+  "bboxes": [
+    {
+      "id": 0,
+      "bbox": {
+        "x0": 1567,
+        "y0": 2696,
+        "x1": 2265,
+        "y1": 4534
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 1,
+      "bbox": {
+        "x0": 1594,
+        "y0": 4571,
+        "x1": 2249,
+        "y1": 5542
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 2,
+      "bbox": {
+        "x0": 243,
+        "y0": 6243,
+        "x1": 854,
+        "y1": 6811
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 3,
+      "bbox": {
+        "x0": 3681,
+        "y0": 4424,
+        "x1": 4368,
+        "y1": 5580
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 4,
+      "bbox": {
+        "x0": 161,
+        "y0": 2795,
+        "x1": 843,
+        "y1": 3193
+      },
+      "class": "article",
+      "raw_text": "Leaves BATH at P. M. \" BooTHBAY at 7.3o A. M- Landing daily at MOUSE ISLAND, and at sqUIRREL ISLAND Tuesdays and satnrdays. regular morning boat down will conmence July 6th whcn the Elegant New Steamer \"SEBENoA wiE be placed on the line. E-For Fort Popham and the Beach-Leave Bath at:P. M. Leave Fort Popham at 7.30 A. M.- Coni- melcing July 6, two trips will be run daily. jne23itf H. W. SWANTON, Tr",
+      "legibility": "Legible"
+    },
+    {
+      "id": 5,
+      "bbox": {
+        "x0": 205,
+        "y0": 5650,
+        "x1": 848,
+        "y1": 6212
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 6,
+      "bbox": {
+        "x0": 875,
+        "y0": 3432,
+        "x1": 1557,
+        "y1": 4087
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 7,
+      "bbox": {
+        "x0": 869,
+        "y0": 2778,
+        "x1": 1557,
+        "y1": 3417
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 8,
+      "bbox": {
+        "x0": 2280,
+        "y0": 1198,
+        "x1": 2952,
+        "y1": 2229
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 9,
+      "bbox": {
+        "x0": 188,
+        "y0": 5067,
+        "x1": 843,
+        "y1": 5651
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 10,
+      "bbox": {
+        "x0": 2275,
+        "y0": 2239,
+        "x1": 2946,
+        "y1": 2861
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 11,
+      "bbox": {
+        "x0": 4378,
+        "y0": 1514,
+        "x1": 5076,
+        "y1": 6697
+      },
+      "class": "article",
+      "raw_text": "Ethel Bruce sat on a low rocker in the recess of the bay windows, apparently in deep thought. A very pretty picture she made. so her Brother Hal thought as he passed along the street in company with Clay Whittlc. Ivies were cropping abov\" and around her head reachiug aiter the sunlight. while lilies, gcraniums, and hv- acintlts were hlooming ai her feet. The gentlemeu passed on. as also did the hands of the clock. but still Ethel sat ia evident study. The room was turn- ished with cultured taste. and skillful hands kept it looking very inviting to the family and their friends. lt was library and sitting room combined. EtheTs parents had always striven to have their home attractive. even if other expenses had to be curtailcd very closely. A The mother was an invalid and had been for several weeks, and the willing hands and thoughtful heart of thc mother were sadly missed by the daughter. The rest of the family said .'that Ethel took moth- er's place to them all so well. that for the time they were not great losers.\" and the mother confined to her room for lack of strength to he elsewhere. rather thcn from actual pain said ..that she was having a rest in mind and body. ior Ethel did not neglect anything\" and she kept the little mother fresh and dainty, and tho room so bright aud cheery. that all the iamily would gather around her in social glee. Ethel would first notice mother's tired look f they stayed too long. and pleasantly chiding them would drive them off to the sitting room. Clay Whittle used often to come in with Hal to the mother's room, and these little visits were seasons of de- ight to him. His mother had passed the portals over into the other side. How he missed her room and her counsel, and thc time spent over at the Bruces. were choice minutes and great helps to him. His father was a leading politician, bis sister a fashionable woman. whilo he him- self was a law student. The evening before Clay and Ethel had attended an entertainment together aud on passing out from t, she stopped moment to speak to a friend and Clay was joined by his sister. Clay she asked \"Why didn't you bring Eva Dryton this evening\"\" \"I prefer the company have.\" he answered. \"Company good enough dare say. but like to see a girl with some style of dress. Everything she wears is a year old.\" \"Which of itself is a crime of the first degree in the fashionable world\" he answered joined Ethel and passed on. So on this the following morning.. Ethel was trying to study out some plans for pew clothes. Of course she was indig- nant over the remark. but it was true that all she had. was a year old, but she had felt that they were good enough. until now. She knew too. that all they had to live upon was her father's salary. which might have seemed large to many, but their expenses were correspondingly large, and with mothers sickness and Tons college bills. or a pat of them. somebody had to economize and really deny them selves, and she had felt willing, and even anxious to do her share but after over- hearing the remark of the night before, denying herself had not been so sweet. She examined the closets to sce if there was anything available to be made over. but returned to her low rocker disheart- ened. Her father came in. and seeing something amiss. asked. \"What are your thoughts like, daughter. and what are your wishes Speak, and if half of the kingdom is desired. it shall be yours!\" \"I thought was queen of the realm, and mistress of all survey. desire no more than the bone kingdom, with a robe of royal purple.\" \"Or some. other fashionable shade\" he said. .Frank ly. Ethel, what were you thinking about?\" \"I was wondering if there was any sur- | plus money in the family treasury, fhat | could use for myself\" she said. \"I think about forty dollars. Would it help you?'' The father seemed to hesitate. Ethel spoke quickly. \"I do not want it if it is needed eleswhere.\" \"IiH let vou know at tea-time,\" he said. \"Will balance accounts for the month. and rest assured, you shall have it. daughter, if father can spare it,\" and seated on one knee with her arm twined around his $neck. she stroked his manly beard, ca- iressinglv. awe are not rich. Ethei.\" he said. \"but this home is ours, and is a very pleasant. and an attractive onc, and have a family of whom am both proud and thankful. There is one thing upon which congrat- ulate myself every week of my life, and it is this-that there are no unerpfcfeI ibills coming in for payment contracted by mv family. know that they never buy without my advice and counsel. znd , 2Hen order /he LiH sff2I home. At the end d the month come out even. at least. Here is an incident which struck me foreibly, but is only onc among the many of fny iexperience. As Ii passed tiIrough the store one day, saw Mrs. Drayton and Eva buying goods. The hill was broughi ito my desk. copied and -please remit added. as is our custom, and placed in an lenveiope to be handed to parties or mailed lopportnniiy for giving it to Mr. Drayto n occurred on my way to dinner. He open. ed it. glanced at the total, and looked very much distur},ed.\" \"Was it large ?\" asked Ethel. \"Somefhing oyer an hundred dollars '- \".Inside or thirty days will answer? hc asked. \"eYes,' answered and passed on. The time has expired and no payment yet\" \"He is very able to pay it\"' exclaimed Ethel. \"Perhaps no more so than your 1hthcse Ethel; and several such bills comingt unexpectedly soon seriously embarnss [Coniinued on fourth nsge.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 12,
+      "bbox": {
+        "x0": 2956,
+        "y0": 3176,
+        "x1": 3660,
+        "y1": 5988
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 13,
+      "bbox": {
+        "x0": 2978,
+        "y0": 5993,
+        "x1": 3654,
+        "y1": 6718
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 14,
+      "bbox": {
+        "x0": 3681,
+        "y0": 5600,
+        "x1": 4368,
+        "y1": 6718
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 15,
+      "bbox": {
+        "x0": 869,
+        "y0": 4091,
+        "x1": 1557,
+        "y1": 4359
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 16,
+      "bbox": {
+        "x0": 1578,
+        "y0": 5573,
+        "x1": 2265,
+        "y1": 6065
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 17,
+      "bbox": {
+        "x0": 2275,
+        "y0": 5050,
+        "x1": 2957,
+        "y1": 6724
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 18,
+      "bbox": {
+        "x0": 134,
+        "y0": 1672,
+        "x1": 843,
+        "y1": 2589
+      },
+      "class": "article",
+      "raw_text": "On and after SUNDAY, JUNE z i\"so, trains will eave Augusta M.; 2.10 and 10. 5y P. M. For Kockland, 6.00 A. M. and i0.o$ A- M. For Pennington, 10.0o A. x For Bath, s.00 A. M., 10.0s A. M- and 2-lo P. M. For Lewiston 6Oo 10.08 A. 2.. and 2.l0 and 0.58 |. M. (80o P. M. Saturdays only.) For Skowhegan, Aelfast, Dexter snd Bangor, 3.45 p M and 2.22 A. M. Night Pullman Trains each way every night, Sun- days included. Gardiner Accommodation Train. AUGUSTA TO GARDINER. A.M. P.M. P. M. Augusta,iv, m - 2. HailoweM, w.' s$ \"-\"\" y'\"o Gardiner, M., s\" o-o\" o\"oo GARDINER TO AUGUsTA. Gardiner, lv., S.m i 92 Hallowell, lv, S-I2 , 2 Augusta, ar.' o \" FRElGHT TRAINS. For Boston, Portland and way, 105O A M For Skowhegan, Bangor and way, l05 r.M Due from Boston, Portland and way, 12.A5 P Due from Bangor, Skowhegan and way, l0$o A.M PAYsON TCCKER, Supt. Portland, June 2i, 1850.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 19,
+      "bbox": {
+        "x0": 172,
+        "y0": 299,
+        "x1": 5126,
+        "y1": 1156
+      },
+      "class": "masthead",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 20,
+      "bbox": {
+        "x0": 4384,
+        "y0": 1307,
+        "x1": 5066,
+        "y1": 1417
+      },
+      "class": "headline",
+      "raw_text": "HOW CLH wHlrTLE.S MANH00D wAS CR0WNED.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 21,
+      "bbox": {
+        "x0": 2270,
+        "y0": 2854,
+        "x1": 2957,
+        "y1": 5046
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 22,
+      "bbox": {
+        "x0": 150,
+        "y0": 1165,
+        "x1": 838,
+        "y1": 1254
+      },
+      "class": "headline",
+      "raw_text": "Cbf $rnutbrr gournal.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 23,
+      "bbox": {
+        "x0": 864,
+        "y0": 4369,
+        "x1": 1562,
+        "y1": 5035
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 24,
+      "bbox": {
+        "x0": 188,
+        "y0": 1471,
+        "x1": 789,
+        "y1": 1537
+      },
+      "class": "headline",
+      "raw_text": "Maine Central Railroad.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 25,
+      "bbox": {
+        "x0": 4422,
+        "y0": 1187,
+        "x1": 5022,
+        "y1": 1275
+      },
+      "class": "headline",
+      "raw_text": "2alts an0 shrtthrs.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 26,
+      "bbox": {
+        "x0": 194,
+        "y0": 1367,
+        "x1": 789,
+        "y1": 1428
+      },
+      "class": "headline",
+      "raw_text": "Railrodos ano Stramtoats.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 27,
+      "bbox": {
+        "x0": 3670,
+        "y0": 2348,
+        "x1": 4352,
+        "y1": 2790
+      },
+      "class": "article",
+      "raw_text": "NoBru BRAn2oE\", ME., Mar. 2a, issd. Gentlemen :-i iakeu sick with Rheumatic Fever about a vear ago, and was confined to mv bed sIN MoNrHs. and it left me in bad shape -four *ULPHUE RITTEES have douc a great thing for My nephews laughed at me, bat told them | had great faith in them hui when they come ii they say your stLPHtR EITTERS have done a great thing for me ics. teli them, and some more oi them am going to have. applied the sUL- PiiUR PLASTERs on the places andcau now walk wi;hout mv erulches very weli, which have used for the last eighf months. am hut ttle lamr. -Four SULPHUR BITTEltS aud PLASTERs have cured me. They the greatest medicine | ever saw. Respecifullv, RANDALL x. WILSON.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 28,
+      "bbox": {
+        "x0": 166,
+        "y0": 3824,
+        "x1": 848,
+        "y1": 4408
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 29,
+      "bbox": {
+        "x0": 858,
+        "y0": 2048,
+        "x1": 2260,
+        "y1": 2676
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 30,
+      "bbox": {
+        "x0": 2956,
+        "y0": 1193,
+        "x1": 3654,
+        "y1": 3112
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 31,
+      "bbox": {
+        "x0": 3675,
+        "y0": 2048,
+        "x1": 4357,
+        "y1": 2300
+      },
+      "class": "headline",
+      "raw_text": "Miraculous Cure. I CAN NOW GO Without my Crutches.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 32,
+      "bbox": {
+        "x0": 3670,
+        "y0": 2838,
+        "x1": 4357,
+        "y1": 3144
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 33,
+      "bbox": {
+        "x0": 1022,
+        "y0": 2707,
+        "x1": 1410,
+        "y1": 2768
+      },
+      "class": "headline",
+      "raw_text": "Businrss Car0s.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 34,
+      "bbox": {
+        "x0": 869,
+        "y0": 5050,
+        "x1": 1562,
+        "y1": 5721
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 35,
+      "bbox": {
+        "x0": 166,
+        "y0": 3383,
+        "x1": 843,
+        "y1": 3804
+      },
+      "class": "article",
+      "raw_text": "The Steamer HENRY MORRlSoN' Capt. E. C. MCCLlNroCK. having been ilwJlglly repaired for the season of lo20, will run 2ni further notice, as ioilows, commencing TUEs- naL June 22 Layng AUGUSTA at i0 :30 A. M. or on the arriv- alo the Bangor train, for Eoothbay and the Islands, Tmsp,Ys THuRspAYs and SATURDAYs. Hallo- we at ll; Gardiner, ll :3o; Richmond, f2 s5 P. M. |; Ban, 2 :30 P. M. torAugusta at o'clock, A. M., on WEDNEspAis, EpAYs and MoNDAYs. , Rgular business of the season wiil be advertised afr July Ath, ls80. ugusia, June l7th, 1Ss0.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 36,
+      "bbox": {
+        "x0": 1578,
+        "y0": 6521,
+        "x1": 2265,
+        "y1": 6762
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 37,
+      "bbox": {
+        "x0": 177,
+        "y0": 2593,
+        "x1": 832,
+        "y1": 2768
+      },
+      "class": "headline",
+      "raw_text": "EASTERN STEAMB0AT C0. BsIH & B00THBAY LINE.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 38,
+      "bbox": {
+        "x0": 1578,
+        "y0": 6183,
+        "x1": 2265,
+        "y1": 6506
+      },
+      "class": "article",
+      "raw_text": "The examination for admission to College will be held on Friday, July o, at .. m., in Adams HMi The second examination willbe at the opening d the Fall Tern, Sept 24, at the sang plaoe and hour. Prncinals of fitiing schools having a regui\"r tnree vesrsss course may on application arrange to nave fheir pupils examined at their respective schoos- JosnrA L. CHAMBERLAiN, rresdent. Rrunswick. Jane 9th, 1ssO. june1+fnlUuyy",
+      "legibility": "Legible"
+    },
+    {
+      "id": 39,
+      "bbox": {
+        "x0": 264,
+        "y0": 1612,
+        "x1": 701,
+        "y1": 1657
+      },
+      "class": "headline",
+      "raw_text": "Chznge ofTme.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 40,
+      "bbox": {
+        "x0": 166,
+        "y0": 3214,
+        "x1": 832,
+        "y1": 3351
+      },
+      "class": "headline",
+      "raw_text": "Fer Boothbay, Ocean Point, Squirrel, Capital and Mouse lslands.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 41,
+      "bbox": {
+        "x0": 3190,
+        "y0": 2805,
+        "x1": 3409,
+        "y1": 2845
+      },
+      "class": "headline",
+      "raw_text": "NOTICE.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 42,
+      "bbox": {
+        "x0": 4596,
+        "y0": 1438,
+        "x1": 4826,
+        "y1": 1482
+      },
+      "class": "headline",
+      "raw_text": "M. l. sroNE",
+      "legibility": "Legible"
+    },
+    {
+      "id": 43,
+      "bbox": {
+        "x0": 161,
+        "y0": 1274,
+        "x1": 838,
+        "y1": 1335
+      },
+      "class": "article",
+      "raw_text": "Published at AUnrsrA, MAlNr, wster Street, foot of Court, by SrRAGUE SoN.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 44,
+      "bbox": {
+        "x0": 858,
+        "y0": 1165,
+        "x1": 2265,
+        "y1": 2038
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 45,
+      "bbox": {
+        "x0": 3675,
+        "y0": 3160,
+        "x1": 4363,
+        "y1": 4381
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 46,
+      "bbox": {
+        "x0": 172,
+        "y0": 4407,
+        "x1": 843,
+        "y1": 5051
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 47,
+      "bbox": {
+        "x0": 1578,
+        "y0": 6075,
+        "x1": 2249,
+        "y1": 6163
+      },
+      "class": "headline",
+      "raw_text": "B0WD0IN COLLEGE",
+      "legibility": "Legible"
+    },
+    {
+      "id": 48,
+      "bbox": {
+        "x0": 3675,
+        "y0": 1193,
+        "x1": 4352,
+        "y1": 2022
+      },
+      "class": "headline",
+      "raw_text": "- --s SULP PHUR B| RS Are just what tit.v claiia to be-the GREAT Eloon PNklFiEE. in,igoratins aid sirengtheuins ihe system, driViEg oui humur. from the blood. aad re- storing the tired uai aied eNhausied body to a state ofheath ;nd eiiovmeni. filling he veins with a purr rich, life- givnr fuid, making. inde.d, a new man of vou. capahie of eisioyiag with xest the blessincs oi life.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 49,
+      "bbox": {
+        "x0": 875,
+        "y0": 5709,
+        "x1": 1562,
+        "y1": 6773
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 50,
+      "bbox": {
+        "x0": 1452,
+        "y0": 1035,
+        "x1": 3093,
+        "y1": 1134
+      },
+      "class": "cartoon_or_advertisement",
+      "raw_text": "",
+      "legibility": "NA"
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "paper_name": "Waterbury  Democrat.",
+  "paper_date": "1895-10-15",
+  "paper_city": "Waterbury",
+  "paper_state": "Conn.",
+  "paper_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/",
+  "lccn": "2016270502",
+  "volume": "",
+  "issue": "",
+  "edition": "1",
+  "pages": {
+    "1": {
+      "page_number": "1",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0102.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0102.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "102"
+    },
+    "2": {
+      "page_number": "2",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0103.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0103.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "103"
+    },
+    "3": {
+      "page_number": "3",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0104.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0104.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "104"
+    },
+    "4": {
+      "page_number": "4",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0105.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0105.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "105"
+    },
+    "5": {
+      "page_number": "5",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0106.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0106.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "106"
+    },
+    "6": {
+      "page_number": "6",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0107.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0107.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "107"
+    },
+    "7": {
+      "page_number": "7",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0108.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0108.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "108"
+    },
+    "8": {
+      "page_number": "8",
+      "page_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0109.jp2",
+      "page_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0109.xml",
+      "reel_number": "00271762999",
+      "reel_sequence_number": "109"
+    }
+  },
+  "page_number": "1",
+  "scan_url": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0102.jp2",
+  "scan_ocr": "https://chroniclingamerica.loc.gov/data/batches/ct_gum_ver01/data/2016270502/00271762999/1895101501/0102.xml",
+  "bboxes": [
+    {
+      "id": 0,
+      "bbox": {
+        "x0": 1336,
+        "y0": 4234,
+        "x1": 2339,
+        "y1": 5611
+      },
+      "class": "article",
+      "raw_text": "That Is What Is Claimed In a Suit Over a Large Tract of Land. LoCKPoRT, N. Y, Oct. 15.-The dispo- sition of 4,000 acres of land near Marinus, Fla., hinges on the outcome of a suit to determine whether Rastus G. Gage, for merly a well known business man of Mid dleport, this state, unlawfully wedded two women. The land in question was the property of Miss Elizabeth Hawkins, whom Gage married in Florida in 1S73. She died in 1893, and there being no children Gage, ass her husband, inherited the land. Robert G.. Hawkins, a brother of the dead woman, contests this disposition of the property on the ground that the mar- riage of Gage to Elizabeth Hawkins was null and void, it being alleged that Gage had married a Jane Reynolds at Middle- port in the sixties, and that she was alive at the time of the second marriage and lived until about a year ago at Catskill, N. Y. The case has been brought in Florida, and in order to examine witnesses in Ni- agara county Justice of the Peace Thomp- son of Middleport and M. C. Holly of Lookport have been appointed commis- sioners to hear evidence at Middleport.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 1,
+      "bbox": {
+        "x0": 1366,
+        "y0": 7241,
+        "x1": 2354,
+        "y1": 7766
+      },
+      "class": "article",
+      "raw_text": "STEUBENvIELE, O., Oct. 15.-At Hope- dale, o, Miss Buckingham, a highly rep utable young lady, was met by drunken man named Leggett. The girl stepped off the sidewalk to avoid Leggett. but he grabbed her by the arm, and with an oath drew a revolver and shot the young woman through the hear6. He escaped, but was quickly overtaken by a mob, which was about to lynch him when he was rescued by the offcers of the law.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 2,
+      "bbox": {
+        "x0": 1321,
+        "y0": 1354,
+        "x1": 2317,
+        "y1": 4093
+      },
+      "class": "article",
+      "raw_text": "SAN FRANCIsCo, Oct. 15.-The trial of Theodore Durant for the murder of Blanche Lamont did not go on yesterday. So many of the jurors are business men and this being collection day the court ad- journed until today. It is likely that the court will take a further adjournment. Attorney Duprey, the leading counsel for the defense, is confined to his bed with rheumatism, and his associates will base this as a reason for continuance for sev- eral days. Although the court is known to be opposed to delays in this trial, it is believed, however, that he will grant the continuance. In that case the trial will not likely be resumed before next Monday. In the meantime Theodore Durant ro- mains in his cell, never leaving it for the customary exercising in the corridors lt is said that he is becoming exceedingly irritable. Since he finished his testimony in Judge Murphy's court the defendant has lost considerable vivacity, and instead of being careless and indifferent he is se- rious and troubled. For the first time since his arrest the medical student seemed impressed with the proper idea of his terrible position. At last it has dawned on him that hes may be convicted, and as he realizes the chain of circumstances against him he has become much depressed. Attorney Dickinson, for Durant, remarked that he thought the defense would be able to put ia the balance of its testimony ina two days or less. Then the prosecution will put its witnesses in rebuttal. District At- torney Barnes says he will handle them rapidly, but Dickinson is preparing to cross question witnesses at length, and on that account it need create no surprise if another week is devoted to the work of taking testimony. Although Captain of Detectives Lees is busily engaged in the trial of Durant for the murder of Blanche Lamont, he is not overlooking the Minnie Williams case, but is still gathering evidence to be used when the trial of that case is begun. Many think that in the event the prisoner is convicted of the killing of Blanche La mont he will not be put on trial for the murder of Minnie Williams. Captair Lees and tho district attorney have mado up their minds, however, to press both cases. Just how soon the second trial will begin has not been determined, as a date for the hearing has not been set.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 3,
+      "bbox": {
+        "x0": 1358,
+        "y0": 6523,
+        "x1": 2354,
+        "y1": 7138
+      },
+      "class": "article",
+      "raw_text": "WILMINGToN, Del., Oct. 15.-United States Senator Gray and H. H. Ward, counsel for the Cuban patriots recently acquitted of a charge of aiding and set ting on foot a military expedition against Spain and in aid of Cuba, have made a formal demand upon Collector of Customs Townsend for the 2T cases of arms seized by United States Marshal Lannan The demand is made on behalf of the Salem and Philadelphia Navigation company, ina whose possession the goods were at the time of the seizure.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 4,
+      "bbox": {
+        "x0": 2338,
+        "y0": 1436,
+        "x1": 3349,
+        "y1": 7123
+      },
+      "class": "article",
+      "raw_text": "Informntion Received at Washington by Japanese Minister Regarding the Disap- pearance and Probable Death of the Queen-Korean Legation Think Her Dead. WAsHINGToN, Oct. 15.-Information of the formidable uprising in Korea, result ing in the disappearance and probable death of the queen and the landing of military forces by the United States and European powers has been received by Minister Kurino of Japan from the for eign office at Tokyo It is quite sensa- tional, indicating tho landing of marines by Russia, the United States and probably Great Britain. The latest dispatch to Minister Kurino states that a force of Russian marines, 40 in number, has been landed. Thus far they have confined themselves to guard ing the Russian legation at Seoul. United States marines were landed from the Yorktown to the number of 16. It is believed also that British marines have been landed. Besides rhese the Japanese have a considerable force of soldiers at Seoul, who have been preserving order. The dispatches cone from Tokyo and communicate the substance of dispatches received from General Muira, tho Japanese envoy at Seoul. They are dated from tho 9th to the 10th inst. It appears in these dispatches that the trouble had its incep- tion through the queen's dislike of the newly organized soldiers of Korea. The old soldiers had the primitive equipment of the far east, but with tho progress of Japanese influence in Korea two battal- ions of Korean troops were organized on modern methods. Each battalion num- bered 600 men, armed with modern weap- ons. They were well drilled and ofiicered. nv-s ywr2- m,-- o.N- A1.- When the queen showed her disfavor to ward these new troops, they appealed to the Tai Won Kun, a powerful chief, who has long been at enmity with the queen. He accepted the leadership of the new troops, and at the head of one battalion entered the queen's palace. The native soldiers fled from the palace. The Tokyo dispatches do not state specifically what became of the queen further than that she has disappeared and cannot be located. The officials are inclined to believe, how ever, that the unofficial reports of the queen's death are true. 2he Japanese government the dis patches further state, has acted quickly on the reports and has appointed a com mission to inquire into the facts. In tho meantime it is emphatically denied that the queen's death, if it has occurred, was l Japanese Soshi killed the queen. This is not yet confirmed in the dispatches re ceived here. The officials say that the Soshi are an irresponsible and lawIess class, and that their acts cannot be laid tc the Japanese people or government. General Muira's reports also cover tho work of Japanese troops in preserving or der. These troops were stationed opposite the palace, having secured this point o vantage some time since through the Ko rean government. They took no part ir the attack on the palace, but after it hat occurred, when the native troops wert fleeing and the new battalions were en forcing their success in capturing the pal ace, the Japanese troops aided in prevent ing bloodshed and disorder It is probabl that some deaths occurred during the me lee. Following this came the landing o United States and Russian marines, and as is believed, the landing of the British. Prince Pak LikeIy to Rule Korea. The latest indications are that the Ta Won Kun and the king are in control o affairs at the Korean capital. The kin has been the nominal ruler, but the queel has heretofore been recognized as the rea ruler. The influence of tho king and th Tai Won Kun are distinctly favorable t the Japanese. At the Korean legation no word ha been received from the disturbed capital The officials are much exercised and do no doubt that the queen has met her death although they are not ready to abando hope. In case official confirmation is ro ceived there will be such formal ceremon as is usual on the death of a sovereign The legation will go into mourning, bu there is not likely to be a funeral service although this has been considered as further mark of respect. Recent news from Korea makes Princ Pax, lately prime minister of that cour try, the central figure of interest in Wasl ington. He has been here for the last fev weeks and is impatiently awaiting an e1 pected summons from the members of th progressive party, of which he is the lea( er asking him to return and resume h mission of reforming the government. H is likely to be the future ruler of Korea. a Miss Flag1er's Case.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 5,
+      "bbox": {
+        "x0": 288,
+        "y0": 336,
+        "x1": 6387,
+        "y1": 1078
+      },
+      "class": "masthead",
+      "raw_text": "",
+      "legibility": "NA"
+    },
+    {
+      "id": 6,
+      "bbox": {
+        "x0": 2391,
+        "y0": 7114,
+        "x1": 3387,
+        "y1": 7676
+      },
+      "class": "article",
+      "raw_text": "WAsHINGToN, Oct. 15.-It was stated with a certain degree of confidence about the city hall that the grand jury, which has been investigating the case of Miss Elizabeth Flagler, charged with killing a young colored boy last August, had voted to return an indictment charging Miss Flagler with manslaughter. The district attorney stated that he was compelled to remain silent regarding this subject, and he declined to affirm or deny the state- ment circulated.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 7,
+      "bbox": {
+        "x0": 2391,
+        "y0": 7765,
+        "x1": 3387,
+        "y1": 8290
+      },
+      "class": "article",
+      "raw_text": "LONDON, Oct. 15.-The Kolnische Zei- tung published a dispatch from a corre- spondent in Constantinople asserting that information had been received there that the town of Zabara, Arabia, on the Per sian gulf, had been bombarded by two British warships and had been destroyed The English government has no news of any such bombardment, and officials be- lieve that it refers to the shelling of Arab dhows off the town of Bahreim recently.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 8,
+      "bbox": {
+        "x0": 348,
+        "y0": 8700,
+        "x1": 1337,
+        "y1": 9083
+      },
+      "class": "article",
+      "raw_text": "MELRosE, Mass, Oct. 15. Charles Hyatt, who disappeared lasb Thursday, was found dead ina the woods just outside this town He had been subject to epilep- sy, and it is supposed that while suffering from ono of these attacks hes wandered into the woods and died from exposure during the storm of Sunday.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 9,
+      "bbox": {
+        "x0": 1351,
+        "y0": 5835,
+        "x1": 2347,
+        "y1": 6427
+      },
+      "class": "article",
+      "raw_text": "ST. JoHNs, N. F., Oct. 15.-Much agi- tation prevails as to revenue returns and the colony's future. The prevalent feeling is that Newfoundland is almost certain to be financially embarrassed again on Dec. 31, when the half yearly interest is due. Two more smugglers have been convict ed and sentenced, and -four others turned informers and gave information disclosing full particulars of a gigantic conspiracy against the revenue laws, involving and inculpating hundreds of citizens.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 10,
+      "bbox": {
+        "x0": 2391,
+        "y0": 8379,
+        "x1": 3387,
+        "y1": 8746
+      },
+      "class": "article",
+      "raw_text": "RUTLAND, Vt, Oct. 15.-Edward Kemp ter shot Miss Johonnott of Burlington, and a moment later shot and killed him self. The first bullet shattered a krge button, then glanced off the steel in tho young woman's corset. She was stunned by the shock, but otherwise uninjured. eIealousY waS tha cansa",
+      "legibility": "Legible"
+    },
+    {
+      "id": 11,
+      "bbox": {
+        "x0": 1366,
+        "y0": 7870,
+        "x1": 2362,
+        "y1": 8342
+      },
+      "class": "article",
+      "raw_text": "ALBANY, Oot. 15.-Chairman Henry E. Abell of the legislative subcommittee which is investigating the static depart- ments says the investigation of the board of regents will be taken up and pushed to a conclusion as soon as possible. This in- vestigation has reached an important stage, and it is understood that new de- velopments will be brought out of a de- cidedlv interesting nature",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 12,
+      "bbox": {
+        "x0": 341,
+        "y0": 7750,
+        "x1": 1337,
+        "y1": 8170
+      },
+      "class": "article",
+      "raw_text": "CoRPUs CHRISTI, Tex, Oct. 15.-Mar- tin Julian wired the mayor of Hot Springs that he would not leave here with Fitz- simmons for that place until a sufficient gum of money was raised by the citizens of that place and deposited in some re- sponsible man's hands to defray all legal expenses that may arise by their going to ArkanSAS",
+      "legibility": "Legible"
+    },
+    {
+      "id": 13,
+      "bbox": {
+        "x0": 341,
+        "y0": 8266,
+        "x1": 1337,
+        "y1": 8596
+      },
+      "class": "article",
+      "raw_text": "SAN ANToNIo, Tex, Oct. 15-Corbett and party have left for Hot Springs. Be- fore leaving Corbett expressed himself as thoroughly disgusted with the prospects of having the fght. He said hes would not be surprised if hes and Fitzsimmons had bo fight in private.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 14,
+      "bbox": {
+        "x0": 1373,
+        "y0": 8431,
+        "x1": 2362,
+        "y1": 8754
+      },
+      "class": "article",
+      "raw_text": "ALBANY, Oct. 15.-The Tourist Cycle company of Syracuse has been incorpo- rated, with a capital stock of $100, 000. The directors are E C. Stearns, H. E. Maslin and Harry White of Syracuse and J. R. Tinkham and E F. Walton of New York",
+      "legibility": "Legible"
+    },
+    {
+      "id": 15,
+      "bbox": {
+        "x0": 4388,
+        "y0": 1369,
+        "x1": 5377,
+        "y1": 8245
+      },
+      "class": "article",
+      "raw_text": "x-A iessor John Cluney of this city. Th louse of Bucholn of Springfield ex .elled all its previous efforts in ti manner of fine decorations, and tii york of the Waterbury Decorating-C. was also satisfactory. The Parade. As early as l o'clock the differed odges were falling into their respectiv glaces, getting ready for the big parade ihe streets were thronged with people The sky, which in the morning promiseo 0etter things, was overcast, but th' spirits of the men were bright and moth ing short of a heavy downpour of rail could dampen their ardor. The wholt regular police force was pressed int service by Chief Egan and six super numerary ofiicers were also on duty The chief headed the parade with six teen officers, as follows: Officers Byrnes Ahern, Reid, William Brickel, Johi Brickel, Blakeley, Cahey, Healer Michael Sullivan, John Sullivan, Mo Nifs Hayes, Tehan, Noonan, Moore ano Smith. Sergeant Dodds acted as th. right guide of the platoon. After pass ing in review eight of the officers dropped out. Fromptly at :30 o'clock the ord.l was given and the line moved. The re viewing stand was on West Main street at the junction of West Main and Statt streets. The mayor, city and towr officials reviewed the line, which was a$ follows: Chief Marshal John B. Doherty. Chief of Staff H. B. Carter and the fol lowing members of the marshal's staff: Henry L. Wade, Jay H. Hart, Charles E. Turner, Clayton M. DeMott Charles Brewer, David C. Griggs, Major T. L. Axtelle, E. A. Pierpont, Augustin A. Crane. FIRST DIVISION ON NORTH WILLOW STREET, CONSISTING OF Platoon of police, Chief of Police Georg< M. Egan, commander. Chief Marshal and staff. Band. Marshal, Captain Charles E. Hall. Colonel W. F. Tracy and staff, P. M. Department of Connecticut. Connecticut Regir1ent, Patriachs Mili tant. Band. Brigadier General Frank M. Merrill ans staff, P. M., Department of Massachusetts. Colonel George H. Smith, field and staf Third Regiment, P. M., Depart ment of Massachusetts,. Third Regiment, Patriarchs Militant, De partment of Massachusetts. Invited guests in carriages. SECOND DIVISION ON SOUTH wILLo\\ STREET. Band. Marshal, Captain John P. Kellogg. Nosahogan Lodge, No 20. Waterbury Magnolia Lodge, Brooklyn, N. Y. Derby Lodges. Birmingham Lodges. Norwich Lodges. THIRD DIVISION ON HOLMES AvENUI Band. Marshal, Captain Frank K.W Woolwortl Townsend Lodge, No 89, Waterbury Conn. Band. Springfield Lodges of Springfield, Mag Danbury Lodges. FOURTH DIVISION ON STATE STREET. Band. Marshal, Sergeant-Major Edward Carter. New Haven Lodges, New Haven, Com Guilford Lodges, Guilford, Conn. FIFTH DIVISION ON CENTRAL AvENUl | Band. Marshal, Captain Ernest C. Colby. '. Hartford Lodges, Hartford, Conn. New Britain Lodges, New Britain, Com Bristol Lodges, Bristol, Conn. East Hartford Lodges, East Hartfort |. Conn. A South Manchester Lodges, South Mal . chester, Conn. SIXTH DIVISION ON PARK PLACE Band. Marshal, William J. Larkin. a Bridgeport Lodges, Bridgeport, Conn Stamford Lodges, Stamford, Conn. South Norwalk Lodges, South Norwall Conn. Seymour Lodges, Seymour Conn. Naugatuck Lodges, Naugatuek, Conn sEvENTH DIVISION ON PROSPECT STREE Band. t Marshal, Captain, James Geddes. Meriden Lodges, Meriden, Conn. South Meriden Lodges, South Meridel r Conn. wallingford Lodges, Wailingford, Com ' Middletown Lodges, Middletown, Com Cheshire Lodges, Cheshire, Conn. EIGHTH DIVISION ON NORTH MAIN STREE American Band, Torrington. Marshal, Lieutenant William M. Gillett Torrington Lodges, Torrington Com , Plainviile Lodges, Plainville, Conn. Thomaston Band. - Thomaston Lodges, Thomaston, Conn Band. . Winsted Lodges, Winsted, Conn. Band. Ansonia Lodges. s New Milford Lodges. ' It took half an hour for the line t ; pass a given point. Owing to the rail l which began to fall heavily before | o'clock, it was necessary to change tf : line of march. The march started at Wei ; Main in front of the reviewing stan b South Main, countermarched to cente ",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 16,
+      "bbox": {
+        "x0": 1381,
+        "y0": 8850,
+        "x1": 2362,
+        "y1": 9083
+      },
+      "class": "article",
+      "raw_text": "WILKEsBARRE, Pa., Oct. 15.-Edward J. Gibbons, a prominent politician and real estste owner was killed by a fall of a roof in the Mill Creek mine. He was em- ployed fnrnman.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 17,
+      "bbox": {
+        "x0": 2398,
+        "y0": 8842,
+        "x1": 3379,
+        "y1": 9083
+      },
+      "class": "article",
+      "raw_text": "MICHIGAN CITY, Ind., Oct 15.-NeAy convicts made a dash for liberty from the state prison here. One fell from the pris- on walls and broke his leg. The other men were captured by tho guards.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 18,
+      "bbox": {
+        "x0": 3371,
+        "y0": 1563,
+        "x1": 4374,
+        "y1": 8731
+      },
+      "class": "article",
+      "raw_text": " Beautiful Decorations, Excellent Musi. and a Big Parade-Dedication of th. New Building and Anniversary Bal This Evening. The Oddfellows of Waterbury were not very fortunate in their selection of dag for the observance of the fiftieth ami versary of the introduction of the order in this city, and the dedication of theil beautiful new home. Nature was un- kind and the weather was not all that could have been desired. The visitors came by every train and the committees were very early abroad providing for the comfort of their guests. It was an immense un- dertaking to provide for the thousands who visited the city, but every detail had been arranged to a nicety and the procedings were marked with the best of order. If any of our guests have been overlooked. slghted or treated ungraciously the fault was not of the heart, for Waterbury tried to outdo itself on this occasion, people of all classes co- o-operating with the committeer to make the affair a suc- cess. It is estimated that there are four thousand Oddfellows in the city and  in by train and trolley cars. The fact that it is a legal holiday, created by the late session of the general assembly in honor of the martyred president, Lin coln, added to the interest in the exer- cises and undoubtedly increased the crowds, it being an idle day in many places. The factories, schools and business houses are closed, and alto- gether it is the gaeatest celebration Wa- terbury has ever witnessed. Despite the immense crowds on the street good order was maintained. Tele- grams were received by the local author ities from Boston, New York, Springfield and Hartford that many pickpockets and sneak thieves had left for Waterbury. It was also said that the city was over- run with lewd women, but up to 3 o'clock no complaints had been made to the police. The center of attraction was the visit ing Rebekas, 400 in number. The Meriden members paraded behind the band from the depot. They held a meeting in the Scovill house late this afternoon. The Meriden encampment acted as escort to the grand patriarch. The Decorations. The decorations were the most general (ItX. I vate residences vied with business houses ina an effort to outdo each other, with the result that almost every building in the center and many on the outskirts, too were resplendent with flags, bunting and bannerettesof every description. The visiting Oddfellows must have been led to believe, when looking at the different buildings, that their brethren in Water. bury owned the town. And they were right, for the place was theirs for to. day. Some of the decorations were 2 little amusing and caused the unitiateC to believe that those hanging them out meant to give ofiense to the order, bu this was not the case, as those convey sant with the mysteries of the order car attest. At the residence of J. B Wells on Livery street, within easy view of the visitors as they proceeded from the New England depot, a banner wa hung out with the picture of a jackas painted among reading matter so that i read, \"Nosahogan's Jackass Welcome You\" An unique emblem was set ou at the rooms of the Wheel club on Nortl Main street, consisting of three bicycl tires arranged so as to give an excellen representation of the triple links. A huge banner marked \"Welcome,\" gus pended across the street from the Well ton fountain to Irving block, met th eve of all who could crowd themselve into Exchange place, and one of the sam design was stretched from from abov the entrance to the City hall to one O the elms in the green. The latte was handsomely decorated with th triple links with the letters AsF. L. T.' neatly arranged in ihe links. When al are in the superlative degree it is no necessary to particularize; but no on could help admiring the great effort which were made to add to the majesty splendor of the Apothecaries hall build ing and the Bohl block. The new Od Fellows hall, Irving block, Lilley block , G. A. R. hall, and in fact every busines block in the center was in holiday at tire and the owners and occupants seeme to take a pride in the great artisti triumphs. A noticeable feature of th , decorations was a fair sprinkling o green flags, which seemed to lend ad dition alarm to the other colors. The I were the object of much attention Th rooms of the Catholic Literary associa tion and St Joseph's T. A. society in th . Lilley block add the Elks room b were also splendidly decorate , and a reference to this fact brought thi i remark from Alderman Cross, chairma of the committee Of arrangements While l am much pleased with the e1 forts of all classes of citizens to assist u in extending a warm welcome to ou - visiting friends, still I am not much suI : prsed at it. Oddfellowship is an in t stitution of toleration, and organization t founded on this principle are sure t - merit the approval all true American , regardless of class or creed.\" The Watc . shop lot, where the guests were seate for dinner, was a rare sight and the eng - ployes of the factory did themselve ) proud as waiters. Attired in their beg costomes, with handsome white apron and natty headgear, no wonder th guests lingered about the tables as lon - as time would permit. The ivied wall of the factory presented an inviting as - pect. Over one of the windows i the third story the letter $ \"I. o. o. F.\" were artistically al i ranged. At the second story a bi . \"Welcome\" sign could be seen from a",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 19,
+      "bbox": {
+        "x0": 5443,
+        "y0": 8326,
+        "x1": 6439,
+        "y1": 9068
+      },
+      "class": "article",
+      "raw_text": "Belden Under the New Law. In addition to the list published inn yesterday's DEMOCRAT the following candidates for office at the recent elect tion have filed statements with the town clerk: Porter L. Wood: Malone & Co for 1,000 pasters, $1.50; C. & M. T. Maloney for 1,000 pasters, $1.50 postage and sta- tionary $3; total $6. the democratic town committee, $100. Henry F. Sanford; to republican town committee. $5.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 20,
+      "bbox": {
+        "x0": 5413,
+        "y0": 1331,
+        "x1": 6417,
+        "y1": 8222
+      },
+      "class": "article",
+      "raw_text": " enetian-Gothic style. The material oi he first two stories is Potsdam red sand tone. The upper stories are faced with id gold Pompeian brick trimmed with peckled terra cotta. The parlors are -andsomely furnished and it is the in- ention to have them open every day and vening for members. When finished de building will have cost over S100,000. nd it is an ornament to the city. The Local Lodges. Fifty years ago, on July l. 1S45, the irst lodge of Odd Fellows in Waterbury, vosahogan, was organized with thirteen nembers- The records show that for dng time it required the hardest kind of -ork to make the lodge self-sustaining. For ten years there was a gradual in- rease in membersnlp. but the Iollowing lecade was filled with trials. The mem- lership decreased annually until 1S65, vhen the tide turned and the member- hip continually increased. until to-day. 'ld Nosahogan, with a membership of ioo, is the banner lodge in Connecticut. fhe total number admitted to member- ship since the lodge was organized was ,09S. During the half century the total mount paid for relief was s40,624.69. Townsend lodge was organized on ianuary l, 1872, and has a membership of 357. 1t has distributed S12,630.50 for he relief of its members and their fam- lies. On September 20, 1858, Ansantawae -ncampment. No 20, was organized. It las a membership of three hundred. Kebekah lodge, l. O. O. F.. composed largely of the wives, daughters and sis- [ers of Oddfellows, was organized on lune 15, 1892, with sixty-one members. lt now has a membership of 128: forty line brothers and seventy-nine sisters. Canton T. R. Martin was organized as a uniformed branch of the oruer in this $ity on May 30, IS93. It had an original membership of twenty-six, which has been increased to over one hundred. Other additions to the local lodges were the Nosahogan Aid association, or- ranized on May 4, 1884, having a mem- bership at present of 240, and the Nosa- Iogan Piscatorial association, a body of good fellows, organized on August {l7, 1857. Much of the success of the days ex- srcises is due to the hard working conn., mittees. F. E. Cross was chairman of the committee of arrangement and F. W. Tate, secretary and treasurer, the other members being J. c. Moore, C. F. Trott, G. Fred Barnes, R. E. Colby, D. L. Dickinson, F. K. Woolworth, H. E. Iivingstone, A. H. Osborne and J. H. 2illing. The dedication ceremonies will take place this evening. There will be an ad- iress of welcome by Past Master George H. Cowell. The dedication ceremony prescribed on the Oddfellows' book of i ceremonies will be used. F. E. Cross, shairman of the building committee, or jeorge H. Cowel, chairman of the 0ddfellows building association, will -urn the building over to Grand Master Alling, who will make a short address. The festivities will conclude with a | grand ball in charge of the following committees: Arrangements: J. C. Moore, G. Fred | Barnes, c. H. Bronson, H. G. Filley, W. ;. Trott, Fred Davis, G. A. King, W. M. Gillette. Reception: C. H. Bronson, chair man; E. c. Lewis, L. I. Munson, Charles E. Hall, J. H. Hart, T. D. Barlow, John Blair, H. w. Lake. B. L. Coe, B. G. Bryan and G. E. Judd. Floor: G. A. King, floor director; G. Fred Barnes, J. P. Morgan, W. D. Up son, H. B. Carter, H. E. Livingstone, W. W. Sackett, c. G. Belden, C. G. Hampson, F. w. Elsdon, F. S. Booth. Grand Encampment Meeting. The session of the Grand Encamp. ment, I. o. o. F. of Connecticut, was held in the Masonic temple at Il o'clock Grand Patriarch William H. Tyler o1 Meriden reported the order in a fiour ishing condition. These officers were elected: Grand patriarch, Dumond P. Merwin, Milford; grand high priest George W. Camp, Bridgeport; grand secretary, Frederick Botsford, New Ha- ven; treasurer, J. W. Smith, Water bury; grand senior warden, Ar. sthur J. Wheeler, Norwalk; grand iunior warden. Frederick Barnes, Water bury; grand representative, William H Tyler, Meriden. These appointments were made by the grand patriarch grand marshal, George S. Draper, Nor wich; grand sentinel, H. E. Thatcher Hartford grand outside sentinel, Robert Sizer, New Haven. It was voted tc ]hold the next meeting on the third Tues jdav of October, 1896, at Meriden. The board of managers of the state Oddfel- Elows home met this afternoon in Judge CowelIs office. Last night Undertaker Martin Bergin sreceived a dispatch from Boston re euesting him not to inter the remains of George Longill, who died of injuries 2received in the wreck on the New Eng iland road Sunday night, and stating that friends would arrive here this afternoon. sThe dispatch was signed H. I. Longill. iThe dead man was well daessed and had the appearance of a person of more than ordinary rank. suspicious Characters Arrested. Detective Egan this afternoon arrested two men who were acting suspiciously on the street. They gave their names as Jack Mahon and Joe Lyons. There iis no special charge against them on the blotter. CANDIDATES EXPENSES.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 21,
+      "bbox": {
+        "x0": 5518,
+        "y0": 8139,
+        "x1": 6334,
+        "y1": 8237
+      },
+      "class": "headline",
+      "raw_text": "CANDIDATES EXPENSES.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 22,
+      "bbox": {
+        "x0": 1358,
+        "y0": 5640,
+        "x1": 2339,
+        "y1": 5724
+      },
+      "class": "headline",
+      "raw_text": "NEWFOUNDLAND TROUBLES",
+      "legibility": "Legible"
+    },
+    {
+      "id": 23,
+      "bbox": {
+        "x0": 1396,
+        "y0": 4114,
+        "x1": 2265,
+        "y1": 4190
+      },
+      "class": "headline",
+      "raw_text": "WEDDED TWo WoMEN.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 24,
+      "bbox": {
+        "x0": 1560,
+        "y0": 7174,
+        "x1": 2175,
+        "y1": 7227
+      },
+      "class": "headline",
+      "raw_text": "Shot Througn the Heart.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 25,
+      "bbox": {
+        "x0": 513,
+        "y0": 8633,
+        "x1": 1180,
+        "y1": 8686
+      },
+      "class": "headline",
+      "raw_text": "Found Dead In the Woods.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 26,
+      "bbox": {
+        "x0": 588,
+        "y0": 8199,
+        "x1": 1105,
+        "y1": 8252
+      },
+      "class": "headline",
+      "raw_text": "Corbett IsDisgusted",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 27,
+      "bbox": {
+        "x0": 2615,
+        "y0": 8319,
+        "x1": 3177,
+        "y1": 8365
+      },
+      "class": "headline",
+      "raw_text": "Corset Saved Her Life.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 28,
+      "bbox": {
+        "x0": 2638,
+        "y0": 7054,
+        "x1": 3132,
+        "y1": 7100
+      },
+      "class": "headline",
+      "raw_text": "Miss Flagler,s Case.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 29,
+      "bbox": {
+        "x0": 3363,
+        "y0": 1286,
+        "x1": 4322,
+        "y1": 1452
+      },
+      "class": "headline",
+      "raw_text": "GREAT DEMONSTRATION BY THE 0D FELLOWS OF WATERBURY.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 30,
+      "bbox": {
+        "x0": 1403,
+        "y0": 1122,
+        "x1": 2197,
+        "y1": 1212
+      },
+      "class": "headline",
+      "raw_text": "DURANT TRIAL DELAYED.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 31,
+      "bbox": {
+        "x0": 1418,
+        "y0": 6463,
+        "x1": 2294,
+        "y1": 6517
+      },
+      "class": "headline",
+      "raw_text": "Demand the Return of Seized Arms.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 32,
+      "bbox": {
+        "x0": 311,
+        "y0": 5199,
+        "x1": 1322,
+        "y1": 7654
+      },
+      "class": "article",
+      "raw_text": "HOT SPRINGs, Ark, Oct. 15.-The law will soon be appealed to to decide whether scientific contest between skilled boxers with soft gloves will be a violation of its provisions in the state of Arkansas. Manager Vendig said: \"We have not come to Arkansas and tho city of Hot Springs with any purpose to violate its Eaws. If Mr. Corbett and Mr. Fitzsim- mons cannot come to this city and give such an exhibition as is provided for in pur article of agreement as they now stand-a limited number of rounds with soft gloves, the authorized officers being empowered to stop the exhibition if it be- comes brutal-then the exhibition will surely not take place in Hot Springs. Tho best authority at our service says that bhis will be no violation of the laws of the state, but to make ourselves absolutely safe the citizens' committee has engaged the best representatives of the legal pro- fession in Arkansas, and they are looking diligently into the matter at this time We shall have a decision from them by to- morrow, and upon their advice we shall hct. The matter will be brought into the courts as soon as we can get it there. If we cannot have the fight here, we have an absolute guarantee of protection from three different places in Mexico-one of them just across the Rio Grande from El Paso. Until we know just where we stand legally in this matter here we shall do nothing\" The ministers called a meeting at the Central Methodist church, and quite a crowd gathered. William A. Brady, Cor bett's manager, was present and asked if representative of Mr. Corbett might be permitted to have a few words. There were few subdued expressions of dissent, but calls to \"Speakl Speak\" began to ill the room, and Mr. Brady was permit ted to talk. Mr Brady's talk captured the house, and when he fnished such an acclamation of cheers and handclappins went up as was never before seen or heard in that sacred edifice. The church people were completely nonplused, and in a few minutes more the house was practically empty.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 33,
+      "bbox": {
+        "x0": 1658,
+        "y0": 8790,
+        "x1": 2092,
+        "y1": 8836
+      },
+      "class": "headline",
+      "raw_text": "xilled by n Fall.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 34,
+      "bbox": {
+        "x0": 1441,
+        "y0": 8371,
+        "x1": 2294,
+        "y1": 8417
+      },
+      "class": "headline",
+      "raw_text": "Tourist Cycle Company Chartered.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 35,
+      "bbox": {
+        "x0": 2466,
+        "y0": 7705,
+        "x1": 3319,
+        "y1": 7759
+      },
+      "class": "headline",
+      "raw_text": "Reported Bombardment of zabara.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 36,
+      "bbox": {
+        "x0": 2331,
+        "y0": 1129,
+        "x1": 3327,
+        "y1": 1257
+      },
+      "class": "headline",
+      "raw_text": "THE HEUPSPRlNGNK0REA.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 37,
+      "bbox": {
+        "x0": 281,
+        "y0": 1578,
+        "x1": 1299,
+        "y1": 5118
+      },
+      "class": "article",
+      "raw_text": " Mexico Is Now Spoken of the Pro. spective BattIeground. LITTLE RoCK, Oct. 15.-Governor Clark furnished fresh evidence of his determine tion to prevent the Corbett- Fitzsimmons fight at Hot Springs or in Arkansas. telegram was sent by the governor to Brigadier General John A. Taylor of For rest City of the Arkansas state guard summoning him to a conference at once. The meaning of the conference is that the governor desires to acquaint himself with the available strength of the state militia, so that he may act knowingly if the situa- tion at Hot Springs reaches a crisis where the services of the militia may be re- quired. General Taylor is expected to arrive to- day and consult with the governor. According to the offers contained in telegrams and letters received at the ex- ecutive office, Governor Clark estimates that the services of 10, 000 men are at his nisposal for the purpose of putting down the fight if needed. These offers come from all parts of the state. Clark Deternincd to Prevent the Fight. A vigorous determination to prevent the ight is plainly discernable in the sig nifcant proceedings at the executive office.  ic than ever in saying that the fight would not be allowed to come off in Arkansas. He goes so far as to say that if the affair bcours as advertised at Hot Springs he would resign and try to find an oIiice that he could run. The governor says Corbet5 and Fitzsimmons have been warned, and tf they now arrive at Hot Springs bent on the mission of fighting their presence in the city or county will be considered an overt act and will be treated accordingly. The governor says he will do everything within the scope of his power to prevent the big mill. He says that he realizes that Hot Springs is anxious to retrieve its past misfortunes, and he would like to help the city, but in this instance his duty is blain, and he will use his utmost dili- pence and power to do what it is his duty Eo do. He would not like to put the state to the expense of sending several comps nies of the state militia to Hot Springs, and he hopes the principals and their backers in the proposed fghts together with all parties concerned or interested. will not impose the necessity of ordering the militia to tho scene inn order to stop the fight Concluding his interview, Gov ernor Clark said he did not want to see nny blood shed as a result of the pugilists refusal to refrain from making prepara- tions to fight He sincerely hoped that 1t would be avoided \"I ann neither seeking nor slighting any besponsibility in this matter,\" he contin- hed, \"and will do my duty.\" When questioned in reference to the proposition to change the affair into a glove context, Governor Clark said that he could make no distinction between a glove contest and a prize fght. It was e prize fight no matter what it was called.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 38,
+      "bbox": {
+        "x0": 1523,
+        "y0": 7802,
+        "x1": 2197,
+        "y1": 7856
+      },
+      "class": "headline",
+      "raw_text": "The Regents, 1nyestiration.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 39,
+      "bbox": {
+        "x0": 1313,
+        "y0": 1241,
+        "x1": 2302,
+        "y1": 1355
+      },
+      "class": "headline",
+      "raw_text": "Tho Prisoner Much Depressed Over the Evidence Against Him.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 40,
+      "bbox": {
+        "x0": 528,
+        "y0": 7683,
+        "x1": 1142,
+        "y1": 7736
+      },
+      "class": "headline",
+      "raw_text": "Fitzsimmons Is Cantions.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 41,
+      "bbox": {
+        "x0": 2338,
+        "y0": 1421,
+        "x1": 3342,
+        "y1": 1654
+      },
+      "class": "headline",
+      "raw_text": "Informntion Received at washington by Japanese Minister Regarding the Disap- pearance and Probable Death of the Queen-Korean Legation Think Her Dead.",
+      "legibility": "Questionable"
+    },
+    {
+      "id": 42,
+      "bbox": {
+        "x0": 3401,
+        "y0": 1122,
+        "x1": 4284,
+        "y1": 1257
+      },
+      "class": "headline",
+      "raw_text": "AFTER FIFTY YEARS.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 43,
+      "bbox": {
+        "x0": 2563,
+        "y0": 8782,
+        "x1": 3230,
+        "y1": 8828
+      },
+      "class": "headline",
+      "raw_text": "Unsuccessful Jail Breaking.",
+      "legibility": "Illegible"
+    },
+    {
+      "id": 44,
+      "bbox": {
+        "x0": 281,
+        "y0": 1301,
+        "x1": 1277,
+        "y1": 1437
+      },
+      "class": "headline",
+      "raw_text": "WILL BE SUMMONED, lF NEEDED, TO STOP THE FIGHT.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 45,
+      "bbox": {
+        "x0": 1343,
+        "y0": 5745,
+        "x1": 2339,
+        "y1": 5851
+      },
+      "class": "headline",
+      "raw_text": "It's Treasury Is Empty and Gigantic Rsv- enue Frauds Discovered.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 46,
+      "bbox": {
+        "x0": 2331,
+        "y0": 1279,
+        "x1": 3327,
+        "y1": 1407
+      },
+      "class": "headline",
+      "raw_text": "SERIOUS TROUBLE lN THE HERMIT KINGDOM.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 47,
+      "bbox": {
+        "x0": 296,
+        "y0": 1137,
+        "x1": 1255,
+        "y1": 1265
+      },
+      "class": "headline",
+      "raw_text": "MILITIA INREADlNESS.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 48,
+      "bbox": {
+        "x0": 476,
+        "y0": 5147,
+        "x1": 1150,
+        "y1": 5192
+      },
+      "class": "headline",
+      "raw_text": "vendig Unburdens Himself.",
+      "legibility": "Legible"
+    },
+    {
+      "id": 49,
+      "bbox": {
+        "x0": 288,
+        "y0": 1473,
+        "x1": 1284,
+        "y1": 1714
+      },
+      "class": "headline",
+      "raw_text": "rhe Governor Will Prevont the Corbett- Fitzsinnmons Encounter nt All Hnzards. Mexico Is Now Spoken of as the Pro. spective BattIesround.",
+      "legibility": "Questionable"
+    }
+  ]
+}
